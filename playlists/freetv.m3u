@@ -1,0 +1,171 @@
+#EXTM3U
+#EXTINF:-1,TickerNews (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernews-freetv/playlist.m3u8
+#EXTINF:-1,Newsnet
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01756-newsnet-newsnet-freetv/playlist.m3u8
+#EXTINF:-1,Young Hollywood (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00143-younghollywood-younghollywood-freetv/playlist.m3u8
+#EXTINF:-1,Carol Burnett
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-carolburnett-freetv/playlist.m3u8
+#EXTINF:-1,Johnny Carson
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-johnnycarson-freetv/playlist.m3u8
+#EXTINF:-1,Mst3k
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-mst3k-freetv/playlist.m3u8
+#EXTINF:-1,Shout TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-shoutfactorytv-freetv/playlist.m3u8
+#EXTINF:-1,Sportsgrid (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00315-sportsgrid-sportsgrid-freetv/playlist.m3u8
+#EXTINF:-1,Sportsnews Highlights
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01756-newsnet-sportsnewshignlights-freetv/playlist.m3u8
+#EXTINF:-1,XFC TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3972
+#EXTINF:-1,Fight Network
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-fightnwk-frtv-freetv/playlist.m3u8
+#EXTINF:-1,Impact Wrestling
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-impactres-frtv-freetv/playlist.m3u8
+#EXTINF:-1,Awe Plus (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00450-herringnetwork-awe-freetv-freetv/playlist.m3u8
+#EXTINF:-1,OAN Plus (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00450-herringnetwork-oan-freetv-freetv/playlist.m3u8
+#EXTINF:-1,Destination Action
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-engtopcineeng-freetv/playlist.m3u8
+#EXTINF:-1,Drama Vault
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-engflameandfire-freetv/playlist.m3u8
+#EXTINF:-1,FlixFling Now
+https://d12yathgm1h4sj.cloudfront.net/playlist/amg00698-AMG00698C1-271/playlist.m3u8
+#EXTINF:-1,Lonestar
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-thelonestarchanel-freetv/playlist.m3u8
+#EXTINF:-1,The Film Detective
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetectivee-freetv/playlist.m3u8
+#EXTINF:-1,Popcorn Flix (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-popcornflixfrtv-freetv/playlist.m3u8
+#EXTINF:-1,Mytime Movies UK (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimemovieuk-freetv/playlist.m3u8
+#EXTINF:-1,Nosey (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00514-noseybaxterllc-nosey-freetv/playlist.m3u8
+#EXTINF:-1,Judge Nosey (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00514-noseybaxterllc-realnosey-freetv/playlist.m3u8
+#EXTINF:-1,Crimetime
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-engcrimetime-freetv/playlist.m3u8
+#EXTINF:-1,Chicken Soup for the Soul (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-chickensoupfrtv-freetv/playlist.m3u8
+#EXTINF:-1,Crackle Classics (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-ckclassics-frtv-freetv/playlist.m3u8
+#EXTINF:-1,Crackle (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-crackle-freetv-freetv/playlist.m3u8
+#EXTINF:-1,Family Tree
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-engfamilytree-freetv/playlist.m3u8
+#EXTINF:-1,Dove Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-dovechanel-freetv/playlist.m3u8
+#EXTINF:-1,Da Vinci (Geo)
+https://amg00406-tinizine-amg00406c1-freetv-us-434.playouts.now.amagi.tv/playlist/amg00406-tinizinelimited-davincius-freetvus/playlist.m3u8
+#EXTINF:-1,5 Minute Crafts (Geo)
+https://amg02051-soulpublishing-amg02051c7-freetv-us-303.playouts.now.amagi.tv/playlist/amg02051-amg02051c7-303/playlist.m3u8
+#EXTINF:-1,Teen Vee (Geo)
+https://amg02051-soulpublishing-amg02051c5-freetv-us-362.playouts.now.amagi.tv/playlist/amg02051-admecyltd-teenveeenglish-freetvus/playlist.m3u8
+#EXTINF:-1,Slick Slime Sam (Geo)
+https://amg02051-soulpublishing-amg02051c12-freetv-us-365.playouts.now.amagi.tv/playlist/amg02051-admecyltd-slickslimesamenglish-freetvus/playlist.m3u8
+#EXTINF:-1,Watch it .Kid
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3970
+#EXTINF:-1,Adventures of Sonic the Hedgehog Channel
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3968
+#EXTINF:-1,ESTV (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00303-televisionkorea-estv-freetv-freetv/playlist.m3u8
+#EXTINF:-1,123 GO! (Geo)
+https://amg02051-soulpublishing-amg02051c17-freetv-us-358.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123goenglish-freetvus/playlist.m3u8
+#EXTINF:-1,Brightside (Geo)
+https://amg02051-soulpublishing-amg02051c9-freetv-us-345.playouts.now.amagi.tv/playlist/amg02051-admecyltd-brightsideenglish-freetvus/playlist.m3u8
+#EXTINF:-1,La La Life (Geo)
+https://amg02051-soulpublishing-amg02051c8-freetv-us-363.playouts.now.amagi.tv/playlist/amg02051-admecyltd-lalalifeenglish-freetvus/playlist.m3u8
+#EXTINF:-1,AXSTV Now
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-axstvnow-frtv-freetv/playlist.m3u8
+#EXTINF:-1,Homeful U.S (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-homefulusa-freetv/playlist.m3u8
+#EXTINF:-1,Beond TV
+https://d3ecnelhfrie8y.cloudfront.net/playlist/amg01681-amg01681c1-277/playlist.m3u8
+#EXTINF:-1,Docurama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-docrumaa-freetv/playlist.m3u8
+#EXTINF:-1,Cine Pride
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3954
+#EXTINF:-1,Brat TV (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00350-bratstudio-brattv-frtv-freetv/playlist.m3u8
+#EXTINF:-1,Lovenature (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-lovenature-freetv/playlist.m3u8
+#EXTINF:-1,Haunt TV (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-haunttv-freetv/playlist.m3u8
+#EXTINF:-1,Fright Flix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3964
+#EXTINF:-1,Watch It Scream
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3971
+#EXTINF:-1,Screambox TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bloodydisgusting-freetv/playlist.m3u8
+#EXTINF:-1,Horrorfy
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-enghorrorfy-freetv/playlist.m3u8
+#EXTINF:-1,Dungeon
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3958
+#EXTINF:-1,Mystify
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-engmystify-freetv/playlist.m3u8
+#EXTINF:-1,Totalcrime (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-totalcrime-freetv/playlist.m3u8
+#EXTINF:-1,Gusto (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gusto-freetv/playlist.m3u8
+#EXTINF:-1,The Meateater
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01786-themeateater-meateater-freetv/playlist.m3u8
+#EXTINF:-1,Trace Urban
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurban-freetv/playlist.m3u8
+#EXTINF:-1,Trace Sports Stars
+https://tracesportstars-freetv.amagi.tv/hls/amagi_hls_data_tracetvAA-trace-sportstars-freetv/CDN/playlist.m3u8
+#EXTINF:-1,Indistry
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3967
+#EXTINF:-1,Entrepreneur TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3963
+#EXTINF:-1,The Palm Beaches TV
+https://live.feed.thepalmbeaches.tv/index.m3u8
+#EXTINF:-1,QVC
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1usott/master.m3u8
+#EXTINF:-1,HSN
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1usott/master.m3u8
+#EXTINF:-1,Hororfy Spanish
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8
+#EXTINF:-1,TU Cine
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineusfreetv-ono/playlist.m3u8
+#EXTINF:-1,Top Cine
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinefreetv-ono/playlist.m3u8
+#EXTINF:-1,Juntos
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8
+#EXTINF:-1,Flash
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8
+#EXTINF:-1,Saber Mas
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8
+#EXTINF:-1,MMC
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8
+#EXTINF:-1,Cine Sureno
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8
+#EXTINF:-1,Cine Real
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinerealfreetv-ono/playlist.m3u8
+#EXTINF:-1,Canela.TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatv-freetv/playlist.m3u8
+#EXTINF:-1,Chiquilines
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
+#EXTINF:-1,Canelas Telenovelas
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatelenovelas-freetv/playlist.m3u8
+#EXTINF:-1,Canela Deportes
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-caneladeportes-freetv/playlist.m3u8
+#EXTINF:-1,Canela Clasicos
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelaclasicos-freetv/playlist.m3u8
+#EXTINF:-1,Canela Cinema
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-freetv/playlist.m3u8
+#EXTINF:-1,Zas
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3973
+#EXTINF:-1,El Conflicto Spanish
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3961
+#EXTINF:-1,Mytime Movies U.S Spanish (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeussp-freetv/playlist.m3u8
+#EXTINF:-1,Lovenature Spain (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-lovenaturespn-freetv/playlist.m3u8
+#EXTINF:-1,Lovenatureus Spanish (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-lovenatureusspa-freetv/playlist.m3u8
+#EXTINF:-1,Ideas En 5 Minutos (Geo)
+https://amg02051-soulpublishing-amg02051c3-freetv-us-364.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-freetvus/playlist.m3u8
+#EXTINF:-1,Genial (Geo)
+https://amg02051-soulpublishing-amg02051c16-freetv-us-361.playouts.now.amagi.tv/playlist/amg02051-admecyltd-brightsidespanish-freetvus/playlist.m3u8

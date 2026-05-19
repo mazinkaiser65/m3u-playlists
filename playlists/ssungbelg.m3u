@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,Bloomberg TV (Belgium) 
+https://bloomberg-bloomberg-1-be.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Bloomberg Quicktake (Belgium) 
+https://bloomberg-quicktake-1-be.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Euronews (Belgium)
+https://rakuten-euronews-2-be.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Euronews alt url (Belgium)
+https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,AfricaNews
+https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,AVF Family (Belgium)
+https://futuretoday-afv-family-1-be.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,AVF Family alt url (Belgium)
+https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Documentaries (Belgium)
+https://rakuten-documentaries-16-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Family (Belgium)
+https://rakuten-family-16-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,MavTV Global (Belgium)
+https://mavtv-mavtvglobal-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Duck TV (Belgium)
+https://mmm-ducktv-4-be.samsung.wurl.tv/playlist.m3u8
