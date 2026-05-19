@@ -65,7 +65,7 @@ https://jmp2.uk/plu-5e82530945600e0007ca076c.m3u8
 https://jmp2.uk/plu-69eaa34817801c84fca05d94.m3u8
 #EXTINF:-1 channel-id="691cf0410a78a9ce61ad2121-us" tvg-id="691cf0410a78a9ce61ad2121" tvg-chno="385" tvg-name="America's Funniest Home Videos" tvg-logo="https://images.pluto.tv/channels/691cf0410a78a9ce61ad2121/colorLogoPNG_1767642885256.png" group-title="United States",America's Funniest Home Videos
 https://jmp2.uk/plu-691cf0410a78a9ce61ad2121.m3u8
-#EXTINF:-1 channel-id="690dc8ed1ee9b6ac66607ce2-gb" tvg-id="690dc8ed1ee9b6ac66607ce2" tvg-chno="462" tvg-name="America's Funniest Home Videos" tvg-logo="https://images.pluto.tv/channels/690dc8ed1ee9b6ac66607ce2/colorLogoPNG_1767781622486.png" group-title="United Kingdom",America's Funniest Home Videos
+#EXTINF:-1 channel-id="690dc8ed1ee9b6ac66607ce2-gb" tvg-id="690dc8ed1ee9b6ac66607ce2" tvg-chno="461" tvg-name="America's Funniest Home Videos" tvg-logo="https://images.pluto.tv/channels/690dc8ed1ee9b6ac66607ce2/colorLogoPNG_1767781622486.png" group-title="United Kingdom",America's Funniest Home Videos
 https://jmp2.uk/plu-690dc8ed1ee9b6ac66607ce2.m3u8
 #EXTINF:-1 channel-id="69172f1699758a0f03459c5b-ca" tvg-id="69172f1699758a0f03459c5b" tvg-chno="145" tvg-name="America's Funniest Home Videos" tvg-logo="https://images.pluto.tv/channels/69172f1699758a0f03459c5b/colorLogoPNG_1767729487919.png" group-title="Canada",America's Funniest Home Videos
 https://jmp2.uk/plu-69172f1699758a0f03459c5b.m3u8
@@ -2407,6 +2407,8 @@ https://jmp2.uk/plu-5f9992c685a2a80007fa414a.m3u8
 https://jmp2.uk/plu-5f9992c685a2a80007fa414a.m3u8
 #EXTINF:-1 channel-id="68f0fa98fae18f8db62a920a-dk" tvg-id="68f0fa98fae18f8db62a920a" tvg-chno="309" tvg-name="Dollars" tvg-logo="https://images.pluto.tv/channels/68f0fa98fae18f8db62a920a/colorLogoPNG_1762758066320.png" group-title="Denmark",Dollars
 https://jmp2.uk/plu-68f0fa98fae18f8db62a920a.m3u8
+#EXTINF:-1 channel-id="69f9c50202b6c1c00a213519-es" tvg-id="69f9c50202b6c1c00a213519" tvg-chno="555" tvg-name="Dominance FC TV" tvg-logo="https://images.pluto.tv/channels/69f9c50202b6c1c00a213519/colorLogoPNG_1777976664055.png" group-title="Spain",Dominance FC TV
+https://jmp2.uk/plu-69f9c50202b6c1c00a213519.m3u8
 #EXTINF:-1 channel-id="685aaec481c345899e4458bb-de" tvg-id="685aaec481c345899e4458bb" tvg-chno="98" tvg-name="Dominance FC TV" tvg-logo="https://images.pluto.tv/channels/685aaec481c345899e4458bb/colorLogoPNG_1750773594287.png" group-title="Germany",Dominance FC TV
 https://jmp2.uk/plu-685aaec481c345899e4458bb.m3u8
 #EXTINF:-1 channel-id="67a23b899a300a00086f3371-no" tvg-id="67a23b899a300a00086f3371" tvg-chno="158" tvg-name="Dominance FC TV" tvg-logo="https://images.pluto.tv/channels/67a23b899a300a00086f3371/colorLogoPNG_1750773360727.png" group-title="Norway",Dominance FC TV
