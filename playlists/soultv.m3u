@@ -1,0 +1,313 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="THELEDM" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Capa_1_wNWrh0t.png" group-title="SoulTV.com.br",THELED M
+https://cdn-ssai-dev.smartbit.co/sp/theledmooca/index.m3u8
+#EXTINF:-1 tvg-id="THELEDP" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Capa_1_XwogSvM.png" group-title="SoulTV.com.br",THELED P
+https://cdn-ssai-dev.smartbit.co/sp/theledpinheiro/index.m3u8
+#EXTINF:-1 tvg-id="THELEDE" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Capa_1.png" group-title="SoulTV.com.br",THELED E
+https://cdn-ssai-dev.smartbit.co/sp/theledextrema/index.m3u8
+#EXTINF:-1 tvg-id="TVMeio" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/SOULTV-100x100px-.png" group-title="SoulTV.com.br",TV Meio
+https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/redemeio/index.m3u8
+#EXTINF:-1 tvg-id="ISTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/logo_istv_png.png" group-title="SoulTV.com.br",ISTV
+https://cdn-tiva-video10-logicahost-com-br.smartbit.co/redeistv/redeistv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVJudaica" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/TV_Judaica_100x100.png" group-title="SoulTV.com.br",TV Judaica
+https://br5093.streamingdevideo.com.br/tvjudaica/tvjudaica/playlist.m3u8
+#EXTINF:-1 tvg-id="BittTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_NEGRO_DE_BITT_TV_100x100.png" group-title="SoulTV.com.br",Bitt TV
+https://srt.logicahost.com.br/memfs/f3d27992-7c26-4e18-bd88-e35ce3850065_output_0.m3u8
+#EXTINF:-1 tvg-id="TVMarataizes" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/logotipo__1.png" group-title="SoulTV.com.br",TV Marataizes
+https://247788.global.ssl.fastly.net/68ad1a7c724a6928f050ebba/live_809e4d1087af11f092f8f727f1f0bfd4/index.m3u8
+#EXTINF:-1 tvg-id="AlphaChannelTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_100x100px_-_branco.png..png" group-title="SoulTV.com.br",Alpha Channel TV
+https://maystreaming.cloudecast.com/alphachannel/index.m3u8
+#EXTINF:-1 tvg-id="TVIN" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGOTIPO-TVIN-100X100_copiar.png" group-title="SoulTV.com.br",TV IN
+https://live.tvinterior.com.br/hls/stream.m3u8
+#EXTINF:-1 tvg-id="BHChannel" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_NLLcngR.png" group-title="SoulTV.com.br",BH Channel
+https://cdn-tiva-stmv8-samcast-com-br.smartbit.co/jcbrasil7363/jcbrasil7363/playlist.m3u8
+#EXTINF:-1 tvg-id="AcessoBrasilTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/100x100_ecommerce_Acesso_Brasil_TV.png" group-title="SoulTV.com.br",Acesso Brasil TV
+https://s1.tvr.ovh/acessobrasiltv/acessobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-id="GLNTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_PNG_DIMENS%C3%A2O_100X100_-_GLN_TV_reduz_zKzqMEP.png" group-title="SoulTV.com.br",GLN TV
+https://cdn-tiva-stmv8-samcast-com-br.smartbit.co/glnfilmes/glnfilmes/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSonata" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/logo-tvsonata.png" group-title="SoulTV.com.br",TV Sonata
+https://cdn-tiva-video04-logicahost-com-br.smartbit.co/isonata/isonata/playlist.m3u8
+#EXTINF:-1 tvg-id="AWTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_AWTV_SOULTV_AMARELO_reduz.png" group-title="SoulTV.com.br",AWTV
+https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="UniqueTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/UNIQUE100X100_1.png" group-title="SoulTV.com.br",Unique TV
+https://pop.uniquetv.com.br/uniquetv/video.m3u8
+#EXTINF:-1 tvg-id="AGTv" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_YOUTUBE_100100px_ZfxeqjJ.png" group-title="SoulTV.com.br",AG Tv
+https://video01.brascast.com/grezzana1839/grezzana1839/playlist.m3u8
+#EXTINF:-1 tvg-id="KidsMais" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/unnamed.png" group-title="SoulTV.com.br",Kids Mais
+https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8
+#EXTINF:-1 tvg-id="TvGrandeNatalHDTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/logo-tvgrande_oWDAuUv_6EznC9m.jpg" group-title="SoulTV.com.br",Tv Grande Natal HDTV
+https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8
+#EXTINF:-1 tvg-id="TvMetropolitanaRio" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/CAPA-nova_reduz.png" group-title="SoulTV.com.br",Tv Metropolitana Rio
+https://cdn-tiva-stmv5-samcast-com-br.smartbit.co/claudio8701/claudio8701/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeMetrópole" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/logo-metropole.png" group-title="SoulTV.com.br",Rede Metrópole
+https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/metropole/index.m3u8
+#EXTINF:-1 tvg-id="TvEstilo" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_TV_Estilo_png.png" group-title="SoulTV.com.br",Tv Estilo
+https://cdn-tiva-stmv8-samcast-com-br.smartbit.co/tvestilo/tvestilo/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSurubim" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_Tv_Surubim.png" group-title="SoulTV.com.br",TV Surubim
+https://video01.brascast.com/antonio9510/antonio9510/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeQDM" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_QDM_reduzido.png" group-title="SoulTV.com.br",Rede QDM
+https://stmv1.transmissaodigital.com/redeqdm/redeqdm/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMAX" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/tvmax-logo.png" group-title="SoulTV.com.br",TV MAX
+https://cdn-tiva-video09-logicahost-com-br.smartbit.co/tvmax/tvmax/playlist.m3u8
+#EXTINF:-1 tvg-id="AssiméPortugal" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/tvportugal-logo.png" group-title="SoulTV.com.br",Assim é Portugal
+https://cdn-tiva-video04-logicahost-com-br.smartbit.co/assimeportugal/assimeportugal/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCorreiodoImbé" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/tvc-correiodoimbe_100x100.png" group-title="SoulTV.com.br",TV Correio do Imbé
+https://cdn-tiva-srv6-zcast-com-br.smartbit.co/tvcorreio/tvcorreio/playlist.m3u8
+#EXTINF:-1 tvg-id="COMBRASIL" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/logo_COM_BRASIL_fundo_branco_baixa.png" group-title="SoulTV.com.br",COM BRASIL
+https://br5093.streamingdevideo.com.br:8081/abc/abc/playlist.m3u8
+#EXTINF:-1 tvg-id="RedePremiumTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logotipo_-_Rede_Premium_TV_-_Colorido_medio.png" group-title="SoulTV.com.br",Rede Premium TV
+https://cdn-tiva-stmv2-samcast-com-br.smartbit.co/leonardo9878/leonardo9878/playlist.m3u8
+#EXTINF:-1 tvg-id="WTJTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO-NOVA-GRAFITE-_-R-PARA-A-SOUL-TV-.png" group-title="SoulTV.com.br",WTJ TV
+https://cdn-tiva-video02-logicahost-com-br.smartbit.co/wtjtvminas/wtjtvminas/playlist.m3u8
+#EXTINF:-1 tvg-id="BlitsTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/blitstv_logo_reduzido.png" group-title="SoulTV.com.br",Blits TV
+https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
+#EXTINF:-1 tvg-id="D+TV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_DEMAIS_TV_100X100.png" group-title="SoulTV.com.br",D+ TV
+https://cdn-tiva-stmv1-samcast-com-br.smartbit.co/demaistv6503/demaistv6503/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeUTVBrasil" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_UTV_baixa.png" group-title="SoulTV.com.br",Rede UTV Brasil
+https://utvsoultv.acessaradios.com.br/utvsoultv/utvsoultv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="QTalChannel" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/QTAL_channel_logo_REDUZIDO.png" group-title="SoulTV.com.br",Q Tal Channel
+https://stmv1.transmissaodigital.com/qtalchannel/qtalchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPlanaltoNorte" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/TVPLANALTO.png" group-title="SoulTV.com.br",TV Planalto Norte
+https://pop.uniquetv.com.br/tvplanaltonorte/video.m3u8
+#EXTINF:-1 tvg-id="TVAlternativa" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_TVA_100X100.png" group-title="SoulTV.com.br",TV Alternativa
+https://cdn-tiva-stmv5-samcast-com-br.smartbit.co/wagner7919/wagner7919/playlist.m3u8
+#EXTINF:-1 tvg-id="UniqueSports" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/UNIQUE_SPORTS_100X100.png" group-title="SoulTV.com.br",Unique Sports
+https://pop.uniquetv.com.br/uniquesports1/video.m3u8
+#EXTINF:-1 tvg-id="TVPetrópolis" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/TV_Petropolis_100.png" group-title="SoulTV.com.br",TV Petrópolis
+https://cdn-tiva-video02-logicahost-com-br.smartbit.co/tvpetropolis/tvpetropolis/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMonHD" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/S%C3%A9ries_Classic_70_Channel_Novo_logo_100x100.png" group-title="SoulTV.com.br",TV Mon HD
+https://cdn-tiva-video10-logicahost-com-br.smartbit.co/tvmon/tvmon/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCariocaNet" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/TV_CARIOCA_NET_SEM_FUNDO.png" group-title="SoulTV.com.br",TV Carioca Net
+https://cdn-tiva-video03-logicahost-com-br.smartbit.co/cariocainternacional1/cariocainternacional1/playlist.m3u8
+#EXTINF:-1 tvg-id="AmazonSat" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/amazonsat_100x100.png" group-title="SoulTV.com.br",Amazon Sat
+https://cdn-tiva-amazonsat-brasilstream-com-br.smartbit.co/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-id="PlayTVHorse" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/logo-100px-x-100px.png" group-title="SoulTV.com.br",Play TV Horse
+https://cdn-tiva-video04-logicahost-com-br.smartbit.co/playtvhorse/playtvhorse/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAFolha" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/logo-tvfolha_reduz.png" group-title="SoulTV.com.br",TV A Folha
+https://cdn-tiva-video01-logicahost-com-br.smartbit.co/tvafolha/tvafolha/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPotengi" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_3D_NOVA_TV_POTENGI.png" group-title="SoulTV.com.br",TV Potengi
+https://stmv1.samcast.com.br/jeova3318/jeova3318/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCNB" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/100x100_1ET0LFK.png" group-title="SoulTV.com.br",TV CNB
+https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/playlist.m3u8
+#EXTINF:-1 tvg-id="TvAdorar" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_Adorar_100x100.png" group-title="SoulTV.com.br",Tv Adorar
+https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/tvadorar/index.m3u8
+#EXTINF:-1 tvg-id="ABBARTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_ABBA_Rtv_pequeno.png" group-title="SoulTV.com.br",ABBA RTV
+https://video01.kshost.com.br/adilson8953/adilson8953/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeBrasil" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/rede_brasil_MARCA_100x100.png" group-title="SoulTV.com.br",Rede Brasil
+https://cdn-tiva-video09-logicahost-com-br.smartbit.co/redebrasiloficial/redebrasiloficial/playlist.m3u8
+#EXTINF:-1 tvg-id="SescTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo-100X100.png" group-title="SoulTV.com.br",SescTV
+https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTVlZGUxLWMyM2MtNzA3OC04ZjJhLTI1Zjk4MmE5ZmM5MS8iLCJ1aWQiOiIwMTk3YTg1Ni02NGEzLTczODMtYWFjNC04MWJkYzkyMWRhOWYiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc1MDg3NTkyMywiaWF0IjoxNzUwODc1OTIzLCJleHAiOjE3ODI0MTE5MjMsImp0aSI6IjAxOTdhODU2LTY0YTMtNzM4My1hYWM0LTgxYmRjOTIxZGE5ZiIsImlzcyI6IlNwYWxsYSJ9.KKL0LO-BSzObn8Kykfu4Q2Xv-MPWWD14fv8LXuuE4rs
+#EXTINF:-1 tvg-id="TvLifeAmerica" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/logo_100x100_1kkPCqI.png" group-title="SoulTV.com.br",Tv Life America
+https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
+#EXTINF:-1 tvg-id="PrimerTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Pe%C3%A7as_App_logo_100_x_100_reduz.png" group-title="SoulTV.com.br",Primer TV
+http://177.74.174.57:8080/hls/primertv.m3u8
+#EXTINF:-1 tvg-id="TvVerdade" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_100x100px.png" group-title="SoulTV.com.br",Tv Verdade
+https://acesso.ecast.site:3104/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="HackathonBrasilTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/logotipo.png" group-title="SoulTV.com.br",Hackathon Brasil TV
+https://cdn-tiva-video04-logicahost-com-br.smartbit.co/hackathonbrasil/hackathonbrasil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVFlorida" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/logosoul.png" group-title="SoulTV.com.br",TV Florida
+https://cdn-tiva-srv6-zcast-com-br.smartbit.co/tvfloridausa/tvfloridausa/playlist.m3u8
+#EXTINF:-1 tvg-id="AdessoTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logotipo_100x100_transp.png" group-title="SoulTV.com.br",Adesso TV
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1 tvg-id="VRTChannel" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/VRT_LOGO_BRANCO-01_baixa.png" group-title="SoulTV.com.br",VRT Channel
+https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="TVídeoNews" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/TV%C3%ADdeoNews_logo_oficial_reduz.png" group-title="SoulTV.com.br",TVídeoNews
+https://cdn-tiva-video01-logicahost-com-br.smartbit.co/tvideonews/tvideonews/chunklist.m3u8
+#EXTINF:-1 tvg-id="TVDifusão" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_TV_DIFUS%C3%83O_100x100px.png" group-title="SoulTV.com.br",TV Difusão
+https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRedeMaisFamilia" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logotipo_100x100_2Ofmxdy.png" group-title="SoulTV.com.br",TV Rede Mais Familia
+https://cdn-tiva-video09-logicahost-com-br.smartbit.co/redefamilia/redefamilia/playlist.m3u8
+#EXTINF:-1 tvg-id="TVFolhadoCampo" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/unnamed_1.png" group-title="SoulTV.com.br",TV Folha do Campo
+https://stmv1.transmissaodigital.com/folha-do-campo/folha-do-campo/playlist.m3u8
+#EXTINF:-1 tvg-id="RAETV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/RAETV.png" group-title="SoulTV.com.br",RAE TV
+https://cdn-tiva-video01-logicahost-com-br.smartbit.co/raetv/raetv/playlist.m3u8
+#EXTINF:-1 tvg-id="RSSPORTS" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/RS_SPORTS_100X100_axxpiY3.png" group-title="SoulTV.com.br",RS SPORTS
+https://cdn-tiva-video07-logicahost-com-br.smartbit.co/rssports01/rssports01/playlist.m3u8
+#EXTINF:-1 tvg-id="RSSPORTS2" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/RS_SPORTS_2_100X100_OKYHE7H.png" group-title="SoulTV.com.br",RS SPORTS 2
+https://cdn-tiva-video07-logicahost-com-br.smartbit.co/rssports02/rssports02/playlist.m3u8
+#EXTINF:-1 tvg-id="RoraimaTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/100x100_-_sem_fundo.png" group-title="SoulTV.com.br",Roraima TV
+https://video06.logicahost.com.br/roraimatv/roraimatv/playlist.m3u8
+#EXTINF:-1 tvg-id="REISENCLUBETV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/logo100x100reisen.png" group-title="SoulTV.com.br",REISEN CLUBE TV
+https://pop.uniquetv.com.br/reisenclubetv/video.m3u8
+#EXTINF:-1 tvg-id="AstralTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logoclaro_100X100px.png" group-title="SoulTV.com.br",Astral TV
+https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/astraltv/index.m3u8
+#EXTINF:-1 tvg-id="WTVBrasil" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo-100x100.png" group-title="SoulTV.com.br",WTV Brasil
+https://cdn-tiva-stmv7-samcast-com-br.smartbit.co/wtvbrasil/wtvbrasil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAvivandoNações" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/logo_100x100_tv_avivando_na%C3%A7%C3%B5es.png" group-title="SoulTV.com.br",TV Avivando Nações
+https://cdn-tiva-video04-logicahost-com-br.smartbit.co/tvavivandonacoes/tvavivandonacoes/playlist.m3u8
+#EXTINF:-1 tvg-id="TvPontadaSerra" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/100x100-removebg-preview.png" group-title="SoulTV.com.br",Tv Ponta da Serra
+https://playout.hubcloud.tv.br:3977/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="TVOndasPlay" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/logo-tv-ondas-play-soul-tv.png" group-title="SoulTV.com.br",TV Ondas Play
+https://cdn-tiva-stmv5-samcast-com-br.smartbit.co/portalondasdemarica/portalondasdemarica/playlist.m3u8
+#EXTINF:-1 tvg-id="RSSPORTS3" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/RS_SPORTS_3_100X100_Dz8ksEi.png" group-title="SoulTV.com.br",RS SPORTS 3
+https://cdn-tiva-video07-logicahost-com-br.smartbit.co/rssports03/rssports03/playlist.m3u8
+#EXTINF:-1 tvg-id="AMCPLAYTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_AMC_Play_TV_branco_100x100.png" group-title="SoulTV.com.br",AMC PLAY TV
+https://video01.kshost.com.br/andre4742/andre4742/playlist.m3u8
+#EXTINF:-1 tvg-id="TvZoom" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_Zoom_Soul_Tv.png" group-title="SoulTV.com.br",Tv Zoom
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericaTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/logo_america-tv.png" group-title="SoulTV.com.br",America TV
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-12962/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="TVNovaMT" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_TV_NOVA_MT_PNG_100X100.png" group-title="SoulTV.com.br",TV Nova MT
+https://cdn-tiva-video04-logicahost-com-br.smartbit.co/tvnovaweb/tvnovaweb/playlist.m3u8
+#EXTINF:-1 tvg-id="TVConquista" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/x_logo_reduz_1ctZvwI.png" group-title="SoulTV.com.br",TV Conquista
+https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
+#EXTINF:-1 tvg-id="TVClube" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/TVClube_100x100.png" group-title="SoulTV.com.br",TV Clube
+https://streaming.cloudecast.com/hls/rederecon/index.m3u8
+#EXTINF:-1 tvg-id="TVItapê" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_TVITAPE_200x200.png" group-title="SoulTV.com.br",TV Itapê
+https://cdn-tiva-stream01-msolutionbrasil-com-br.smartbit.co/hls/tvitape/live.m3u8
+#EXTINF:-1 tvg-id="TVErgaOmnes" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LogoTVErgaOmnes100.png" group-title="SoulTV.com.br",TV Erga Omnes
+https://cdn-tiva-stmv1-srvif-com.smartbit.co/grupoergaomnes/grupoergaomnes/playlist.m3u8
+#EXTINF:-1 tvg-id="TVVotorantim" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/TVV_100px.png" group-title="SoulTV.com.br",TV Votorantim
+https://streamserver.streamingdevideo.com.br/8058/8058/playlist.m3u8
+#EXTINF:-1 tvg-id="ExtremoOrientalTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Extremo_Oriental_iPWitif.png" group-title="SoulTV.com.br",Extremo Oriental TV
+https://cdn-tiva-video05-logicahost-com-br.smartbit.co/extremotv/extremotv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBAmericanTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_100_x_100.png" group-title="SoulTV.com.br",CNB American TV
+https://5cf4a2c2512a2.streamlock.net/tvcnbamerican/tvcnbamerican/playlist.m3u8
+#EXTINF:-1 tvg-id="TvAmplitudeJuína" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_TVAMPLITUDEJUINA_2025_100X100.png" group-title="SoulTV.com.br",Tv Amplitude Juína
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-id="TvAmplitudeJuara" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_TVAMPLITUDEJUARA_2025_100X100.png" group-title="SoulTV.com.br",Tv Amplitude Juara
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+#EXTINF:-1 tvg-id="LiderTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOLGO_100_X_100_-_negativa.png" group-title="SoulTV.com.br",Lider TV
+https://cdn-tiva-video08-logicahost-com-br.smartbit.co/lidertvssp/lidertvssp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRioPreto" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/SOUL_TV_RIO_PRETO_LOGO_100X100PX.png" group-title="SoulTV.com.br",TV Rio Preto
+https://cdn-tiva-video02-logicahost-com-br.smartbit.co/tvriopreto/tvriopreto/playlist.m3u8
+#EXTINF:-1 tvg-id="OKTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/100_X_100.png" group-title="SoulTV.com.br",OK TV
+https://stmv2.srvsh.com.br/douglas5010/douglas5010/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPortuguesa" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_sem_fundo_03.png" group-title="SoulTV.com.br",TV Portuguesa
+https://cdn-origin-sp.smartbit.co/tvportuguesa/index.m3u8
+#EXTINF:-1 tvg-id="TvEvangelizar" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/123.png" group-title="SoulTV.com.br",Tv Evangelizar
+https://cdn-tiva-tvevangelizar-brasilstream-com-br.smartbit.co/hls/tvevangelizar/index.m3u8
+#EXTINF:-1 tvg-id="VezaTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/VezaTV_Branco_-_Logo_1_4naHcCE.png" group-title="SoulTV.com.br",Veza TV
+https://vezatv.mediastreaming.com.br/vezatv/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SériesClassic" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/S%C3%A9ries_Classic_70_Channel_100x100.png" group-title="SoulTV.com.br",Séries Classic
+https://cdn-tiva-video10-logicahost-com-br.smartbit.co/serieclassic/serieclassic/playlist.m3u8
+#EXTINF:-1 tvg-id="BrGlobalStation" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/100x_100.png" group-title="SoulTV.com.br",Br Global Station
+https://brglobalstation.duckdns.org:3334/hls/brglobalstation.m3u8
+#EXTINF:-1 tvg-id="TVCOM" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_TVCOM_1000x1000.png" group-title="SoulTV.com.br",TV COM
+https://cdn-tiva-video01-logicahost-com-br.smartbit.co/tvcomsantos/tvcomsantos/playlist.m3u8
+#EXTINF:-1 tvg-id="TvMogiana" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/logo_1.png" group-title="SoulTV.com.br",Tv Mogiana
+https://a.cdni.live/mogianaonline4773/mogianaonline4773/playlist.m3u8
+#EXTINF:-1 tvg-id="CANALSTART" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logomarca_CANAL_START_100X100_PNG.png" group-title="SoulTV.com.br",CANAL START
+https://cdn-tiva-srv5-zcast-com-br.smartbit.co/canalstart/canalstart/playlist.m3u8
+#EXTINF:-1 tvg-id="GMCTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_100x100_SOULTV.png" group-title="SoulTV.com.br",GMC TV
+https://cdn-tiva-video04-logicahost-com-br.smartbit.co/motionbrasiltv/motionbrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVReconcavo" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/logo_braca.png" group-title="SoulTV.com.br",TV Reconcavo
+https://cdn-tiva-video04-logicahost-com-br.smartbit.co/tvreconcavo/tvreconcavo/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMaisBrasil" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/TV_MAIS_BRASIL_LOGO_100x100.png" group-title="SoulTV.com.br",TV Mais Brasil
+https://cdn-tiva-stmv8-samcast-com-br.smartbit.co/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
+#EXTINF:-1 tvg-id="BemMelhor" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_Reduz.png" group-title="SoulTV.com.br",Bem Melhor
+https://cdn-tiva-video01-logicahost-com-br.smartbit.co/bemmelhor/bemmelhor/playlist.m3u8
+#EXTINF:-1 tvg-id="ViajandopeloBrasil" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/logo-viajando.png" group-title="SoulTV.com.br",Viajando pelo Brasil
+https://cdn-tiva-video01-soultv-com-br.smartbit.co/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalTVC" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/logo_tvc_100x100_soul_tv.png" group-title="SoulTV.com.br",Canal TVC
+https://cdn-tiva-stmv1-voxtvhd-com-br.smartbit.co/canaltvc/canaltvc/playlist.m3u8
+#EXTINF:-1 tvg-id="40gtv" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_40GTV_100X100.png" group-title="SoulTV.com.br",40 gtv
+https://40gtv-aovivo.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Republic" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO-REPUBLIC-BRANCO-100x100_2.png" group-title="SoulTV.com.br",Republic
+https://cdn-tiva-video01-soultv-com-br.smartbit.co/republic/republic/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeNGTTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/logo_100x100_pr.png" group-title="SoulTV.com.br",Rede NGT TV
+https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/ngt/index.m3u8
+#EXTINF:-1 tvg-id="TVOnix" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_TV_ONIX_Branco__100_x_100_.png" group-title="SoulTV.com.br",TV Onix
+https://cdn-tiva-video01-soultv-com-br.smartbit.co/tvonix/tvonix/playlist.m3u8
+#EXTINF:-1 tvg-id="TVLitoralRN" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_5.jpg" group-title="SoulTV.com.br",TV Litoral RN
+https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
+#EXTINF:-1 tvg-id="Bem+TV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_BemTV_Vertical_Branco_100x100.png" group-title="SoulTV.com.br",Bem + TV
+https://cdn-tiva-video09-logicahost-com-br.smartbit.co/bemmaistv01/bemmaistv01/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeTVParaná" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/PAG_02_-_LOGO_100X100_YUPjBIv.png" group-title="SoulTV.com.br",Rede TV Paraná
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 tvg-id="TVLiberdade" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/TV_Liberdade_100x100.png" group-title="SoulTV.com.br",TV Liberdade
+https://video01.kshost.com.br/eberson6273/eberson6273/playlist.m3u8
+#EXTINF:-1 tvg-id="POAStreamingTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_POA_Streaming_100_px.png" group-title="SoulTV.com.br",POA Streaming TV
+https://cdn-tiva-video01-logicahost-com-br.smartbit.co/poastreaming/poastreaming/playlist.m3u8
+#EXTINF:-1 tvg-id="PlayTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/logotipo_100x100_no_formato.png" group-title="SoulTV.com.br",Play TV
+https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/playtv/index.m3u8
+#EXTINF:-1 tvg-id="TVSBN" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_100x100px_TMYs8Kw.png" group-title="SoulTV.com.br",TV SBN
+https://acesso.ecast.site:3500/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="Vivax" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_100x100_DXc2ejJ.png" group-title="SoulTV.com.br",Vivax
+https://cdn-tiva-stmv2-samcast-com-br.smartbit.co/marcus8647/marcus8647/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRabelo" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/rabelo-100x100px.png" group-title="SoulTV.com.br",TV Rabelo
+https://stv1.ipstm.net:3080/stream/play.m3u8
+#EXTINF:-1 tvg-id="TendaTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/PAG_02_-_LOGO_100X100.png" group-title="SoulTV.com.br",Tenda TV
+https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8
+#EXTINF:-1 tvg-id="ColetivaTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Coletiva_tv_100x100-central.png" group-title="SoulTV.com.br",Coletiva TV
+https://cdn-tiva-video02-logicahost-com-br.smartbit.co/coletivatv/coletivatv/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeGramado" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/REDE-GRAMADO-100X100.png" group-title="SoulTV.com.br",Rede Gramado
+https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/tvgramado/index.m3u8
+#EXTINF:-1 tvg-id="TvAurora" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Globo100x100.png" group-title="SoulTV.com.br",Tv Aurora
+https://tv.redeaurora.com.br/public/Index.m3u8
+#EXTINF:-1 tvg-id="Geekdot" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logotipo_100x100_7rXoV9Y.png" group-title="SoulTV.com.br",Geekdot
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="TVdaPesca" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/TV_DA_PESCA_100x100_Logo.png" group-title="SoulTV.com.br",TV da Pesca
+https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/tvdapesca/index.m3u8
+#EXTINF:-1 tvg-id="TVDiáriodoSertão" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_para_SOUL_TV_100x100px_1.png" group-title="SoulTV.com.br",TV Diário do Sertão
+https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAlagoinha" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/TV_ALAGOINHA_100_X_100.png" group-title="SoulTV.com.br",TV Alagoinha
+https://cdn-tiva-stmv-jnbhost-com-br.smartbit.co/tvalagoinha/tvalagoinha/playlist.m3u8
+#EXTINF:-1 tvg-id="TvNordestina" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/TV_Nordestina_logo_100x100.png" group-title="SoulTV.com.br",Tv Nordestina
+https://5ad482a77183d.streamlock.net/estudiosabiliojosegmail.com/estudiosabiliojosegmail.com/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMarcheti" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/logo_tv.fw_-_100_x_100.png" group-title="SoulTV.com.br",TV Marcheti
+https://cdn-tiva-stmv1-samcast-com-br.smartbit.co/junior4319/junior4319/playlist.m3u8
+#EXTINF:-1 tvg-id="FMTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_FMTV_100x100.png" group-title="SoulTV.com.br",FMTV
+https://cdn-tiva-video08-logicahost-com-br.smartbit.co/fmtvbr/fmtvbr/playlist.m3u8
+#EXTINF:-1 tvg-id="TVORepórter" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_TIPO__JORNAL.png" group-title="SoulTV.com.br",TV O Repórter
+https://pop.uniquetv.com.br/tvoreporter/video.m3u8
+#EXTINF:-1 tvg-id="PetLoversTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/BOLA_PETLOVERSTV.png" group-title="SoulTV.com.br",Pet Lovers TV
+https://cdn-tiva-video04-logicahost-com-br.smartbit.co/petloverstv/petloverstv/playlist.m3u8
+#EXTINF:-1 tvg-id="HipHopVaiAlémTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/02_-_100x100_Logotipo.png" group-title="SoulTV.com.br",Hip Hop Vai Além TV
+https://cdn-tiva-stmv4-voxtvhd-com-br.smartbit.co/carlosdavi6787/carlosdavi6787/playlist.m3u8
+#EXTINF:-1 tvg-id="CanaldoBoi" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/logo_CNBOI-BRANCA_-_SD_reduzido.png" group-title="SoulTV.com.br",Canal do Boi
+https://aovivo3.equipea.com.br:5443/aovivort/streams/OSCJWX8rDkLrgW7A488545952175222.m3u8
+#EXTINF:-1 tvg-id="KanucaTVBrasil" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Kanuca_TV_100x100.png" group-title="SoulTV.com.br",Kanuca TV Brasil
+https://cdn-tiva-video08-logicahost-com-br.smartbit.co/kanucatv/kanucatv/playlist.m3u8
+#EXTINF:-1 tvg-id="TvHistória" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/TV_HIST%C3%93RIA_logotipo_100x100.png" group-title="SoulTV.com.br",Tv História
+https://cdn-tiva-video10-logicahost-com-br.smartbit.co/tvhistoria/tvhistoria/playlist.m3u8
+#EXTINF:-1 tvg-id="TVNotíciasAgrícolas" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_TV.png" group-title="SoulTV.com.br",TV Notícias Agrícolas
+https://cdn-tiva-video09-logicahost-com-br.smartbit.co/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8
+#EXTINF:-1 tvg-id="VGSTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/100px.png" group-title="SoulTV.com.br",VGS TV
+https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/vgstv/index.m3u8
+#EXTINF:-1 tvg-id="Sou+PopTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/logo_alta_resolu%C3%A7%C3%A3o_SouPop_100x100.png" group-title="SoulTV.com.br",Sou + Pop TV
+https://cdn-tiva-video04-logicahost-com-br.smartbit.co/soumaispop/soumaispop/playlist.m3u8
+#EXTINF:-1 tvg-id="AtitudeNew" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/tv_atitude_logo_100x100.png" group-title="SoulTV.com.br",Atitude New
+https://stmv1.transmissaodigital.com/tvatitudenew/tvatitudenew/playlist.m3u8
+#EXTINF:-1 tvg-id="AugeTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_100x100_OjSe73F.png" group-title="SoulTV.com.br",Auge TV
+https://cdn-tiva-video01-logicahost-com-br.smartbit.co/canalaugetv/canalaugetv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGazin" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_TV_Gazin_100x100_PNG_ihJObtR.png" group-title="SoulTV.com.br",TV Gazin
+https://cdn-tiva-video09-logicahost-com-br.smartbit.co/tvgazin/tvgazin/playlist.m3u8
+#EXTINF:-1 tvg-id="ConexãoTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/conexaotv-100x100.png" group-title="SoulTV.com.br",Conexão TV
+https://pop.uniquetv.com.br/tvconexao/video.m3u8
+#EXTINF:-1 tvg-id="UMATV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_100X100_jnEdn9s.png" group-title="SoulTV.com.br",UMA TV
+https://umatv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TvNovaNordeste" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO-PRATA.png" group-title="SoulTV.com.br",Tv Nova Nordeste
+https://acesso.ecast.site:3675/live/novatvlive.m3u8
+#EXTINF:-1 tvg-id="VamboraChannel" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/vamboraviajar-100x100.png" group-title="SoulTV.com.br",Vambora Channel
+https://cdn-tiva-video07-logicahost-com-br.smartbit.co/vamborachannel/vamborachannel/playlist.m3u8
+#EXTINF:-1 tvg-id="TV+Pet" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_TV_MAIS_PET_100X100.png" group-title="SoulTV.com.br",TV + Pet
+https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+#EXTINF:-1 tvg-id="NovaTVAgrotour" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_NOVA_TV_AGROTOUR_100x100.png" group-title="SoulTV.com.br",Nova TV Agrotour
+https://video01.kshost.com.br/marcelo7614/marcelo7614/playlist.m3u8
+#EXTINF:-1 tvg-id="RITTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/1399_-_logo_100x100.png" group-title="SoulTV.com.br",RIT TV
+https://streaming.cloudecast.com/hls/rittv/index.m3u8
+#EXTINF:-1 tvg-id="SBC" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/logo_SBC_100_x_100.png" group-title="SoulTV.com.br",SBC
+https://video01.brascast.com/rede1250/rede1250/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPAMPA" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/tvpampa-logo3.png" group-title="SoulTV.com.br",TV PAMPA
+https://cdn-tiva-video04-logicahost-com-br.smartbit.co/tvpampa/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal25" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logotipo.png" group-title="SoulTV.com.br",Canal 25
+https://cdn-tiva-stream01-msolutionbrasil-com-br.smartbit.co/hls/canal25/live.m3u8
+#EXTINF:-1 tvg-id="RedeSDPTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/icone-sbp_V63iUmT.png" group-title="SoulTV.com.br",Rede SDP TV
+https://video01.brascast.com/rede8652/rede8652/playlist.m3u8
+#EXTINF:-1 tvg-id="CentralTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_CentralTv_100x100.png" group-title="SoulTV.com.br",Central TV
+https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
+#EXTINF:-1 tvg-id="MasperTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO-MASPER-VERTICAL_100x100.png" group-title="SoulTV.com.br",Masper TV
+https://tv02.zas.media:1936/masper/masper/playlist.m3u8
+#EXTINF:-1 tvg-id="OndaDigitalTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_100_X_100.png" group-title="SoulTV.com.br",Onda Digital TV
+http://live.ondadigitaltv.com/ODTV/index.m3u8
+#EXTINF:-1 tvg-id="PeruChannel" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LogobTRANSPARENTE_100x100.png" group-title="SoulTV.com.br",Peru Channel
+https://cdn-tiva-video04-logicahost-com-br.smartbit.co/entertainmentplay/entertainmentplay/playlist.m3u8
+#EXTINF:-1 tvg-id="DMKidsTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo2_PNGHD_1.png" group-title="SoulTV.com.br",DM Kids TV
+https://cdn-tiva-video03-logicahost-com-br.smartbit.co/dmkidstv/dmkidstv/playlist.m3u8
+#EXTINF:-1 tvg-id="BHTV" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/BHTV_Logo_2024.png" group-title="SoulTV.com.br",BH TV
+https://cdn-tiva-sc1-wasidata-com.smartbit.co/Bhtv/video.m3u8
+#EXTINF:-1 tvg-id="VivaeEduque" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_VIVAEDUQUE-100x100.png" group-title="SoulTV.com.br",Viva e Eduque
+https://cdn-tiva-video01-logicahost-com-br.smartbit.co/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
+#EXTINF:-1 tvg-id="SoulLab" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LAB_Tt26JG8.png" group-title="SoulTV.com.br",Soul Lab
+http://34.95.200.150:8888/soultv/soultv/index.m3u8
