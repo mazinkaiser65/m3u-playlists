@@ -333,6 +333,8 @@ https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
 https://jmp2.uk/plu-6888ee858f4a4aa11feb9430.m3u8
 #EXTINF:-1 channel-id="5f997e44949bc70007a6941e" tvg-id="5f997e44949bc70007a6941e" tvg-chno="1430" tvg-name="Turma da Mônica" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png" group-title="Infantil",Turma da Mônica
 https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8
+#EXTINF:-1 channel-id="69a20556814d27f4ae630a92" tvg-id="69a20556814d27f4ae630a92" tvg-chno="850" tvg-name="UFC" tvg-logo="https://images.pluto.tv/channels/69a20556814d27f4ae630a92/colorLogoPNG_1772226745279.png" group-title="Esportes",UFC
+https://jmp2.uk/plu-69a20556814d27f4ae630a92.m3u8
 #EXTINF:-1 channel-id="63eba66da8b2270008436b10" tvg-id="63eba66da8b2270008436b10" tvg-chno="910" tvg-name="World Poker Tour" tvg-logo="https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png" group-title="Esportes",World Poker Tour
 https://jmp2.uk/plu-63eba66da8b2270008436b10.m3u8
 #EXTINF:-1 channel-id="63988a50be012600070f5db3" tvg-id="63988a50be012600070f5db3" tvg-chno="1269" tvg-name="Yu-Gi-Oh" tvg-logo="https://images.pluto.tv/channels/63988a50be012600070f5db3/colorLogoPNG.png" group-title="Anime",Yu-Gi-Oh
