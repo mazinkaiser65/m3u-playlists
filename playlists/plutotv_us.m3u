@@ -417,6 +417,8 @@ https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
 https://jmp2.uk/plu-6887a86be3703b7d42b3eca3.m3u8
 #EXTINF:-1 channel-id="60f754f98185580007eb0754" tvg-id="60f754f98185580007eb0754" tvg-chno="680" tvg-name="Matlock" tvg-logo="https://images.pluto.tv/channels/60f754f98185580007eb0754/colorLogoPNG_1731836706925.png" group-title="Classic TV",Matlock
 https://jmp2.uk/plu-60f754f98185580007eb0754.m3u8
+#EXTINF:-1 channel-id="64d2b6bf9b414d0008187d83" tvg-id="64d2b6bf9b414d0008187d83" tvg-chno="3105" tvg-name="Mayday: Air Disaster" tvg-logo="https://images.pluto.tv/channels/64d2b6bf9b414d0008187d83/colorLogoPNG_1780082857275.png" group-title="History + Science",Mayday: Air Disaster
+https://jmp2.uk/plu-64d2b6bf9b414d0008187d83.m3u8
 #EXTINF:-1 channel-id="5cbf6a868a1bce4a3d52a5e9" tvg-id="5cbf6a868a1bce4a3d52a5e9" tvg-chno="1080" tvg-name="Midsomer Murders" tvg-logo="https://images.pluto.tv/channels/5cbf6a868a1bce4a3d52a5e9/colorLogoPNG.png" group-title="Drama",Midsomer Murders
 https://jmp2.uk/plu-5cbf6a868a1bce4a3d52a5e9.m3u8
 #EXTINF:-1 channel-id="6549322e53fc97000838febc" tvg-id="6549322e53fc97000838febc" tvg-chno="1770" tvg-name="Million Dollar Listing Vault" tvg-logo="https://images.pluto.tv/channels/6549322e53fc97000838febc/colorLogoPNG.png" group-title="Reality",Million Dollar Listing Vault
@@ -589,8 +591,6 @@ https://jmp2.uk/plu-67817323dd7846fe546940dd.m3u8
 https://jmp2.uk/plu-696998915a0ae9e1b563f0c6.m3u8
 #EXTINF:-1 channel-id="634f307c7a068e00072c9982" tvg-id="634f307c7a068e00072c9982" tvg-chno="810" tvg-name="Rawhide" tvg-logo="https://images.pluto.tv/channels/634f307c7a068e00072c9982/colorLogoPNG_1731835685335.png" group-title="Westerns",Rawhide
 https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8
-#EXTINF:-1 channel-id="64d2b6bf9b414d0008187d83" tvg-id="64d2b6bf9b414d0008187d83" tvg-chno="3105" tvg-name="Real Disaster Channel" tvg-logo="https://images.pluto.tv/channels/64d2b6bf9b414d0008187d83/colorLogoPNG.png" group-title="History + Science",Real Disaster Channel
-https://jmp2.uk/plu-64d2b6bf9b414d0008187d83.m3u8
 #EXTINF:-1 channel-id="6549316d2c1d330008631496" tvg-id="6549316d2c1d330008631496" tvg-chno="1790" tvg-name="Real Housewives Vault" tvg-logo="https://images.pluto.tv/channels/6549316d2c1d330008631496/colorLogoPNG.png" group-title="Reality",Real Housewives Vault
 https://jmp2.uk/plu-6549316d2c1d330008631496.m3u8
 #EXTINF:-1 channel-id="674f735a2fb8a100087bf253" tvg-id="674f735a2fb8a100087bf253" tvg-chno="2163" tvg-name="Revry" tvg-logo="https://images.pluto.tv/channels/674f735a2fb8a100087bf253/colorLogoPNG_1748892659343.png" group-title="Entertainment",Revry

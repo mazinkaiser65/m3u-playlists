@@ -797,6 +797,8 @@ https://jmp2.uk/plu-63da365f60bc8f0008a50f44.m3u8
 https://jmp2.uk/plu-62fb6a4feb32e8000708f4d0.m3u8
 #EXTINF:-1 channel-id="6852811933a52de120f8b89d-gb" tvg-id="6852811933a52de120f8b89d" tvg-chno="805" tvg-name="Mayday Air Disaster" tvg-logo="https://images.pluto.tv/channels/6852811933a52de120f8b89d/colorLogoPNG_1762230046872.png" group-title="United Kingdom",Mayday Air Disaster
 https://jmp2.uk/plu-6852811933a52de120f8b89d.m3u8
+#EXTINF:-1 channel-id="64d2b6bf9b414d0008187d83-us" tvg-id="64d2b6bf9b414d0008187d83" tvg-chno="3105" tvg-name="Mayday: Air Disaster" tvg-logo="https://images.pluto.tv/channels/64d2b6bf9b414d0008187d83/colorLogoPNG_1780082857275.png" group-title="United States",Mayday: Air Disaster
+https://jmp2.uk/plu-64d2b6bf9b414d0008187d83.m3u8
 #EXTINF:-1 channel-id="64e89cfc9c1e3900084ca663-ca" tvg-id="64e89cfc9c1e3900084ca663" tvg-chno="995" tvg-name="Mayday: Air Disaster" tvg-logo="https://images.pluto.tv/channels/64e89cfc9c1e3900084ca663/colorLogoPNG_1780053268519.png" group-title="Canada",Mayday: Air Disaster
 https://jmp2.uk/plu-64e89cfc9c1e3900084ca663.m3u8
 #EXTINF:-1 channel-id="68d113f9184f1a0620c8101c-gb" tvg-id="68d113f9184f1a0620c8101c" tvg-chno="368" tvg-name="Medical Detectives" tvg-logo="https://images.pluto.tv/channels/68d113f9184f1a0620c8101c/colorLogoPNG_1761577591052.png" group-title="United Kingdom",Medical Detectives
@@ -1189,8 +1191,6 @@ https://jmp2.uk/plu-696e024a7e92438c27a425a8.m3u8
 https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8
 #EXTINF:-1 channel-id="65660223635c3c00086c2578-ca" tvg-id="65660223635c3c00086c2578" tvg-chno="360" tvg-name="Rawhide" tvg-logo="https://images.pluto.tv/channels/65660223635c3c00086c2578/colorLogoPNG.png" group-title="Canada",Rawhide
 https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8
-#EXTINF:-1 channel-id="64d2b6bf9b414d0008187d83-us" tvg-id="64d2b6bf9b414d0008187d83" tvg-chno="3105" tvg-name="Real Disaster Channel" tvg-logo="https://images.pluto.tv/channels/64d2b6bf9b414d0008187d83/colorLogoPNG.png" group-title="United States",Real Disaster Channel
-https://jmp2.uk/plu-64d2b6bf9b414d0008187d83.m3u8
 #EXTINF:-1 channel-id="6549316d2c1d330008631496-us" tvg-id="6549316d2c1d330008631496" tvg-chno="1790" tvg-name="Real Housewives Vault" tvg-logo="https://images.pluto.tv/channels/6549316d2c1d330008631496/colorLogoPNG.png" group-title="United States",Real Housewives Vault
 https://jmp2.uk/plu-6549316d2c1d330008631496.m3u8
 #EXTINF:-1 channel-id="68e3b6112baff9f069d02540-gb" tvg-id="68e3b6112baff9f069d02540" tvg-chno="285" tvg-name="Relic Hunter" tvg-logo="https://images.pluto.tv/channels/68e3b6112baff9f069d02540/colorLogoPNG_1759760853522.png" group-title="United Kingdom",Relic Hunter
