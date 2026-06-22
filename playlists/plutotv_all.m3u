@@ -317,10 +317,10 @@ https://jmp2.uk/plu-68c8202f5ec82769fdfcd0a2.m3u8
 https://jmp2.uk/plu-627d355aa95efd00077afcc7.m3u8
 #EXTINF:-1 channel-id="6582f7d612d5ee00089a663d-ca" tvg-id="6582f7d612d5ee00089a663d" tvg-chno="760" tvg-name="Cheaters" tvg-logo="https://images.pluto.tv/channels/6582f7d612d5ee00089a663d/colorLogoPNG.png" group-title="Canada",Cheaters
 https://jmp2.uk/plu-6582f7d612d5ee00089a663d.m3u8
+#EXTINF:-1 channel-id="6a28827ef4a627f3b07df1ea-us" tvg-id="6a28827ef4a627f3b07df1ea" tvg-chno="293" tvg-name="Cheers" tvg-logo="https://images.pluto.tv/channels/6a28827ef4a627f3b07df1ea/colorLogoPNG_1781731467139.png" group-title="United States",Cheers
+https://jmp2.uk/plu-6a28827ef4a627f3b07df1ea.m3u8
 #EXTINF:-1 channel-id="62bdb7f0db2eb30007376d4d-ca" tvg-id="62bdb7f0db2eb30007376d4d" tvg-chno="105" tvg-name="Cheers" tvg-logo="https://images.pluto.tv/channels/62bdb7f0db2eb30007376d4d/colorLogoPNG.png" group-title="Canada",Cheers
 https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d.m3u8
-#EXTINF:-1 channel-id="66ba495ffe11e5000881f049-us" tvg-id="66ba495ffe11e5000881f049" tvg-chno="295" tvg-name="Cheers + Frasier" tvg-logo="https://images.pluto.tv/channels/66ba495ffe11e5000881f049/colorLogoPNG.png" group-title="United States",Cheers + Frasier
-https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8
 #EXTINF:-1 channel-id="68bb16a500a2f063fdf89f8c-us" tvg-id="68bb16a500a2f063fdf89f8c" tvg-chno="3440" tvg-name="Chef vs Chef by Food Network" tvg-logo="https://images.pluto.tv/channels/68bb16a500a2f063fdf89f8c/colorLogoPNG_1757718859405.png" group-title="United States",Chef vs Chef by Food Network
 https://jmp2.uk/plu-68bb16a500a2f063fdf89f8c.m3u8
 #EXTINF:-1 channel-id="68bb16e7f89c82a68bcc4397-us" tvg-id="68bb16e7f89c82a68bcc4397" tvg-chno="3310" tvg-name="Chip & Jo: Feels Like Home by Magnolia Network" tvg-logo="https://images.pluto.tv/channels/68bb16e7f89c82a68bcc4397/colorLogoPNG_1758697632132.png" group-title="United States",Chip & Jo: Feels Like Home by Magnolia Network
@@ -525,6 +525,8 @@ https://jmp2.uk/plu-5bb1af6a268cae539bcedb0a.m3u8
 https://jmp2.uk/plu-62e92392a3e6270007f562e8.m3u8
 #EXTINF:-1 channel-id="56171fafada51f8004c4b40f-us" tvg-id="56171fafada51f8004c4b40f" tvg-chno="3900" tvg-name="Forever Kids" tvg-logo="https://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png" group-title="United States",Forever Kids
 https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
+#EXTINF:-1 channel-id="66ba495ffe11e5000881f049-us" tvg-id="66ba495ffe11e5000881f049" tvg-chno="295" tvg-name="Frasier" tvg-logo="https://images.pluto.tv/channels/66ba495ffe11e5000881f049/colorLogoPNG_1782142982491.png" group-title="United States",Frasier
+https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8
 #EXTINF:-1 channel-id="62f4f90e39183b000769f12b-ca" tvg-id="62f4f90e39183b000769f12b" tvg-chno="101" tvg-name="Frasier" tvg-logo="https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png" group-title="Canada",Frasier
 https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8
 #EXTINF:-1 channel-id="691e0561e32eb094b835c418-ca" tvg-id="691e0561e32eb094b835c418" tvg-chno="80" tvg-name="Fresh Movies by VVS Films" tvg-logo="https://images.pluto.tv/channels/691e0561e32eb094b835c418/colorLogoPNG_1765876969706.png" group-title="Canada",Fresh Movies by VVS Films
@@ -5123,8 +5125,6 @@ https://jmp2.uk/plu-6400c228498393000878a9b7.m3u8
 https://jmp2.uk/plu-6400c2a6cb41a40008dbe5bc.m3u8
 #EXTINF:-1 channel-id="6400c281dff38e00083f59da-dk" tvg-id="6400c281dff38e00083f59da" tvg-chno="399" tvg-name="Star Trek Movies" tvg-logo="https://images.pluto.tv/channels/6400c281dff38e00083f59da/colorLogoPNG.png" group-title="Denmark",Star Trek Movies
 https://jmp2.uk/plu-6400c281dff38e00083f59da.m3u8
-#EXTINF:-1 channel-id="65786b94cbd0d60008f7e4d9-es" tvg-id="65786b94cbd0d60008f7e4d9" tvg-chno="330" tvg-name="Star Trek: The Next Generation" tvg-logo="https://images.pluto.tv/channels/65786b94cbd0d60008f7e4d9/colorLogoPNG_1752727094278.png" group-title="Spain",Star Trek: The Next Generation
-https://jmp2.uk/plu-65786b94cbd0d60008f7e4d9.m3u8
 #EXTINF:-1 channel-id="69776ce979545c21a1220bff-de" tvg-id="69776ce979545c21a1220bff" tvg-chno="14" tvg-name="Star Trek: The Next Generation" tvg-logo="https://images.pluto.tv/channels/69776ce979545c21a1220bff/colorLogoPNG_1769434849537.png" group-title="Germany",Star Trek: The Next Generation
 https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8
 #EXTINF:-1 channel-id="69776b58036e883f39e5ab8a-de" tvg-id="69776b58036e883f39e5ab8a" tvg-chno="12" tvg-name="Star Trek: The Original Series" tvg-logo="https://images.pluto.tv/channels/69776b58036e883f39e5ab8a/colorLogoPNG_1769434091096.png" group-title="Germany",Star Trek: The Original Series
