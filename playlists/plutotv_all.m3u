@@ -457,6 +457,8 @@ https://jmp2.uk/plu-5bee1a7359ee03633e780238.m3u8
 https://jmp2.uk/plu-685aa802fb6023de7cc56357.m3u8
 #EXTINF:-1 channel-id="62e951258a26d40007b3034c-ca" tvg-id="62e951258a26d40007b3034c" tvg-chno="1210" tvg-name="Dora TV" tvg-logo="https://images.pluto.tv/channels/62e951258a26d40007b3034c/colorLogoPNG.png" group-title="Canada",Dora TV
 https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8
+#EXTINF:-1 channel-id="6a2b0f2509705ebdf781231d-us" tvg-id="6a2b0f2509705ebdf781231d" tvg-chno="799" tvg-name="Dr. Quinn, Medicine Woman" tvg-logo="https://images.pluto.tv/channels/6a2b0f2509705ebdf781231d/colorLogoPNG_1782946772357.png" group-title="United States",Dr. Quinn Medicine Woman
+https://jmp2.uk/plu-6a2b0f2509705ebdf781231d.m3u8
 #EXTINF:-1 channel-id="5f6b54b9e67cf60007d4cef1-gb" tvg-id="5f6b54b9e67cf60007d4cef1" tvg-chno="710" tvg-name="Duck Dynasty" tvg-logo="https://images.pluto.tv/channels/5f6b54b9e67cf60007d4cef1/colorLogoPNG.png" group-title="United Kingdom",Duck Dynasty
 https://jmp2.uk/plu-5f6b54b9e67cf60007d4cef1.m3u8
 #EXTINF:-1 channel-id="6540fe6fbfbaec0008a583ae-ca" tvg-id="6540fe6fbfbaec0008a583ae" tvg-chno="715" tvg-name="Duck Dynasty" tvg-logo="https://images.pluto.tv/channels/6540fe6fbfbaec0008a583ae/colorLogoPNG.png" group-title="Canada",Duck Dynasty
@@ -731,7 +733,7 @@ https://jmp2.uk/plu-63335b193583440007c859fb.m3u8
 https://jmp2.uk/plu-5eb301b7395671000780d100.m3u8
 #EXTINF:-1 channel-id="60493283ffc52f000710edae-us" tvg-id="60493283ffc52f000710edae" tvg-chno="3750" tvg-name="Little Angel's Playroom en Español" tvg-logo="https://images.pluto.tv/channels/60493283ffc52f000710edae/colorLogoPNG.png" group-title="United States",Little Angel's Playroom en Español
 https://jmp2.uk/plu-60493283ffc52f000710edae.m3u8
-#EXTINF:-1 channel-id="654933ac986ad20008a1f406-us" tvg-id="654933ac986ad20008a1f406" tvg-chno="640" tvg-name="Little House on the Prairie" tvg-logo="https://images.pluto.tv/channels/654933ac986ad20008a1f406/colorLogoPNG.png" group-title="United States",Little House on the Prairie
+#EXTINF:-1 channel-id="654933ac986ad20008a1f406-us" tvg-id="654933ac986ad20008a1f406" tvg-chno="798" tvg-name="Little House on the Prairie" tvg-logo="https://images.pluto.tv/channels/654933ac986ad20008a1f406/colorLogoPNG.png" group-title="United States",Little House on the Prairie
 https://jmp2.uk/plu-654933ac986ad20008a1f406.m3u8
 #EXTINF:-1 channel-id="51c75f7bb6f26ba1cd00002f-us" tvg-id="51c75f7bb6f26ba1cd00002f" tvg-chno="3730" tvg-name="Little Stars Universe" tvg-logo="https://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png" group-title="United States",Little Stars Universe
 https://jmp2.uk/plu-51c75f7bb6f26ba1cd00002f.m3u8
@@ -3995,7 +3997,7 @@ https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8
 https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8
 #EXTINF:-1 channel-id="5dd6ddb30a1d8a000908ed4c-ar" tvg-id="5dd6ddb30a1d8a000908ed4c" tvg-chno="90" tvg-name="Pluto TV Cine Familia" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG_1782776617815.png" group-title="Argentina",Pluto TV Cine Familia
 https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8
-#EXTINF:-1 channel-id="5f171f032cd22e0007f17f3d-br" tvg-id="5f171f032cd22e0007f17f3d" tvg-chno="71" tvg-name="Pluto TV Cine Família" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG_1732045254120.png" group-title="Brazil",Pluto TV Cine Família
+#EXTINF:-1 channel-id="5f171f032cd22e0007f17f3d-br" tvg-id="5f171f032cd22e0007f17f3d" tvg-chno="71" tvg-name="Pluto TV Cine Família" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG_1783017834757.png" group-title="Brazil",Pluto TV Cine Família
 https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8
 #EXTINF:-1 channel-id="6806d519fea7414f33f57016-mx" tvg-id="6806d519fea7414f33f57016" tvg-chno="67" tvg-name="Pluto TV Cine Inspirador" tvg-logo="https://images.pluto.tv/channels/6806d519fea7414f33f57016/colorLogoPNG_1746817663597.png" group-title="Mexico",Pluto TV Cine Inspirador
 https://jmp2.uk/plu-6806d519fea7414f33f57016.m3u8
