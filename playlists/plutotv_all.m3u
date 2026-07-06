@@ -3309,24 +3309,24 @@ https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
 https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
 #EXTINF:-1 channel-id="5fab088b3279760007d4e4fd-ar" tvg-id="5fab088b3279760007d4e4fd" tvg-chno="385" tvg-name="MTV Pluto TV" tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG_1764875981566.png" group-title="Argentina",MTV Pluto TV
 https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
-#EXTINF:-1 channel-id="6851bdfc9ac48fde5e07f5ae-br" tvg-id="6851bdfc9ac48fde5e07f5ae" tvg-chno="386" tvg-name="MTV Pride" tvg-logo="https://images.pluto.tv/channels/6851bdfc9ac48fde5e07f5ae/colorLogoPNG_1780319925470.png" group-title="Brazil",MTV Pride
-https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8
-#EXTINF:-1 channel-id="5de91b7ea86ee60009d89e75-mx" tvg-id="5de91b7ea86ee60009d89e75" tvg-chno="387" tvg-name="MTV Pride" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG_1780320194126.png" group-title="Mexico",MTV Pride
-https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8
-#EXTINF:-1 channel-id="5de91b7ea86ee60009d89e75-cl" tvg-id="5de91b7ea86ee60009d89e75" tvg-chno="387" tvg-name="MTV Pride" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG_1780320194126.png" group-title="Chile",MTV Pride
-https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8
-#EXTINF:-1 channel-id="5de91b7ea86ee60009d89e75-ar" tvg-id="5de91b7ea86ee60009d89e75" tvg-chno="387" tvg-name="MTV Pride" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG_1780320194126.png" group-title="Argentina",MTV Pride
-https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8
 #EXTINF:-1 channel-id="6130d8dc943001000708548d-es" tvg-id="6130d8dc943001000708548d" tvg-chno="654" tvg-name="MTV Reality" tvg-logo="https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG_1783323270470.png" group-title="Spain",MTV Reality
 https://jmp2.uk/plu-6130d8dc943001000708548d.m3u8
 #EXTINF:-1 channel-id="685136fb33a52de120bbb086-de" tvg-id="685136fb33a52de120bbb086" tvg-chno="451" tvg-name="MTV Reality" tvg-logo="https://images.pluto.tv/channels/685136fb33a52de120bbb086/colorLogoPNG_1783324321044.png" group-title="Germany",MTV Reality
 https://jmp2.uk/plu-685136fb33a52de120bbb086.m3u8
+#EXTINF:-1 channel-id="6851bdfc9ac48fde5e07f5ae-br" tvg-id="6851bdfc9ac48fde5e07f5ae" tvg-chno="386" tvg-name="MTV Reality" tvg-logo="https://images.pluto.tv/channels/6851bdfc9ac48fde5e07f5ae/colorLogoPNG_1783347653051.png" group-title="Brazil",MTV Reality
+https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8
+#EXTINF:-1 channel-id="5de91b7ea86ee60009d89e75-mx" tvg-id="5de91b7ea86ee60009d89e75" tvg-chno="387" tvg-name="MTV Reality" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG_1783347553577.png" group-title="Mexico",MTV Reality
+https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8
+#EXTINF:-1 channel-id="5de91b7ea86ee60009d89e75-cl" tvg-id="5de91b7ea86ee60009d89e75" tvg-chno="387" tvg-name="MTV Reality" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG_1783347553577.png" group-title="Chile",MTV Reality
+https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8
 #EXTINF:-1 channel-id="68513950f212bedacf8ec48f-no" tvg-id="68513950f212bedacf8ec48f" tvg-chno="9" tvg-name="MTV Reality" tvg-logo="https://images.pluto.tv/channels/68513950f212bedacf8ec48f/colorLogoPNG_1783323419422.png" group-title="Norway",MTV Reality
 https://jmp2.uk/plu-68513950f212bedacf8ec48f.m3u8
 #EXTINF:-1 channel-id="685139b0f7d8b74b62f41c96-se" tvg-id="685139b0f7d8b74b62f41c96" tvg-chno="9" tvg-name="MTV Reality" tvg-logo="https://images.pluto.tv/channels/685139b0f7d8b74b62f41c96/colorLogoPNG_1783323490759.png" group-title="Sweden",MTV Reality
 https://jmp2.uk/plu-685139b0f7d8b74b62f41c96.m3u8
 #EXTINF:-1 channel-id="685137f4a1e091e16f2dd471-dk" tvg-id="685137f4a1e091e16f2dd471" tvg-chno="9" tvg-name="MTV Reality" tvg-logo="https://images.pluto.tv/channels/685137f4a1e091e16f2dd471/colorLogoPNG_1783323345298.png" group-title="Denmark",MTV Reality
 https://jmp2.uk/plu-685137f4a1e091e16f2dd471.m3u8
+#EXTINF:-1 channel-id="5de91b7ea86ee60009d89e75-ar" tvg-id="5de91b7ea86ee60009d89e75" tvg-chno="387" tvg-name="MTV Reality" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG_1783347553577.png" group-title="Argentina",MTV Reality
+https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8
 #EXTINF:-1 channel-id="5f9847fd513250000728a9a5-de" tvg-id="5f9847fd513250000728a9a5" tvg-chno="462" tvg-name="MTV Ridiculousness" tvg-logo="https://images.pluto.tv/channels/5f9847fd513250000728a9a5/colorLogoPNG.png" group-title="Germany",MTV Ridiculousness
 https://jmp2.uk/plu-5f9847fd513250000728a9a5.m3u8
 #EXTINF:-1 channel-id="5e98a911c881310007d7aae2-mx" tvg-id="5e98a911c881310007d7aae2" tvg-chno="393" tvg-name="MTV Ridiculousness" tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png" group-title="Mexico",MTV Ridiculousness
@@ -4411,6 +4411,12 @@ https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8
 https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8
 #EXTINF:-1 channel-id="64be64445dc166000899ce75-de" tvg-id="64be64445dc166000899ce75" tvg-chno="10" tvg-name="Pluto TV Polizeiserien" tvg-logo="https://images.pluto.tv/channels/64be64445dc166000899ce75/colorLogoPNG_1753350668041.png" group-title="Germany",Pluto TV Polizeiserien
 https://jmp2.uk/plu-64be64445dc166000899ce75.m3u8
+#EXTINF:-1 channel-id="5dd6ed41526c77000941411c-mx" tvg-id="5dd6ed41526c77000941411c" tvg-chno="91" tvg-name="Pluto TV Pre-Navidad" tvg-logo="https://images.pluto.tv/channels/5dd6ed41526c77000941411c/colorLogoPNG_1781123305546.png" group-title="Mexico",Pluto TV Pre-Navidad
+https://jmp2.uk/plu-5dd6ed41526c77000941411c.m3u8
+#EXTINF:-1 channel-id="5dd6ed41526c77000941411c-cl" tvg-id="5dd6ed41526c77000941411c" tvg-chno="91" tvg-name="Pluto TV Pre-Navidad" tvg-logo="https://images.pluto.tv/channels/5dd6ed41526c77000941411c/colorLogoPNG_1781123305546.png" group-title="Chile",Pluto TV Pre-Navidad
+https://jmp2.uk/plu-5dd6ed41526c77000941411c.m3u8
+#EXTINF:-1 channel-id="5dd6ed41526c77000941411c-ar" tvg-id="5dd6ed41526c77000941411c" tvg-chno="91" tvg-name="Pluto TV Pre-Navidad" tvg-logo="https://images.pluto.tv/channels/5dd6ed41526c77000941411c/colorLogoPNG_1781123305546.png" group-title="Argentina",Pluto TV Pre-Navidad
+https://jmp2.uk/plu-5dd6ed41526c77000941411c.m3u8
 #EXTINF:-1 channel-id="65ce480a78df2200131c597b-es" tvg-id="65ce480a78df2200131c597b" tvg-chno="206" tvg-name="Pluto TV Psycho" tvg-logo="https://images.pluto.tv/channels/65ce480a78df2200131c597b/colorLogoPNG.png" group-title="Spain",Pluto TV Psycho
 https://jmp2.uk/plu-65ce480a78df2200131c597b.m3u8
 #EXTINF:-1 channel-id="60801976f92a750007a0699c-it" tvg-id="60801976f92a750007a0699c" tvg-chno="815" tvg-name="Pluto TV Real Life" tvg-logo="https://images.pluto.tv/channels/60801976f92a750007a0699c/colorLogoPNG_1775123848385.png" group-title="Italy",Pluto TV Real Life
