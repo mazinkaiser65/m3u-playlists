@@ -1827,6 +1827,10 @@ https://jmp2.uk/plu-5f760c3d41aa2d0007bfde19.m3u8
 https://jmp2.uk/plu-6971fc6dca441014e4600f2c.m3u8
 #EXTINF:-1 channel-id="638f286445264d00084ec6dc-it" tvg-id="638f286445264d00084ec6dc" tvg-chno="185" tvg-name="Autostop per il cielo" tvg-logo="https://images.pluto.tv/channels/638f286445264d00084ec6dc/colorLogoPNG.png" group-title="Italy",Autostop per il cielo
 https://jmp2.uk/plu-638f286445264d00084ec6dc.m3u8
+#EXTINF:-1 channel-id="60b4c17a81e29300071d3a39-fr" tvg-id="60b4c17a81e29300071d3a39" tvg-chno="1016" tvg-name="Avatar" tvg-logo="https://images.pluto.tv/channels/60b4c17a81e29300071d3a39/colorLogoPNG.png" group-title="France",Avatar
+https://jmp2.uk/plu-60b4c17a81e29300071d3a39.m3u8
+#EXTINF:-1 channel-id="624da1cd2af90c0007c13205-it" tvg-id="624da1cd2af90c0007c13205" tvg-chno="51" tvg-name="Avatar" tvg-logo="https://images.pluto.tv/channels/624da1cd2af90c0007c13205/colorLogoPNG.png" group-title="Italy",Avatar
+https://jmp2.uk/plu-624da1cd2af90c0007c13205.m3u8
 #EXTINF:-1 channel-id="61c09b48d6d97900076e91c5-dk" tvg-id="61c09b48d6d97900076e91c5" tvg-chno="761" tvg-name="Avatar" tvg-logo="https://images.pluto.tv/channels/61c09b48d6d97900076e91c5/colorLogoPNG.png" group-title="Denmark",Avatar
 https://jmp2.uk/plu-61c09b48d6d97900076e91c5.m3u8
 #EXTINF:-1 channel-id="6759eeb1bd523200083b4f29-br" tvg-id="6759eeb1bd523200083b4f29" tvg-chno="1514" tvg-name="Avatar: A lenda de Aang" tvg-logo="https://images.pluto.tv/channels/6759eeb1bd523200083b4f29/colorLogoPNG.png" group-title="Brazil",Avatar: A lenda de Aang
@@ -3021,8 +3025,6 @@ https://jmp2.uk/plu-6380c428dd0f47000799907c.m3u8
 https://jmp2.uk/plu-6380c4ab81c8d2000790fbf3.m3u8
 #EXTINF:-1 channel-id="6380c36389eccc000858c50f-dk" tvg-id="6380c36389eccc000858c50f" tvg-chno="855" tvg-name="Judge Judy" tvg-logo="https://images.pluto.tv/channels/6380c36389eccc000858c50f/colorLogoPNG.png" group-title="Denmark",Judge Judy
 https://jmp2.uk/plu-6380c36389eccc000858c50f.m3u8
-#EXTINF:-1 channel-id="6304f20c941c5d00089634e7-fr" tvg-id="6304f20c941c5d00089634e7" tvg-chno="725" tvg-name="Just Tattoo of Us" tvg-logo="https://images.pluto.tv/channels/6304f20c941c5d00089634e7/colorLogoPNG.png" group-title="France",Just Tattoo of Us
-https://jmp2.uk/plu-6304f20c941c5d00089634e7.m3u8
 #EXTINF:-1 channel-id="6093f48c95132a00075fd859-it" tvg-id="6093f48c95132a00075fd859" tvg-chno="630" tvg-name="Just for Laughs GAGS" tvg-logo="https://images.pluto.tv/channels/6093f48c95132a00075fd859/colorLogoPNG_1745912777006.png" group-title="Italy",Just for Laughs GAGS
 https://jmp2.uk/plu-6093f48c95132a00075fd859.m3u8
 #EXTINF:-1 channel-id="61781878a3580d0008967df8-no" tvg-id="61781878a3580d0008967df8" tvg-chno="922" tvg-name="Just for Laughs GAGS" tvg-logo="https://images.pluto.tv/channels/61781878a3580d0008967df8/colorLogoPNG_1745912910349.png" group-title="Norway",Just for Laughs GAGS
@@ -4049,8 +4051,6 @@ https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8
 https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8
 #EXTINF:-1 channel-id="67d2b814fe36d6e7b1d2318a-dk" tvg-id="67d2b814fe36d6e7b1d2318a" tvg-chno="404" tvg-name="Pluto TV Danske klassikere" tvg-logo="https://images.pluto.tv/channels/67d2b814fe36d6e7b1d2318a/colorLogoPNG.png" group-title="Denmark",Pluto TV Danske klassikere
 https://jmp2.uk/plu-67d2b814fe36d6e7b1d2318a.m3u8
-#EXTINF:-1 channel-id="682318568e6c0f2f6c6e0038-fr" tvg-id="682318568e6c0f2f6c6e0038" tvg-chno="735" tvg-name="Pluto TV Dating" tvg-logo="https://images.pluto.tv/channels/682318568e6c0f2f6c6e0038/colorLogoPNG_1750772750435.png" group-title="France",Pluto TV Dating
-https://jmp2.uk/plu-682318568e6c0f2f6c6e0038.m3u8
 #EXTINF:-1 channel-id="5dcde07af1c85b0009b18651-mx" tvg-id="5dcde07af1c85b0009b18651" tvg-chno="827" tvg-name="Pluto TV Deportes" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG_1766080575034.png" group-title="Mexico",Pluto TV Deportes
 https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
 #EXTINF:-1 channel-id="5dcde07af1c85b0009b18651-ar" tvg-id="5dcde07af1c85b0009b18651" tvg-chno="827" tvg-name="Pluto TV Deportes" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG_1766080575034.png" group-title="Argentina",Pluto TV Deportes
