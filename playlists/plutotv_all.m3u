@@ -3305,18 +3305,24 @@ https://jmp2.uk/plu-627d3176d7dfa500077042f1.m3u8
 https://jmp2.uk/plu-600169ec77e6f70008fa9cf0.m3u8
 #EXTINF:-1 channel-id="5caf330ea5068259a32320fd-de" tvg-id="5caf330ea5068259a32320fd" tvg-chno="461" tvg-name="MTV Ink Master" tvg-logo="https://images.pluto.tv/channels/5caf330ea5068259a32320fd/colorLogoPNG_1783598886471.png" group-title="Germany",MTV Ink Master
 https://jmp2.uk/plu-5caf330ea5068259a32320fd.m3u8
+#EXTINF:-1 channel-id="6851bb3426beced4f2f67ee6-br" tvg-id="6851bb3426beced4f2f67ee6" tvg-chno="387" tvg-name="MTV Ink Master" tvg-logo="https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1783961564202.png" group-title="Brazil",MTV Ink Master
+https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8
+#EXTINF:-1 channel-id="6851b909954170e0128bc71d-mx" tvg-id="6851b909954170e0128bc71d" tvg-chno="399" tvg-name="MTV Ink Master" tvg-logo="https://images.pluto.tv/channels/6851b909954170e0128bc71d/colorLogoPNG_1783961514793.png" group-title="Mexico",MTV Ink Master
+https://jmp2.uk/plu-6851b909954170e0128bc71d.m3u8
+#EXTINF:-1 channel-id="6851b909954170e0128bc71d-cl" tvg-id="6851b909954170e0128bc71d" tvg-chno="399" tvg-name="MTV Ink Master" tvg-logo="https://images.pluto.tv/channels/6851b909954170e0128bc71d/colorLogoPNG_1783961514793.png" group-title="Chile",MTV Ink Master
+https://jmp2.uk/plu-6851b909954170e0128bc71d.m3u8
 #EXTINF:-1 channel-id="685140bd21f49d1b9d177e21-no" tvg-id="685140bd21f49d1b9d177e21" tvg-chno="2" tvg-name="MTV Ink Master" tvg-logo="https://images.pluto.tv/channels/685140bd21f49d1b9d177e21/colorLogoPNG_1783679695058.png" group-title="Norway",MTV Ink Master
 https://jmp2.uk/plu-685140bd21f49d1b9d177e21.m3u8
 #EXTINF:-1 channel-id="685140f121f49d1b9d178249-se" tvg-id="685140f121f49d1b9d178249" tvg-chno="2" tvg-name="MTV Ink Master" tvg-logo="https://images.pluto.tv/channels/685140f121f49d1b9d178249/colorLogoPNG_1783679564673.png" group-title="Sweden",MTV Ink Master
 https://jmp2.uk/plu-685140f121f49d1b9d178249.m3u8
 #EXTINF:-1 channel-id="6851407c21f49d1b9d177493-dk" tvg-id="6851407c21f49d1b9d177493" tvg-chno="2" tvg-name="MTV Ink Master" tvg-logo="https://images.pluto.tv/channels/6851407c21f49d1b9d177493/colorLogoPNG_1783679658419.png" group-title="Denmark",MTV Ink Master
 https://jmp2.uk/plu-6851407c21f49d1b9d177493.m3u8
+#EXTINF:-1 channel-id="6851b909954170e0128bc71d-ar" tvg-id="6851b909954170e0128bc71d" tvg-chno="399" tvg-name="MTV Ink Master" tvg-logo="https://images.pluto.tv/channels/6851b909954170e0128bc71d/colorLogoPNG_1783961514793.png" group-title="Argentina",MTV Ink Master
+https://jmp2.uk/plu-6851b909954170e0128bc71d.m3u8
 #EXTINF:-1 channel-id="62ac3d7dc23b400008ae5b5a-es" tvg-id="62ac3d7dc23b400008ae5b5a" tvg-chno="651" tvg-name="MTV Jerseys" tvg-logo="https://images.pluto.tv/channels/62ac3d7dc23b400008ae5b5a/colorLogoPNG.png" group-title="Spain",MTV Jerseys
 https://jmp2.uk/plu-62ac3d7dc23b400008ae5b5a.m3u8
 #EXTINF:-1 channel-id="620fdc7d8a36fc000710e3ba-br" tvg-id="620fdc7d8a36fc000710e3ba" tvg-chno="395" tvg-name="MTV Jovens e Mães" tvg-logo="https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoPNG.png" group-title="Brazil",MTV Jovens e Mães
 https://jmp2.uk/plu-620fdc7d8a36fc000710e3ba.m3u8
-#EXTINF:-1 channel-id="63988b61c8d285000798a22a-br" tvg-id="63988b61c8d285000798a22a" tvg-chno="401" tvg-name="MTV Just Tattoo of Us" tvg-logo="https://images.pluto.tv/channels/63988b61c8d285000798a22a/colorLogoPNG.png" group-title="Brazil",MTV Just Tattoo of Us
-https://jmp2.uk/plu-63988b61c8d285000798a22a.m3u8
 #EXTINF:-1 channel-id="5f1aadf373bed3000794d1d7-es" tvg-id="5f1aadf373bed3000794d1d7" tvg-chno="652" tvg-name="MTV Originals" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="Spain",MTV Originals
 https://jmp2.uk/plu-5f1aadf373bed3000794d1d7.m3u8
 #EXTINF:-1 channel-id="5caf325764025859afdd6c4d-de" tvg-id="5caf325764025859afdd6c4d" tvg-chno="460" tvg-name="MTV Pluto TV" tvg-logo="https://images.pluto.tv/channels/5caf325764025859afdd6c4d/colorLogoPNG.png" group-title="Germany",MTV Pluto TV
