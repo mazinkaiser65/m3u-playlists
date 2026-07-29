@@ -247,6 +247,8 @@ https://jmp2.uk/plu-62e93d0a80d8d10008a0181e.m3u8
 https://jmp2.uk/plu-6368e15a51e9560007c592ed.m3u8
 #EXTINF:-1 channel-id="62e94ec74823db0007277a8f" tvg-id="62e94ec74823db0007277a8f" tvg-chno="560" tvg-name="One Piece" tvg-logo="https://images.pluto.tv/channels/62e94ec74823db0007277a8f/colorLogoPNG.png" group-title="Sci-Fi + Fantasy",One Piece
 https://jmp2.uk/plu-62e94ec74823db0007277a8f.m3u8
+#EXTINF:-1 channel-id="62ea3ec626dc1900078e9f26" tvg-id="62ea3ec626dc1900078e9f26" tvg-chno="602" tvg-name="Paw Patrol" tvg-logo="https://images.pluto.tv/channels/62ea3ec626dc1900078e9f26/colorLogoPNG.png" group-title="Kids",Paw Patrol
+https://jmp2.uk/plu-62ea3ec626dc1900078e9f26.m3u8
 #EXTINF:-1 channel-id="63e20bd160bc8f0008b4c949" tvg-id="63e20bd160bc8f0008b4c949" tvg-chno="310" tvg-name="Perry Mason" tvg-logo="https://images.pluto.tv/channels/63e20bd160bc8f0008b4c949/colorLogoPNG.png" group-title="Classic TV",Perry Mason
 https://jmp2.uk/plu-63e20bd160bc8f0008b4c949.m3u8
 #EXTINF:-1 channel-id="66dad50215d2c60008d7afbd" tvg-id="66dad50215d2c60008d7afbd" tvg-chno="338" tvg-name="Pluto Classic Movie Westerns" tvg-logo="https://images.pluto.tv/channels/66dad50215d2c60008d7afbd/colorLogoPNG.png" group-title="Westerns",Pluto Classic Movie Westerns
@@ -319,8 +321,6 @@ https://jmp2.uk/plu-62fb6057f923fb0007eafb24.m3u8
 https://jmp2.uk/plu-681b196b896dcc617f8558fe.m3u8
 #EXTINF:-1 channel-id="65367e914f123d000877d021" tvg-id="65367e914f123d000877d021" tvg-chno="790" tvg-name="River Monsters" tvg-logo="https://images.pluto.tv/channels/65367e914f123d000877d021/colorLogoPNG.png" group-title="Reality",River Monsters
 https://jmp2.uk/plu-65367e914f123d000877d021.m3u8
-#EXTINF:-1 channel-id="64a28c62d609b60008ca4933" tvg-id="64a28c62d609b60008ca4933" tvg-chno="1305" tvg-name="Rock Channel" tvg-logo="https://images.pluto.tv/channels/64a28c62d609b60008ca4933/colorLogoPNG_1758270375136.png" group-title="Sports",Rock Channel
-https://jmp2.uk/plu-64a28c62d609b60008ca4933.m3u8
 #EXTINF:-1 channel-id="62fb6cd97b90e60007bc318a" tvg-id="62fb6cd97b90e60007bc318a" tvg-chno="90" tvg-name="Romance 365" tvg-logo="https://images.pluto.tv/channels/62fb6cd97b90e60007bc318a/colorLogoPNG.png" group-title="Movies",Romance 365
 https://jmp2.uk/plu-62fb6cd97b90e60007bc318a.m3u8
 #EXTINF:-1 channel-id="6874ad2f3484d60732267ba8" tvg-id="6874ad2f3484d60732267ba8" tvg-chno="149" tvg-name="Scare Tactics" tvg-logo="https://images.pluto.tv/channels/6874ad2f3484d60732267ba8/colorLogoPNG_1756936023452.png" group-title="Comedy",Scare Tactics
