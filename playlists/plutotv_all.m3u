@@ -1115,6 +1115,8 @@ https://jmp2.uk/plu-6408b41b83f58900081d91ad.m3u8
 https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8
 #EXTINF:-1 channel-id="5a66795ef91fef2c7031c599-us" tvg-id="5a66795ef91fef2c7031c599" tvg-chno="80" tvg-name="Pluto TV Romance" tvg-logo="https://images.pluto.tv/channels/5a66795ef91fef2c7031c599/colorLogoPNG.png" group-title="United States",Pluto TV Romance
 https://jmp2.uk/plu-5a66795ef91fef2c7031c599.m3u8
+#EXTINF:-1 channel-id="6a4fd96d7652851fb490204f-us" tvg-id="6a4fd96d7652851fb490204f" tvg-chno="1110" tvg-name="Pluto TV Royal Drama" tvg-logo="https://images.pluto.tv/channels/6a4fd96d7652851fb490204f/colorLogoPNG_1785178336408.png" group-title="United States",Pluto TV Royal Drama
+https://jmp2.uk/plu-6a4fd96d7652851fb490204f.m3u8
 #EXTINF:-1 channel-id="5b4fc274694c027be6ed3eea-us" tvg-id="5b4fc274694c027be6ed3eea" tvg-chno="880" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/5b4fc274694c027be6ed3eea/colorLogoPNG.png" group-title="United States",Pluto TV Sci-Fi
 https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8
 #EXTINF:-1 channel-id="5dc02a44a9518600094273ac-gb" tvg-id="5dc02a44a9518600094273ac" tvg-chno="102" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/5dc02a44a9518600094273ac/colorLogoPNG.png" group-title="United Kingdom",Pluto TV Sci-Fi
@@ -1189,6 +1191,8 @@ https://jmp2.uk/plu-67817323dd7846fe546940dd.m3u8
 https://jmp2.uk/plu-696998915a0ae9e1b563f0c6.m3u8
 #EXTINF:-1 channel-id="64240d3d466225000827412b-ca" tvg-id="64240d3d466225000827412b" tvg-chno="1410" tvg-name="Qello Concerts" tvg-logo="https://images.pluto.tv/channels/64240d3d466225000827412b/colorLogoPNG.png" group-title="Canada",Qello Concerts
 https://jmp2.uk/plu-64240d3d466225000827412b.m3u8
+#EXTINF:-1 channel-id="6a4fd9f5445cbf6c14ae3ea2-us" tvg-id="6a4fd9f5445cbf6c14ae3ea2" tvg-chno="337" tvg-name="Quirky AF" tvg-logo="https://images.pluto.tv/channels/6a4fd9f5445cbf6c14ae3ea2/colorLogoPNG_1785175145313.png" group-title="United States",Quirky AF
+https://jmp2.uk/plu-6a4fd9f5445cbf6c14ae3ea2.m3u8
 #EXTINF:-1 channel-id="62cc1e1e0d0611000837dc1d-ca" tvg-id="62cc1e1e0d0611000837dc1d" tvg-chno="1010" tvg-name="Radio-Canada INFO" tvg-logo="https://images.pluto.tv/channels/62cc1e1e0d0611000837dc1d/colorLogoPNG.png" group-title="Canada",Radio-Canada INFO
 https://jmp2.uk/plu-62cc1e1e0d0611000837dc1d.m3u8
 #EXTINF:-1 channel-id="696e024a7e92438c27a425a8-gb" tvg-id="696e024a7e92438c27a425a8" tvg-chno="53" tvg-name="Rally TV" tvg-logo="https://images.pluto.tv/channels/696e024a7e92438c27a425a8/colorLogoPNG_1770892518087.png" group-title="United Kingdom",Rally TV
@@ -1283,8 +1287,12 @@ https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8
 https://jmp2.uk/plu-63f87d057533d80008ab9549.m3u8
 #EXTINF:-1 channel-id="5efbd39f8c4ce900075d7698-us" tvg-id="5efbd39f8c4ce900075d7698" tvg-chno="840" tvg-name="Star Trek" tvg-logo="https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png" group-title="United States",Star Trek
 https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8
+#EXTINF:-1 channel-id="6049295e7dcef800073c2499-us" tvg-id="6049295e7dcef800073c2499" tvg-chno="4085" tvg-name="Star Trek en español" tvg-logo="https://images.pluto.tv/channels/6049295e7dcef800073c2499/colorLogoPNG_1771543916293.png" group-title="United States",Star Trek en español
+https://jmp2.uk/plu-6049295e7dcef800073c2499.m3u8
 #EXTINF:-1 channel-id="65c69bbfd77d450008c7ffee-us" tvg-id="65c69bbfd77d450008c7ffee" tvg-chno="844" tvg-name="Star Trek: Deep Space Nine" tvg-logo="https://images.pluto.tv/channels/65c69bbfd77d450008c7ffee/colorLogoPNG_1758310416057.png" group-title="United States",Star Trek: Deep Space Nine
 https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
+#EXTINF:-1 channel-id="6675c88da1d7ad00084762cb-us" tvg-id="6675c88da1d7ad00084762cb" tvg-chno="25" tvg-name="Star Trek: The Motion Pictures" tvg-logo="https://images.pluto.tv/channels/6675c88da1d7ad00084762cb/colorLogoPNG.png" group-title="United States",Star Trek: The Motion Pictures
+https://jmp2.uk/plu-6675c88da1d7ad00084762cb.m3u8
 #EXTINF:-1 channel-id="695c32e61ca20bb8ca802eb9-us" tvg-id="695c32e61ca20bb8ca802eb9" tvg-chno="842" tvg-name="Star Trek: The Next Generation" tvg-logo="https://images.pluto.tv/channels/695c32e61ca20bb8ca802eb9/colorLogoPNG_1768440087394.png" group-title="United States",Star Trek: The Next Generation
 https://jmp2.uk/plu-695c32e61ca20bb8ca802eb9.m3u8
 #EXTINF:-1 channel-id="634dacf51d90320007fcd5fa-us" tvg-id="634dacf51d90320007fcd5fa" tvg-chno="846" tvg-name="Star Trek: Voyager" tvg-logo="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG_1758310287876.png" group-title="United States",Star Trek: Voyager
