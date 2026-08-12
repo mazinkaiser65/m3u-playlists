@@ -501,7 +501,7 @@ https://jmp2.uk/stvp-US27000062U
 https://jmp2.uk/stvp-USBB1000003HL
 #EXTINF:-1 channel-id="USBC4400004KK" tvg-id="USBC4400004KK" tvg-chno="2680" tvg-name="Just for Laughs GAGS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400004KK_20260421T143113SQUARE.png" group-title="Comedy",Just for Laughs GAGS
 https://jmp2.uk/stvp-USBC4400004KK
-#EXTINF:-1 channel-id="US1700017NM" tvg-id="US1700017NM" tvg-chno="1613" tvg-name="K-Drama+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1700017NM_20260707T035759SQUARE.png" group-title="Action & Drama",K-Drama+
+#EXTINF:-1 channel-id="US1700017NM" tvg-id="US1700017NM" tvg-chno="1613" tvg-name="K-Drama+" tvg-logo="" group-title="Action & Drama",K-Drama+
 https://jmp2.uk/stvp-US1700017NM
 #EXTINF:-1 channel-id="US2900015RO" tvg-id="US2900015RO" tvg-chno="3702" tvg-name="Kartoon Channel!" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900015RO_20260421T142016SQUARE.png" group-title="Kids",Kartoon Channel!
 https://jmp2.uk/stvp-US2900015RO
@@ -655,7 +655,7 @@ https://jmp2.uk/stvp-USBB2200014DK
 https://jmp2.uk/stvp-USBD420002446
 #EXTINF:-1 channel-id="US300062TG" tvg-id="US300062TG" tvg-chno="2327" tvg-name="NESN Nation" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300062TG_20260421T143408SQUARE.png" group-title="Sports & Outdoors",NESN Nation
 https://jmp2.uk/stvp-US300062TG
-#EXTINF:-1 channel-id="USAJ30000122O" tvg-id="USAJ30000122O" tvg-chno="1275" tvg-name="NEW KMOVIES" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000122O_20251014T230114SQUARE.png" group-title="Movies",NEW KMOVIES
+#EXTINF:-1 channel-id="USAJ30000122O" tvg-id="USAJ30000122O" tvg-chno="1275" tvg-name="NEW KMOVIES" tvg-logo="" group-title="Movies",NEW KMOVIES
 https://jmp2.uk/stvp-USAJ30000122O
 #EXTINF:-1 channel-id="USAJ3000013FJ" tvg-id="USAJ3000013FJ" tvg-chno="4451" tvg-name="NEW KPOP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20251014T230117SQUARE.png" group-title="Music",NEW KPOP
 https://jmp2.uk/stvp-USAJ3000013FJ

@@ -259,7 +259,7 @@ https://jmp2.uk/stvp-CA1100002J6
 https://jmp2.uk/stvp-CA2700002RF
 #EXTINF:-1 channel-id="CABB2500030GT" tvg-id="CABB2500030GT" tvg-chno="2133" tvg-name="JOURNY TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2500030GT_20260421T140453SQUARE.png" group-title="Home & Food",JOURNY TV
 https://jmp2.uk/stvp-CABB2500030GT
-#EXTINF:-1 channel-id="CA1700004QS" tvg-id="CA1700004QS" tvg-chno="1613" tvg-name="K-Drama+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1700004QS_20260707T040103SQUARE.png" group-title="Entertainment",K-Drama+
+#EXTINF:-1 channel-id="CA1700004QS" tvg-id="CA1700004QS" tvg-chno="1613" tvg-name="K-Drama+" tvg-logo="" group-title="Entertainment",K-Drama+
 https://jmp2.uk/stvp-CA1700004QS
 #EXTINF:-1 channel-id="CA2900011BJ" tvg-id="CA2900011BJ" tvg-chno="3698" tvg-name="Kartoon Channel!" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2900011BJ_20260421T141214SQUARE.png" group-title="Kids",Kartoon Channel!
 https://jmp2.uk/stvp-CA2900011BJ
@@ -321,7 +321,7 @@ https://jmp2.uk/stvp-CA20000034S
 https://jmp2.uk/stvp-CA700002VS
 #EXTINF:-1 channel-id="CAAJ2700011IF" tvg-id="CAAJ2700011IF" tvg-chno="1114" tvg-name="NBC News NOW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700011IF_20260421T141220SQUARE.png" group-title="News & Opinion",NBC News NOW
 https://jmp2.uk/stvp-CAAJ2700011IF
-#EXTINF:-1 channel-id="CA18000032W" tvg-id="CA18000032W" tvg-chno="1275" tvg-name="NEW KMOVIES" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA18000032W_20251013T235954SQUARE.png" group-title="Movies",NEW KMOVIES
+#EXTINF:-1 channel-id="CA18000032W" tvg-id="CA18000032W" tvg-chno="1275" tvg-name="NEW KMOVIES" tvg-logo="" group-title="Movies",NEW KMOVIES
 https://jmp2.uk/stvp-CA18000032W
 #EXTINF:-1 channel-id="CA1800004L7" tvg-id="CA1800004L7" tvg-chno="4451" tvg-name="NEW KPOP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1800004L7_20251013T235957SQUARE.png" group-title="Music",NEW KPOP
 https://jmp2.uk/stvp-CA1800004L7
