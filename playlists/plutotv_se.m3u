@@ -223,6 +223,8 @@ https://jmp2.uk/plu-639b4f14be012600070fe1be.m3u8
 https://jmp2.uk/plu-6578878132c1b300089aa005.m3u8
 #EXTINF:-1 channel-id="65c340983ba51e00083988e8" tvg-id="65c340983ba51e00083988e8" tvg-chno="160" tvg-name="Monster Jam" tvg-logo="https://images.pluto.tv/channels/65c340983ba51e00083988e8/colorLogoPNG.png" group-title="Sport",Monster Jam
 https://jmp2.uk/plu-65c340983ba51e00083988e8.m3u8
+#EXTINF:-1 channel-id="6a68c55b75fd5e3828f08d6e" tvg-id="6a68c55b75fd5e3828f08d6e" tvg-chno="4" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a68c55b75fd5e3828f08d6e/colorLogoPNG_1785251255335.png" group-title="Nytt på Pluto TV",NFL Channel
+https://jmp2.uk/plu-6a68c55b75fd5e3828f08d6e.m3u8
 #EXTINF:-1 channel-id="6728d33f030a2c0008edf4be" tvg-id="6728d33f030a2c0008edf4be" tvg-chno="304" tvg-name="NonStop Kung Fu" tvg-logo="https://images.pluto.tv/channels/6728d33f030a2c0008edf4be/colorLogoPNG_1732097527894.png" group-title="Filmer",NonStop Kung Fu
 https://jmp2.uk/plu-6728d33f030a2c0008edf4be.m3u8
 #EXTINF:-1 channel-id="619e4833244e500007564d5a" tvg-id="619e4833244e500007564d5a" tvg-chno="668" tvg-name="Nosey" tvg-logo="https://images.pluto.tv/channels/619e4833244e500007564d5a/colorLogoPNG.png" group-title="Talkshow",Nosey
