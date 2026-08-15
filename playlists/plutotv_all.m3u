@@ -3163,7 +3163,7 @@ https://jmp2.uk/plu-65cba715dc10a40008034917.m3u8
 https://jmp2.uk/plu-62f4f414c2ba130007f8b24e.m3u8
 #EXTINF:-1 channel-id="62fb66c867976d0007647e54-cl" tvg-id="62fb66c867976d0007647e54" tvg-chno="850" tvg-name="Kitchen Battles" tvg-logo="https://images.pluto.tv/channels/62fb66c867976d0007647e54/colorLogoPNG.png" group-title="Chile",Kitchen Battles
 https://jmp2.uk/plu-62fb66c867976d0007647e54.m3u8
-#EXTINF:-1 channel-id="6964b92b9174e77a0e7dbd81-no" tvg-id="6964b92b9174e77a0e7dbd81" tvg-chno="267" tvg-name="Klassiske dramaserier fra Viafree" tvg-logo="https://images.pluto.tv/channels/6964b92b9174e77a0e7dbd81/colorLogoPNG_1771833546695.png" group-title="Norway",Klassiske dramaserier fra Viafree
+#EXTINF:-1 channel-id="6964b92b9174e77a0e7dbd81-no" tvg-id="6964b92b9174e77a0e7dbd81" tvg-chno="11" tvg-name="Klassiske dramaserier fra Viafree" tvg-logo="https://images.pluto.tv/channels/6964b92b9174e77a0e7dbd81/colorLogoPNG_1771833546695.png" group-title="Norway",Klassiske dramaserier fra Viafree
 https://jmp2.uk/plu-6964b92b9174e77a0e7dbd81.m3u8
 #EXTINF:-1 channel-id="6964b8f64b352fda70edd4c2-dk" tvg-id="6964b8f64b352fda70edd4c2" tvg-chno="14" tvg-name="Klassiske dramaserier fra Viafree" tvg-logo="https://images.pluto.tv/channels/6964b8f64b352fda70edd4c2/colorLogoPNG_1771833348752.png" group-title="Denmark",Klassiske dramaserier fra Viafree
 https://jmp2.uk/plu-6964b8f64b352fda70edd4c2.m3u8
@@ -3397,7 +3397,7 @@ https://jmp2.uk/plu-5caf330ea5068259a32320fd.m3u8
 https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8
 #EXTINF:-1 channel-id="6851b909954170e0128bc71d-mx" tvg-id="6851b909954170e0128bc71d" tvg-chno="399" tvg-name="MTV Ink Master" tvg-logo="https://images.pluto.tv/channels/6851b909954170e0128bc71d/colorLogoPNG_1783961514793.png" group-title="Mexico",MTV Ink Master
 https://jmp2.uk/plu-6851b909954170e0128bc71d.m3u8
-#EXTINF:-1 channel-id="685140bd21f49d1b9d177e21-no" tvg-id="685140bd21f49d1b9d177e21" tvg-chno="516" tvg-name="MTV Ink Master" tvg-logo="https://images.pluto.tv/channels/685140bd21f49d1b9d177e21/colorLogoPNG_1783679695058.png" group-title="Norway",MTV Ink Master
+#EXTINF:-1 channel-id="685140bd21f49d1b9d177e21-no" tvg-id="685140bd21f49d1b9d177e21" tvg-chno="9" tvg-name="MTV Ink Master" tvg-logo="https://images.pluto.tv/channels/685140bd21f49d1b9d177e21/colorLogoPNG_1783679695058.png" group-title="Norway",MTV Ink Master
 https://jmp2.uk/plu-685140bd21f49d1b9d177e21.m3u8
 #EXTINF:-1 channel-id="685140f121f49d1b9d178249-se" tvg-id="685140f121f49d1b9d178249" tvg-chno="464" tvg-name="MTV Ink Master" tvg-logo="https://images.pluto.tv/channels/685140f121f49d1b9d178249/colorLogoPNG_1783679564673.png" group-title="Sweden",MTV Ink Master
 https://jmp2.uk/plu-685140f121f49d1b9d178249.m3u8
@@ -3713,8 +3713,6 @@ https://jmp2.uk/plu-6a68dd013ee9d9664278cfb6.m3u8
 https://jmp2.uk/plu-6a6a02bd93ac783fe20d1bf7.m3u8
 #EXTINF:-1 channel-id="69690bb672db627531285928-it" tvg-id="69690bb672db627531285928" tvg-chno="50" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/69690bb672db627531285928/colorLogoPNG_1785250829369.png" group-title="Italy",NFL Channel
 https://jmp2.uk/plu-69690bb672db627531285928.m3u8
-#EXTINF:-1 channel-id="6a68c4f2f107abb1a6e9df7a-no" tvg-id="6a68c4f2f107abb1a6e9df7a" tvg-chno="1" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a68c4f2f107abb1a6e9df7a/colorLogoPNG_1785251107268.png" group-title="Norway",NFL Channel
-https://jmp2.uk/plu-6a68c4f2f107abb1a6e9df7a.m3u8
 #EXTINF:-1 channel-id="6a68c55b75fd5e3828f08d6e-se" tvg-id="6a68c55b75fd5e3828f08d6e" tvg-chno="4" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a68c55b75fd5e3828f08d6e/colorLogoPNG_1785251255335.png" group-title="Sweden",NFL Channel
 https://jmp2.uk/plu-6a68c55b75fd5e3828f08d6e.m3u8
 #EXTINF:-1 channel-id="6a68c47558918556e6078b1d-dk" tvg-id="6a68c47558918556e6078b1d" tvg-chno="3" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a68c47558918556e6078b1d/colorLogoPNG_1785250985851.png" group-title="Denmark",NFL Channel
