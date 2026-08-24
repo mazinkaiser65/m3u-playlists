@@ -15,7 +15,7 @@ https://jmp2.uk/plu-5ddf901280e3550009139c86.m3u8
 https://jmp2.uk/plu-656df2849d5ac400083be647.m3u8
 #EXTINF:-1 channel-id="68487fb3f212bedacf5a53e3-us" tvg-id="68487fb3f212bedacf5a53e3" tvg-chno="2050" tvg-name="50 Cent Action" tvg-logo="https://images.pluto.tv/channels/68487fb3f212bedacf5a53e3/colorLogoPNG_1749846553889.png" group-title="United States",50 Cent Action
 https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
-#EXTINF:-1 channel-id="68c8203efef6d8a2a6f13906-gb" tvg-id="68c8203efef6d8a2a6f13906" tvg-chno="610" tvg-name="60 Days in Jail" tvg-logo="https://images.pluto.tv/channels/68c8203efef6d8a2a6f13906/colorLogoPNG_1765385204159.png" group-title="United Kingdom",60 Days in Jail
+#EXTINF:-1 channel-id="68c8203efef6d8a2a6f13906-gb" tvg-id="68c8203efef6d8a2a6f13906" tvg-chno="701" tvg-name="60 Days in Jail" tvg-logo="https://images.pluto.tv/channels/68c8203efef6d8a2a6f13906/colorLogoPNG_1765385204159.png" group-title="United Kingdom",60 Days in Jail
 https://jmp2.uk/plu-68c8203efef6d8a2a6f13906.m3u8
 #EXTINF:-1 channel-id="66b646f9cd0d3100086af83c-us" tvg-id="66b646f9cd0d3100086af83c" tvg-chno="3095" tvg-name="60 Minutes" tvg-logo="https://images.pluto.tv/channels/66b646f9cd0d3100086af83c/colorLogoPNG.png" group-title="United States",60 Minutes
 https://jmp2.uk/plu-66b646f9cd0d3100086af83c.m3u8
@@ -223,7 +223,7 @@ https://jmp2.uk/plu-696997049889f8db34c936c2.m3u8
 https://jmp2.uk/plu-6176fd25e83a5f0007a464c9.m3u8
 #EXTINF:-1 channel-id="6549310a53fc97000838fcc9-us" tvg-id="6549310a53fc97000838fcc9" tvg-chno="1780" tvg-name="Bravo Vault" tvg-logo="https://images.pluto.tv/channels/6549310a53fc97000838fcc9/colorLogoPNG.png" group-title="United States",Bravo Vault
 https://jmp2.uk/plu-6549310a53fc97000838fcc9.m3u8
-#EXTINF:-1 channel-id="60f5d389985a0c0007357304-us" tvg-id="60f5d389985a0c0007357304" tvg-chno="1090" tvg-name="BritBox Mysteries" tvg-logo="https://images.pluto.tv/channels/60f5d389985a0c0007357304/colorLogoPNG_1786980983531.png" group-title="United States",BritBox Mysteries
+#EXTINF:-1 channel-id="60f5d389985a0c0007357304-us" tvg-id="60f5d389985a0c0007357304" tvg-chno="1090" tvg-name="BritBox Mysteries" tvg-logo="https://images.pluto.tv/channels/60f5d389985a0c0007357304/colorLogoPNG.png" group-title="United States",BritBox Mysteries
 https://jmp2.uk/plu-60f5d389985a0c0007357304.m3u8
 #EXTINF:-1 channel-id="65031534d545e9000881ed10-gb" tvg-id="65031534d545e9000881ed10" tvg-chno="111" tvg-name="British Screen Classics" tvg-logo="https://images.pluto.tv/channels/65031534d545e9000881ed10/colorLogoPNG.png" group-title="United Kingdom",British Screen Classics
 https://jmp2.uk/plu-65031534d545e9000881ed10.m3u8
@@ -267,10 +267,10 @@ https://jmp2.uk/plu-5dc9b8223687ff000936ed79.m3u8
 https://jmp2.uk/plu-5dc48170e280c80009a861ab.m3u8
 #EXTINF:-1 channel-id="5eb1b05ea168cc000767ba67-us" tvg-id="5eb1b05ea168cc000767ba67" tvg-chno="5210" tvg-name="CBS News Philadelphia" tvg-logo="https://images.pluto.tv/channels/5eb1b05ea168cc000767ba67/colorLogoPNG.png" group-title="United States",CBS News Philadelphia
 https://jmp2.uk/plu-5eb1b05ea168cc000767ba67.m3u8
+#EXTINF:-1 channel-id="62cdcac1be7a970008781a64-us" tvg-id="62cdcac1be7a970008781a64" tvg-chno="2570" tvg-name="CBS News Pittsburgh" tvg-logo="https://images.pluto.tv/channels/62cdcac1be7a970008781a64/colorLogoPNG.png" group-title="United States",CBS News Pittsburgh
+https://jmp2.uk/plu-62cdcac1be7a970008781a64.m3u8
 #EXTINF:-1 channel-id="5eb1b17aa5277e00083f6521-us" tvg-id="5eb1b17aa5277e00083f6521" tvg-chno="5220" tvg-name="CBS News Pittsburgh" tvg-logo="https://images.pluto.tv/channels/5eb1b17aa5277e00083f6521/colorLogoPNG.png" group-title="United States",CBS News Pittsburgh
 https://jmp2.uk/plu-5eb1b17aa5277e00083f6521.m3u8
-#EXTINF:-1 channel-id="62cdcd05b9e7a10007399603-us" tvg-id="62cdcd05b9e7a10007399603" tvg-chno="2570" tvg-name="CBS News Sacramento" tvg-logo="https://images.pluto.tv/channels/62cdcd05b9e7a10007399603/colorLogoPNG.png" group-title="United States",CBS News Sacramento
-https://jmp2.uk/plu-62cdcd05b9e7a10007399603.m3u8
 #EXTINF:-1 channel-id="60cb6df2b2ad610008cd5bea-us" tvg-id="60cb6df2b2ad610008cd5bea" tvg-chno="5230" tvg-name="CBS News Sacramento" tvg-logo="https://images.pluto.tv/channels/60cb6df2b2ad610008cd5bea/colorLogoPNG.png" group-title="United States",CBS News Sacramento
 https://jmp2.uk/plu-60cb6df2b2ad610008cd5bea.m3u8
 #EXTINF:-1 channel-id="5eceb0d4065c240007688ec6-us" tvg-id="5eceb0d4065c240007688ec6" tvg-chno="5250" tvg-name="CBS News Texas" tvg-logo="https://images.pluto.tv/channels/5eceb0d4065c240007688ec6/colorLogoPNG.png" group-title="United States",CBS News Texas
@@ -555,7 +555,7 @@ https://jmp2.uk/plu-65a6a5e90c7ff50008cb9815.m3u8
 https://jmp2.uk/plu-5e54187aae660e00093561d6.m3u8
 #EXTINF:-1 channel-id="62e90e8cb05d2b0007f10a61-ca" tvg-id="62e90e8cb05d2b0007f10a61" tvg-chno="895" tvg-name="Game Show Central" tvg-logo="https://images.pluto.tv/channels/62e90e8cb05d2b0007f10a61/colorLogoPNG.png" group-title="Canada",Game Show Central
 https://jmp2.uk/plu-62e90e8cb05d2b0007f10a61.m3u8
-#EXTINF:-1 channel-id="654a44d2f9cc82000868522e-gb" tvg-id="654a44d2f9cc82000868522e" tvg-chno="6" tvg-name="Gamera" tvg-logo="https://images.pluto.tv/channels/654a44d2f9cc82000868522e/colorLogoPNG_1784283073984.png" group-title="United Kingdom",Gamera
+#EXTINF:-1 channel-id="654a44d2f9cc82000868522e-gb" tvg-id="654a44d2f9cc82000868522e" tvg-chno="7" tvg-name="Gamera" tvg-logo="https://images.pluto.tv/channels/654a44d2f9cc82000868522e/colorLogoPNG_1784283073984.png" group-title="United Kingdom",Gamera
 https://jmp2.uk/plu-654a44d2f9cc82000868522e.m3u8
 #EXTINF:-1 channel-id="60faf9ddfcc1f200070a5932-us" tvg-id="60faf9ddfcc1f200070a5932" tvg-chno="3910" tvg-name="Garfield and Friends" tvg-logo="https://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/colorLogoPNG.png" group-title="United States",Garfield and Friends
 https://jmp2.uk/plu-60faf9ddfcc1f200070a5932.m3u8
@@ -739,6 +739,10 @@ https://jmp2.uk/plu-64c2201a2a7f2200089a0af2.m3u8
 https://jmp2.uk/plu-62b97c5f0d8c8e0007cf48b9.m3u8
 #EXTINF:-1 channel-id="63335b193583440007c859fb-us" tvg-id="63335b193583440007c859fb" tvg-chno="2070" tvg-name="Lifetime Movie Favorites" tvg-logo="https://images.pluto.tv/channels/63335b193583440007c859fb/colorLogoPNG_1767722325837.png" group-title="United States",Lifetime Movie Favorites
 https://jmp2.uk/plu-63335b193583440007c859fb.m3u8
+#EXTINF:-1 channel-id="5eb301b7395671000780d100-us" tvg-id="5eb301b7395671000780d100" tvg-chno="3740" tvg-name="Little Angel's Playroom" tvg-logo="https://images.pluto.tv/channels/5eb301b7395671000780d100/colorLogoPNG.png" group-title="United States",Little Angel's Playroom
+https://jmp2.uk/plu-5eb301b7395671000780d100.m3u8
+#EXTINF:-1 channel-id="60493283ffc52f000710edae-us" tvg-id="60493283ffc52f000710edae" tvg-chno="3750" tvg-name="Little Angel's Playroom en Español" tvg-logo="https://images.pluto.tv/channels/60493283ffc52f000710edae/colorLogoPNG.png" group-title="United States",Little Angel's Playroom en Español
+https://jmp2.uk/plu-60493283ffc52f000710edae.m3u8
 #EXTINF:-1 channel-id="654933ac986ad20008a1f406-us" tvg-id="654933ac986ad20008a1f406" tvg-chno="798" tvg-name="Little House on the Prairie" tvg-logo="https://images.pluto.tv/channels/654933ac986ad20008a1f406/colorLogoPNG.png" group-title="United States",Little House on the Prairie
 https://jmp2.uk/plu-654933ac986ad20008a1f406.m3u8
 #EXTINF:-1 channel-id="51c75f7bb6f26ba1cd00002f-us" tvg-id="51c75f7bb6f26ba1cd00002f" tvg-chno="3730" tvg-name="Little Stars Universe" tvg-logo="https://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png" group-title="United States",Little Stars Universe
@@ -799,8 +803,6 @@ https://jmp2.uk/plu-66bb3212fe11e5000883ea6b.m3u8
 https://jmp2.uk/plu-6887a86be3703b7d42b3eca3.m3u8
 #EXTINF:-1 channel-id="60f754f98185580007eb0754-us" tvg-id="60f754f98185580007eb0754" tvg-chno="680" tvg-name="Matlock" tvg-logo="https://images.pluto.tv/channels/60f754f98185580007eb0754/colorLogoPNG_1731836706925.png" group-title="United States",Matlock
 https://jmp2.uk/plu-60f754f98185580007eb0754.m3u8
-#EXTINF:-1 channel-id="6850426e53d981d1fdb0d966-gb" tvg-id="6850426e53d981d1fdb0d966" tvg-chno="208" tvg-name="Matlock" tvg-logo="https://images.pluto.tv/channels/6850426e53d981d1fdb0d966/colorLogoPNG_1750165804146.png" group-title="United Kingdom",Matlock
-https://jmp2.uk/plu-6850426e53d981d1fdb0d966.m3u8
 #EXTINF:-1 channel-id="63da365f60bc8f0008a50f44-ca" tvg-id="63da365f60bc8f0008a50f44" tvg-chno="305" tvg-name="Matlock" tvg-logo="https://images.pluto.tv/channels/63da365f60bc8f0008a50f44/colorLogoPNG.png" group-title="Canada",Matlock
 https://jmp2.uk/plu-63da365f60bc8f0008a50f44.m3u8
 #EXTINF:-1 channel-id="62fb6a4feb32e8000708f4d0-ca" tvg-id="62fb6a4feb32e8000708f4d0" tvg-chno="1215" tvg-name="Max & Ruby" tvg-logo="https://images.pluto.tv/channels/62fb6a4feb32e8000708f4d0/colorLogoPNG.png" group-title="Canada",Max & Ruby
@@ -891,6 +893,8 @@ https://jmp2.uk/plu-62f4f5de1c100100075665ef.m3u8
 https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8
 #EXTINF:-1 channel-id="5ced7d5df64be98e07ed47b6-us" tvg-id="5ced7d5df64be98e07ed47b6" tvg-chno="2800" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG_1785344058498.png" group-title="United States",NFL Channel
 https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
+#EXTINF:-1 channel-id="6a6a02ce1b1c90d8bf9556d8-gb" tvg-id="6a6a02ce1b1c90d8bf9556d8" tvg-chno="4" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a6a02ce1b1c90d8bf9556d8/colorLogoPNG_1785333477887.png" group-title="United Kingdom",NFL Channel
+https://jmp2.uk/plu-6a6a02ce1b1c90d8bf9556d8.m3u8
 #EXTINF:-1 channel-id="6a68dd013ee9d9664278cfb6-ca" tvg-id="6a68dd013ee9d9664278cfb6" tvg-chno="1" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a68dd013ee9d9664278cfb6/colorLogoPNG_1785257335736.png" group-title="Canada",NFL Channel
 https://jmp2.uk/plu-6a68dd013ee9d9664278cfb6.m3u8
 #EXTINF:-1 channel-id="5da0c85bd2c9c10009370984-us" tvg-id="5da0c85bd2c9c10009370984" tvg-chno="4020" tvg-name="Naruto" tvg-logo="https://images.pluto.tv/channels/5da0c85bd2c9c10009370984/colorLogoPNG.png" group-title="United States",Naruto
@@ -1043,7 +1047,7 @@ https://jmp2.uk/plu-65a6a7a00c7ff50008cba07b.m3u8
 https://jmp2.uk/plu-62e92708a7ce600007b2676a.m3u8
 #EXTINF:-1 channel-id="5f4d8594eb979c0007706de7-us" tvg-id="5f4d8594eb979c0007706de7" tvg-chno="120" tvg-name="Pluto TV Crime Movies" tvg-logo="https://images.pluto.tv/channels/5f4d8594eb979c0007706de7/colorLogoPNG.png" group-title="United States",Pluto TV Crime Movies
 https://jmp2.uk/plu-5f4d8594eb979c0007706de7.m3u8
-#EXTINF:-1 channel-id="6a300571cdfd39da91df9159-gb" tvg-id="6a300571cdfd39da91df9159" tvg-chno="7" tvg-name="Pluto TV Crime Thrillers" tvg-logo="https://images.pluto.tv/channels/6a300571cdfd39da91df9159/colorLogoPNG_1784552750944.png" group-title="United Kingdom",Pluto TV Crime Thrillers
+#EXTINF:-1 channel-id="6a300571cdfd39da91df9159-gb" tvg-id="6a300571cdfd39da91df9159" tvg-chno="8" tvg-name="Pluto TV Crime Thrillers" tvg-logo="https://images.pluto.tv/channels/6a300571cdfd39da91df9159/colorLogoPNG_1784552750944.png" group-title="United Kingdom",Pluto TV Crime Thrillers
 https://jmp2.uk/plu-6a300571cdfd39da91df9159.m3u8
 #EXTINF:-1 channel-id="5c665db3e6c01b72c4977bc2-us" tvg-id="5c665db3e6c01b72c4977bc2" tvg-chno="250" tvg-name="Pluto TV Cult Films" tvg-logo="https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png" group-title="United States",Pluto TV Cult Films
 https://jmp2.uk/plu-5c665db3e6c01b72c4977bc2.m3u8
@@ -1103,7 +1107,7 @@ https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8
 https://jmp2.uk/plu-5d4af2ffa9506ab29cf38c38.m3u8
 #EXTINF:-1 channel-id="62e92a58f3e4290007290c96-ca" tvg-id="62e92a58f3e4290007290c96" tvg-chno="585" tvg-name="Pluto TV Paranormal" tvg-logo="https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png" group-title="Canada",Pluto TV Paranormal
 https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8
-#EXTINF:-1 channel-id="65a7b0814a10d800085ff2df-gb" tvg-id="65a7b0814a10d800085ff2df" tvg-chno="701" tvg-name="Pluto TV PetrolHeads" tvg-logo="https://images.pluto.tv/channels/65a7b0814a10d800085ff2df/colorLogoPNG.png" group-title="United Kingdom",Pluto TV PetrolHeads
+#EXTINF:-1 channel-id="65a7b0814a10d800085ff2df-gb" tvg-id="65a7b0814a10d800085ff2df" tvg-chno="702" tvg-name="Pluto TV PetrolHeads" tvg-logo="https://images.pluto.tv/channels/65a7b0814a10d800085ff2df/colorLogoPNG.png" group-title="United Kingdom",Pluto TV PetrolHeads
 https://jmp2.uk/plu-65a7b0814a10d800085ff2df.m3u8
 #EXTINF:-1 channel-id="69fa3faab9c0f0d444e64de3-us" tvg-id="69fa3faab9c0f0d444e64de3" tvg-chno="2161" tvg-name="Pluto TV Pride" tvg-logo="https://images.pluto.tv/channels/69fa3faab9c0f0d444e64de3/colorLogoPNG_1779985115765.png" group-title="United States",Pluto TV Pride
 https://jmp2.uk/plu-69fa3faab9c0f0d444e64de3.m3u8
@@ -1251,7 +1255,7 @@ https://jmp2.uk/plu-637e55347427a40007fac703.m3u8
 https://jmp2.uk/plu-66ba53cda4ee2700083fac09.m3u8
 #EXTINF:-1 channel-id="66a7f0a78561260008c177f2-us" tvg-id="66a7f0a78561260008c177f2" tvg-chno="2702" tvg-name="Salem News Channel" tvg-logo="https://images.pluto.tv/channels/66a7f0a78561260008c177f2/colorLogoPNG.png" group-title="United States",Salem News Channel
 https://jmp2.uk/plu-66a7f0a78561260008c177f2.m3u8
-#EXTINF:-1 channel-id="6a3a463fd7a42182ccd2d0b1-gb" tvg-id="6a3a463fd7a42182ccd2d0b1" tvg-chno="4" tvg-name="Sam and Colby" tvg-logo="https://images.pluto.tv/channels/6a3a463fd7a42182ccd2d0b1/colorLogoPNG_1785310990240.png" group-title="United Kingdom",Sam and Colby
+#EXTINF:-1 channel-id="6a3a463fd7a42182ccd2d0b1-gb" tvg-id="6a3a463fd7a42182ccd2d0b1" tvg-chno="6" tvg-name="Sam and Colby" tvg-logo="https://images.pluto.tv/channels/6a3a463fd7a42182ccd2d0b1/colorLogoPNG_1785310990240.png" group-title="United Kingdom",Sam and Colby
 https://jmp2.uk/plu-6a3a463fd7a42182ccd2d0b1.m3u8
 #EXTINF:-1 channel-id="6874ad2f3484d60732267ba8-ca" tvg-id="6874ad2f3484d60732267ba8" tvg-chno="149" tvg-name="Scare Tactics" tvg-logo="https://images.pluto.tv/channels/6874ad2f3484d60732267ba8/colorLogoPNG_1756936023452.png" group-title="Canada",Scare Tactics
 https://jmp2.uk/plu-6874ad2f3484d60732267ba8.m3u8
@@ -1321,7 +1325,7 @@ https://jmp2.uk/plu-693bf37b75432d022c85ef01.m3u8
 https://jmp2.uk/plu-696689d13b9ce349c9be3a18.m3u8
 #EXTINF:-1 channel-id="6887aaf4e3703b7d42b71a1e-us" tvg-id="6887aaf4e3703b7d42b71a1e" tvg-chno="1467" tvg-name="Storage Wars by A&E" tvg-logo="https://images.pluto.tv/channels/6887aaf4e3703b7d42b71a1e/colorLogoPNG_1784129527094.png" group-title="United States",Storage Wars by A&E
 https://jmp2.uk/plu-6887aaf4e3703b7d42b71a1e.m3u8
-#EXTINF:-1 channel-id="62f2ce24f328e00007e7f55a-us" tvg-id="62f2ce24f328e00007e7f55a" tvg-chno="1070" tvg-name="Stories by AMC" tvg-logo="https://images.pluto.tv/channels/62f2ce24f328e00007e7f55a/colorLogoPNG_1787093171101.png" group-title="United States",Stories by AMC
+#EXTINF:-1 channel-id="62f2ce24f328e00007e7f55a-us" tvg-id="62f2ce24f328e00007e7f55a" tvg-chno="1070" tvg-name="Stories by AMC" tvg-logo="https://images.pluto.tv/channels/62f2ce24f328e00007e7f55a/colorLogoPNG-1660316210137.png" group-title="United States",Stories by AMC
 https://jmp2.uk/plu-62f2ce24f328e00007e7f55a.m3u8
 #EXTINF:-1 channel-id="667f393836a2f90008fd17c0-us" tvg-id="667f393836a2f90008fd17c0" tvg-chno="3855" tvg-name="Strawberry Shortcake and Friends" tvg-logo="https://images.pluto.tv/channels/667f393836a2f90008fd17c0/colorLogoPNG_1753982261322.png" group-title="United States",Strawberry Shortcake and Friends
 https://jmp2.uk/plu-667f393836a2f90008fd17c0.m3u8
@@ -1371,9 +1375,9 @@ https://jmp2.uk/plu-66a10eeb46762a0008201e85.m3u8
 https://jmp2.uk/plu-6627621d56fc840008e47c90.m3u8
 #EXTINF:-1 channel-id="681109b688b9d85d0938c6ba-us" tvg-id="681109b688b9d85d0938c6ba" tvg-chno="2825" tvg-name="TennisChannel 2" tvg-logo="https://images.pluto.tv/channels/681109b688b9d85d0938c6ba/colorLogoPNG_1747434868944.png" group-title="United States",TennisChannel 2
 https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8
-#EXTINF:-1 channel-id="69b91797611b4a9fce103037-gb" tvg-id="69b91797611b4a9fce103037" tvg-chno="9" tvg-name="That Peter Crouch Podcast" tvg-logo="https://images.pluto.tv/channels/69b91797611b4a9fce103037/colorLogoPNG_1776258946102.png" group-title="United Kingdom",That Peter Crouch Podcast
+#EXTINF:-1 channel-id="69b91797611b4a9fce103037-gb" tvg-id="69b91797611b4a9fce103037" tvg-chno="10" tvg-name="That Peter Crouch Podcast" tvg-logo="https://images.pluto.tv/channels/69b91797611b4a9fce103037/colorLogoPNG_1776258946102.png" group-title="United Kingdom",That Peter Crouch Podcast
 https://jmp2.uk/plu-69b91797611b4a9fce103037.m3u8
-#EXTINF:-1 channel-id="69c3c6c912e978ee49277dc7-gb" tvg-id="69c3c6c912e978ee49277dc7" tvg-chno="8" tvg-name="That's 60s" tvg-logo="https://images.pluto.tv/channels/69c3c6c912e978ee49277dc7/colorLogoPNG_1779185580246.png" group-title="United Kingdom",That's 60s
+#EXTINF:-1 channel-id="69c3c6c912e978ee49277dc7-gb" tvg-id="69c3c6c912e978ee49277dc7" tvg-chno="9" tvg-name="That's 60s" tvg-logo="https://images.pluto.tv/channels/69c3c6c912e978ee49277dc7/colorLogoPNG_1779185580246.png" group-title="United Kingdom",That's 60s
 https://jmp2.uk/plu-69c3c6c912e978ee49277dc7.m3u8
 #EXTINF:-1 channel-id="64c37e710e086a0009e824ab-gb" tvg-id="64c37e710e086a0009e824ab" tvg-chno="906" tvg-name="That's 70s" tvg-logo="https://images.pluto.tv/channels/64c37e710e086a0009e824ab/colorLogoPNG_1771232729979.png" group-title="United Kingdom",That's 70s
 https://jmp2.uk/plu-64c37e710e086a0009e824ab.m3u8
@@ -1535,14 +1539,6 @@ https://jmp2.uk/plu-65a7b04e7bdc8d0008488307.m3u8
 https://jmp2.uk/plu-69dd5d9dceddf13a1a7e39c2.m3u8
 #EXTINF:-1 channel-id="6304fb268bd95300072d2198-gb" tvg-id="6304fb268bd95300072d2198" tvg-chno="358" tvg-name="True Crime UK" tvg-logo="https://images.pluto.tv/channels/6304fb268bd95300072d2198/colorLogoPNG.png" group-title="United Kingdom",True Crime UK
 https://jmp2.uk/plu-6304fb268bd95300072d2198.m3u8
-#EXTINF:-1 channel-id="64c0d6f34096290008132d6b-gb" tvg-id="64c0d6f34096290008132d6b" tvg-chno="312" tvg-name="U&Laughs" tvg-logo="https://images.pluto.tv/channels/64c0d6f34096290008132d6b/colorLogoPNG.png" group-title="United Kingdom",U&Laughs
-https://jmp2.uk/plu-64c0d6f34096290008132d6b.m3u8
-#EXTINF:-1 channel-id="64c0d6b424ade50008bc8883-gb" tvg-id="64c0d6b424ade50008bc8883" tvg-chno="713" tvg-name="U&Real Heroes" tvg-logo="https://images.pluto.tv/channels/64c0d6b424ade50008bc8883/colorLogoPNG.png" group-title="United Kingdom",U&Real Heroes
-https://jmp2.uk/plu-64c0d6b424ade50008bc8883.m3u8
-#EXTINF:-1 channel-id="64c0d697b0cf5c000824e5d9-gb" tvg-id="64c0d697b0cf5c000824e5d9" tvg-chno="813" tvg-name="U&The Past" tvg-logo="https://images.pluto.tv/channels/64c0d697b0cf5c000824e5d9/colorLogoPNG.png" group-title="United Kingdom",U&The Past
-https://jmp2.uk/plu-64c0d697b0cf5c000824e5d9.m3u8
-#EXTINF:-1 channel-id="64c0d6765dc1660008a3e033-gb" tvg-id="64c0d6765dc1660008a3e033" tvg-chno="716" tvg-name="U&Transport" tvg-logo="https://images.pluto.tv/channels/64c0d6765dc1660008a3e033/colorLogoPNG.png" group-title="United Kingdom",U&Transport
-https://jmp2.uk/plu-64c0d6765dc1660008a3e033.m3u8
 #EXTINF:-1 channel-id="65ea8b928145cb0008509426-us" tvg-id="65ea8b928145cb0008509426" tvg-chno="2831" tvg-name="UEFA Champions League" tvg-logo="https://images.pluto.tv/channels/65ea8b928145cb0008509426/colorLogoPNG.png" group-title="United States",UEFA Champions League
 https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
 #EXTINF:-1 channel-id="677d9adfa9a51b0008497fa0-us" tvg-id="677d9adfa9a51b0008497fa0" tvg-chno="2779" tvg-name="UFC" tvg-logo="https://images.pluto.tv/channels/677d9adfa9a51b0008497fa0/colorLogoPNG.png" group-title="United States",UFC
@@ -3719,6 +3715,8 @@ https://jmp2.uk/plu-6a68c4f2f107abb1a6e9df7a.m3u8
 https://jmp2.uk/plu-6a68c55b75fd5e3828f08d6e.m3u8
 #EXTINF:-1 channel-id="6a68c47558918556e6078b1d-dk" tvg-id="6a68c47558918556e6078b1d" tvg-chno="5" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a68c47558918556e6078b1d/colorLogoPNG_1785250985851.png" group-title="Denmark",NFL Channel
 https://jmp2.uk/plu-6a68c47558918556e6078b1d.m3u8
+#EXTINF:-1 channel-id="6a68cb5a116cd6d17dba0b95-ar" tvg-id="6a68cb5a116cd6d17dba0b95" tvg-chno="857" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a68cb5a116cd6d17dba0b95/colorLogoPNG_1785253726745.png" group-title="Argentina",NFL Channel
+https://jmp2.uk/plu-6a68cb5a116cd6d17dba0b95.m3u8
 #EXTINF:-1 channel-id="65d5fc39a25d5e00082895c4-de" tvg-id="65d5fc39a25d5e00082895c4" tvg-chno="373" tvg-name="Naruto" tvg-logo="https://images.pluto.tv/channels/65d5fc39a25d5e00082895c4/colorLogoPNG.png" group-title="Germany",Naruto
 https://jmp2.uk/plu-65d5fc39a25d5e00082895c4.m3u8
 #EXTINF:-1 channel-id="5f6df5a173d7340007c559f7-br" tvg-id="5f6df5a173d7340007c559f7" tvg-chno="1259" tvg-name="Naruto" tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="Brazil",Naruto
