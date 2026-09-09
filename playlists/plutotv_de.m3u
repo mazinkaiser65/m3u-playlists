@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/de.xml.gz"
 #EXTINF:-1 channel-id="686cffbf3ffa5e0c91cdcfb3" tvg-id="686cffbf3ffa5e0c91cdcfb3" tvg-chno="432" tvg-name="21 Jump Street" tvg-logo="https://images.pluto.tv/channels/686cffbf3ffa5e0c91cdcfb3/colorLogoPNG_1751973874661.png" group-title="Action",21 Jump Street
 https://jmp2.uk/plu-686cffbf3ffa5e0c91cdcfb3.m3u8
-#EXTINF:-1 channel-id="6a719edf1b67603f69376c44" tvg-id="6a719edf1b67603f69376c44" tvg-chno="26" tvg-name="60 Jahre Star Trek – Live aus dem Movie Park" tvg-logo="https://images.pluto.tv/channels/6a719edf1b67603f69376c44/colorLogoPNG_1787913490813.png" group-title="60 Jahre Star Trek",60 Jahre Star Trek – Live aus dem Movie Park
-https://jmp2.uk/plu-6a719edf1b67603f69376c44.m3u8
 #EXTINF:-1 channel-id="65a67dd13af63d0008257f17" tvg-id="65a67dd13af63d0008257f17" tvg-chno="208" tvg-name="90210" tvg-logo="https://images.pluto.tv/channels/65a67dd13af63d0008257f17/colorLogoPNG.png" group-title="Serien-Marathon",90210
 https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
 #EXTINF:-1 channel-id="69690c6ea1b03f531587d2c2" tvg-id="69690c6ea1b03f531587d2c2" tvg-chno="374" tvg-name="Akiba Anime" tvg-logo="https://images.pluto.tv/channels/69690c6ea1b03f531587d2c2/colorLogoPNG_1784549597168.png" group-title="Anime",Akiba Anime
