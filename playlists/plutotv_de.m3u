@@ -87,7 +87,7 @@ https://jmp2.uk/plu-65a67c494a10d800085cab06.m3u8
 https://jmp2.uk/plu-6866525c8a412a0e95c438b4.m3u8
 #EXTINF:-1 channel-id="622f487722d9d400075f74dd" tvg-id="622f487722d9d400075f74dd" tvg-chno="242" tvg-name="Ein Engel auf Erden" tvg-logo="https://images.pluto.tv/channels/622f487722d9d400075f74dd/colorLogoPNG.png" group-title="Sci-Fi & Fantasy",Ein Engel auf Erden
 https://jmp2.uk/plu-622f487722d9d400075f74dd.m3u8
-#EXTINF:-1 channel-id="682452dbb19ce6d4a30b496c" tvg-id="682452dbb19ce6d4a30b496c" tvg-chno="180" tvg-name="Ein Hauch von Himmel" tvg-logo="https://images.pluto.tv/channels/682452dbb19ce6d4a30b496c/colorLogoPNG_1753686998904.png" group-title="Serien-Marathon",Ein Hauch von Himmel
+#EXTINF:-1 channel-id="682452dbb19ce6d4a30b496c" tvg-id="682452dbb19ce6d4a30b496c" tvg-chno="181" tvg-name="Ein Hauch von Himmel" tvg-logo="https://images.pluto.tv/channels/682452dbb19ce6d4a30b496c/colorLogoPNG_1753686998904.png" group-title="Serien-Marathon",Ein Hauch von Himmel
 https://jmp2.uk/plu-682452dbb19ce6d4a30b496c.m3u8
 #EXTINF:-1 channel-id="66a244d5cd0d3100083b1e47" tvg-id="66a244d5cd0d3100083b1e47" tvg-chno="188" tvg-name="Eine himmlische Familie" tvg-logo="https://images.pluto.tv/channels/66a244d5cd0d3100083b1e47/colorLogoPNG.png" group-title="Serien-Marathon",Eine himmlische Familie
 https://jmp2.uk/plu-66a244d5cd0d3100083b1e47.m3u8
@@ -309,6 +309,8 @@ https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8
 https://jmp2.uk/plu-65b9268fc798e800085add89.m3u8
 #EXTINF:-1 channel-id="622f40c901d4b70007ad7609" tvg-id="622f40c901d4b70007ad7609" tvg-chno="58" tvg-name="Sabrina - Total verhext!" tvg-logo="https://images.pluto.tv/channels/622f40c901d4b70007ad7609/colorLogoPNG.png" group-title="Sitcoms + Comedy",Sabrina - Total verhext!
 https://jmp2.uk/plu-622f40c901d4b70007ad7609.m3u8
+#EXTINF:-1 channel-id="5e7de99bc5200300072e971a" tvg-id="5e7de99bc5200300072e971a" tvg-chno="180" tvg-name="Sanctuary" tvg-logo="https://images.pluto.tv/channels/5e7de99bc5200300072e971a/colorLogoPNG.png" group-title="Serien-Marathon",Sanctuary
+https://jmp2.uk/plu-5e7de99bc5200300072e971a.m3u8
 #EXTINF:-1 channel-id="666fe4768768aa0008c31ddf" tvg-id="666fe4768768aa0008c31ddf" tvg-chno="185" tvg-name="Saving Hope" tvg-logo="https://images.pluto.tv/channels/666fe4768768aa0008c31ddf/colorLogoPNG_1768982344485.png" group-title="Serien-Marathon",Saving Hope
 https://jmp2.uk/plu-666fe4768768aa0008c31ddf.m3u8
 #EXTINF:-1 channel-id="69b01641a9b840a456a11c18" tvg-id="69b01641a9b840a456a11c18" tvg-chno="196" tvg-name="Schlosshotel Orth" tvg-logo="https://images.pluto.tv/channels/69b01641a9b840a456a11c18/colorLogoPNG_1775134475322.png" group-title="Serien-Marathon",Schlosshotel Orth
