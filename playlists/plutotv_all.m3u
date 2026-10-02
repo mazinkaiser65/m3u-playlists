@@ -1215,6 +1215,8 @@ https://jmp2.uk/plu-6683cd71a1d7ad000866ec6a.m3u8
 https://jmp2.uk/plu-66ebf4a88131f10008b74739.m3u8
 #EXTINF:-1 channel-id="69e6be40fde57cd5ba562b29-us" tvg-id="69e6be40fde57cd5ba562b29" tvg-chno="3806" tvg-name="Pokémon en español" tvg-logo="https://images.pluto.tv/channels/69e6be40fde57cd5ba562b29/colorLogoPNG_1777592109830.png" group-title="United States",Pokémon en español
 https://jmp2.uk/plu-69e6be40fde57cd5ba562b29.m3u8
+#EXTINF:-1 channel-id="6aa1c48cf5f14c2045c43776-ca" tvg-id="6aa1c48cf5f14c2045c43776" tvg-chno="5" tvg-name="Private Eyes" tvg-logo="https://images.pluto.tv/channels/6aa1c48cf5f14c2045c43776/colorLogoPNG_1790078703073.png" group-title="Canada",Private Eyes
+https://jmp2.uk/plu-6aa1c48cf5f14c2045c43776.m3u8
 #EXTINF:-1 channel-id="68757c60552299d2b080eab6-us" tvg-id="68757c60552299d2b080eab6" tvg-chno="1876" tvg-name="Project Runway" tvg-logo="https://images.pluto.tv/channels/68757c60552299d2b080eab6/colorLogoPNG_1753221108158.png" group-title="United States",Project Runway
 https://jmp2.uk/plu-68757c60552299d2b080eab6.m3u8
 #EXTINF:-1 channel-id="681b16158f97d58ff194a3a9-ca" tvg-id="681b16158f97d58ff194a3a9" tvg-chno="815" tvg-name="Project Runway" tvg-logo="https://images.pluto.tv/channels/681b16158f97d58ff194a3a9/colorLogoPNG_1746816920521.png" group-title="Canada",Project Runway
@@ -4871,6 +4873,8 @@ https://jmp2.uk/plu-677d93afe650a700081e5f18.m3u8
 https://jmp2.uk/plu-677d93afe650a700081e5f18.m3u8
 #EXTINF:-1 channel-id="65dded9a0d456100081417ae-es" tvg-id="65dded9a0d456100081417ae" tvg-chno="77" tvg-name="Primeval" tvg-logo="https://images.pluto.tv/channels/65dded9a0d456100081417ae/colorLogoPNG.png" group-title="Spain",Primeval
 https://jmp2.uk/plu-65dded9a0d456100081417ae.m3u8
+#EXTINF:-1 channel-id="6aa1c48cf5f14c2045c43776-cl" tvg-id="6aa1c48cf5f14c2045c43776" tvg-chno="5" tvg-name="Private Eyes" tvg-logo="https://images.pluto.tv/channels/6aa1c48cf5f14c2045c43776/colorLogoPNG_1790078703073.png" group-title="Chile",Private Eyes
+https://jmp2.uk/plu-6aa1c48cf5f14c2045c43776.m3u8
 #EXTINF:-1 channel-id="67d984c989788ef7f058b084-de" tvg-id="67d984c989788ef7f058b084" tvg-chno="14" tvg-name="Profiling Paris" tvg-logo="https://images.pluto.tv/channels/67d984c989788ef7f058b084/colorLogoPNG.png" group-title="Germany",Profiling Paris
 https://jmp2.uk/plu-67d984c989788ef7f058b084.m3u8
 #EXTINF:-1 channel-id="681b16158f97d58ff194a3a9-cl" tvg-id="681b16158f97d58ff194a3a9" tvg-chno="815" tvg-name="Project Runway" tvg-logo="https://images.pluto.tv/channels/681b16158f97d58ff194a3a9/colorLogoPNG_1746816920521.png" group-title="Chile",Project Runway
