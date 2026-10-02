@@ -287,6 +287,8 @@ https://jmp2.uk/plu-66c45afaa72e7b0008a2b153.m3u8
 https://jmp2.uk/plu-5e1f7e089f23700009d66303.m3u8
 #EXTINF:-1 channel-id="661cf62d24e1d000087dae0d-gb" tvg-id="661cf62d24e1d000087dae0d" tvg-chno="707" tvg-name="COPS" tvg-logo="https://images.pluto.tv/channels/661cf62d24e1d000087dae0d/colorLogoPNG.png" group-title="United Kingdom",COPS
 https://jmp2.uk/plu-661cf62d24e1d000087dae0d.m3u8
+#EXTINF:-1 channel-id="6aa2c3d1cb18e0ed0255f8d0-ca" tvg-id="6aa2c3d1cb18e0ed0255f8d0" tvg-chno="6" tvg-name="COPS" tvg-logo="https://images.pluto.tv/channels/6aa2c3d1cb18e0ed0255f8d0/colorLogoPNG_1790717127559.png" group-title="Canada",COPS
+https://jmp2.uk/plu-6aa2c3d1cb18e0ed0255f8d0.m3u8
 #EXTINF:-1 channel-id="5efbd29e4aa26700076c0d06-us" tvg-id="5efbd29e4aa26700076c0d06" tvg-chno="960" tvg-name="CSI" tvg-logo="https://images.pluto.tv/channels/5efbd29e4aa26700076c0d06/colorLogoPNG.png" group-title="United States",CSI
 https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8
 #EXTINF:-1 channel-id="604928d54a4f730007ff76bc-us" tvg-id="604928d54a4f730007ff76bc" tvg-chno="4250" tvg-name="CSI en Español" tvg-logo="https://images.pluto.tv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png" group-title="United States",CSI en Español
@@ -963,7 +965,7 @@ https://jmp2.uk/plu-63b48016d9dd51000828fa37.m3u8
 https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
 #EXTINF:-1 channel-id="5ff8c708653d080007361b14-us" tvg-id="5ff8c708653d080007361b14" tvg-chno="2020" tvg-name="Paramount+ Picks" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/colorLogoPNG.png" group-title="United States",Paramount+ Picks
 https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
-#EXTINF:-1 channel-id="6aa2c09cf5f14c2045c7c87a-ca" tvg-id="6aa2c09cf5f14c2045c7c87a" tvg-chno="597" tvg-name="Paranormal Chronicles" tvg-logo="https://images.pluto.tv/channels/6aa2c09cf5f14c2045c7c87a/colorLogoPNG_1790356068202.png" group-title="Canada",Paranormal Chronicles
+#EXTINF:-1 channel-id="6aa2c09cf5f14c2045c7c87a-ca" tvg-id="6aa2c09cf5f14c2045c7c87a" tvg-chno="7" tvg-name="Paranormal Chronicles" tvg-logo="https://images.pluto.tv/channels/6aa2c09cf5f14c2045c7c87a/colorLogoPNG_1790356068202.png" group-title="Canada",Paranormal Chronicles
 https://jmp2.uk/plu-6aa2c09cf5f14c2045c7c87a.m3u8
 #EXTINF:-1 channel-id="60804d85858bd00007c5d591-gb" tvg-id="60804d85858bd00007c5d591" tvg-chno="408" tvg-name="Paranormal State" tvg-logo="https://images.pluto.tv/channels/60804d85858bd00007c5d591/colorLogoPNG.png" group-title="United Kingdom",Paranormal State
 https://jmp2.uk/plu-60804d85858bd00007c5d591.m3u8
@@ -1271,7 +1273,7 @@ https://jmp2.uk/plu-66f137cb483d460008ece053.m3u8
 https://jmp2.uk/plu-6565430c9d5ac4000822f508.m3u8
 #EXTINF:-1 channel-id="5fb584b7613a31000789de5a-us" tvg-id="5fb584b7613a31000789de5a" tvg-chno="3880" tvg-name="Ryan and Friends" tvg-logo="https://images.pluto.tv/channels/5fb584b7613a31000789de5a/colorLogoPNG.png" group-title="United States",Ryan and Friends
 https://jmp2.uk/plu-5fb584b7613a31000789de5a.m3u8
-#EXTINF:-1 channel-id="6a8d96aa2cfd341eb5809214-ca" tvg-id="6a8d96aa2cfd341eb5809214" tvg-chno="5" tvg-name="SI TV" tvg-logo="https://images.pluto.tv/channels/6a8d96aa2cfd341eb5809214/colorLogoPNG_1790272809808.png" group-title="Canada",SI TV
+#EXTINF:-1 channel-id="6a8d96aa2cfd341eb5809214-ca" tvg-id="6a8d96aa2cfd341eb5809214" tvg-chno="8" tvg-name="SI TV" tvg-logo="https://images.pluto.tv/channels/6a8d96aa2cfd341eb5809214/colorLogoPNG_1790272809808.png" group-title="Canada",SI TV
 https://jmp2.uk/plu-6a8d96aa2cfd341eb5809214.m3u8
 #EXTINF:-1 channel-id="66276091cee0d900085fe053-gb" tvg-id="66276091cee0d900085fe053" tvg-chno="21" tvg-name="Sabrina The Teenage Witch" tvg-logo="https://images.pluto.tv/channels/66276091cee0d900085fe053/colorLogoPNG.png" group-title="United Kingdom",Sabrina The Teenage Witch
 https://jmp2.uk/plu-66276091cee0d900085fe053.m3u8
@@ -1633,7 +1635,7 @@ https://jmp2.uk/plu-5d48678d34ceb37d3c458a55.m3u8
 https://jmp2.uk/plu-60817936fd2d70000763d2b2.m3u8
 #EXTINF:-1 channel-id="6972546cc62833833a187f50-ca" tvg-id="6972546cc62833833a187f50" tvg-chno="1330" tvg-name="Willow Sports" tvg-logo="https://images.pluto.tv/channels/6972546cc62833833a187f50/colorLogoPNG_1770648792020.png" group-title="Canada",Willow Sports
 https://jmp2.uk/plu-6972546cc62833833a187f50.m3u8
-#EXTINF:-1 channel-id="6a8d96996d62a56d3bdd959c-ca" tvg-id="6a8d96996d62a56d3bdd959c" tvg-chno="7" tvg-name="Wired2Fish TV" tvg-logo="https://images.pluto.tv/channels/6a8d96996d62a56d3bdd959c/colorLogoPNG_1789399217901.png" group-title="Canada",Wired2Fish TV
+#EXTINF:-1 channel-id="6a8d96996d62a56d3bdd959c-ca" tvg-id="6a8d96996d62a56d3bdd959c" tvg-chno="9" tvg-name="Wired2Fish TV" tvg-logo="https://images.pluto.tv/channels/6a8d96996d62a56d3bdd959c/colorLogoPNG_1789399217901.png" group-title="Canada",Wired2Fish TV
 https://jmp2.uk/plu-6a8d96996d62a56d3bdd959c.m3u8
 #EXTINF:-1 channel-id="686d8dd294a028da3ac59566-us" tvg-id="686d8dd294a028da3ac59566" tvg-chno="2903" tvg-name="Women's Sports Network" tvg-logo="https://images.pluto.tv/channels/686d8dd294a028da3ac59566/colorLogoPNG_1753992941899.png" group-title="United States",Women's Sports Network
 https://jmp2.uk/plu-686d8dd294a028da3ac59566.m3u8
@@ -2147,6 +2149,8 @@ https://jmp2.uk/plu-66c45b1803e3b20008d8c200.m3u8
 https://jmp2.uk/plu-6554bd45aa9ffb00088e5589.m3u8
 #EXTINF:-1 channel-id="6419ab7c9189ce000865a469-mx" tvg-id="6419ab7c9189ce000865a469" tvg-chno="518" tvg-name="COPS" tvg-logo="https://images.pluto.tv/channels/6419ab7c9189ce000865a469/colorLogoPNG.png" group-title="Mexico",COPS
 https://jmp2.uk/plu-6419ab7c9189ce000865a469.m3u8
+#EXTINF:-1 channel-id="6aa2c3d1cb18e0ed0255f8d0-cl" tvg-id="6aa2c3d1cb18e0ed0255f8d0" tvg-chno="6" tvg-name="COPS" tvg-logo="https://images.pluto.tv/channels/6aa2c3d1cb18e0ed0255f8d0/colorLogoPNG_1790717127559.png" group-title="Chile",COPS
+https://jmp2.uk/plu-6aa2c3d1cb18e0ed0255f8d0.m3u8
 #EXTINF:-1 channel-id="6400bdb1219c4c00081751aa-no" tvg-id="6400bdb1219c4c00081751aa" tvg-chno="724" tvg-name="COPS" tvg-logo="https://images.pluto.tv/channels/6400bdb1219c4c00081751aa/colorLogoPNG.png" group-title="Norway",COPS
 https://jmp2.uk/plu-6400bdb1219c4c00081751aa.m3u8
 #EXTINF:-1 channel-id="6400be67219c4c00081755d3-se" tvg-id="6400be67219c4c00081755d3" tvg-chno="702" tvg-name="COPS" tvg-logo="https://images.pluto.tv/channels/6400be67219c4c00081755d3/colorLogoPNG.png" group-title="Sweden",COPS
@@ -3965,7 +3969,7 @@ https://jmp2.uk/plu-6a6318a71a30976934632c3d.m3u8
 https://jmp2.uk/plu-662b71658dd8160008fc3abf.m3u8
 #EXTINF:-1 channel-id="68d566603d3a9580eb461251-es" tvg-id="68d566603d3a9580eb461251" tvg-chno="126" tvg-name="Paramount Network de Pluto TV" tvg-logo="https://images.pluto.tv/channels/68d566603d3a9580eb461251/colorLogoPNG_1762199133146.png" group-title="Spain",Paramount Network de Pluto TV
 https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
-#EXTINF:-1 channel-id="6aa2c09cf5f14c2045c7c87a-cl" tvg-id="6aa2c09cf5f14c2045c7c87a" tvg-chno="597" tvg-name="Paranormal Chronicles" tvg-logo="https://images.pluto.tv/channels/6aa2c09cf5f14c2045c7c87a/colorLogoPNG_1790356068202.png" group-title="Chile",Paranormal Chronicles
+#EXTINF:-1 channel-id="6aa2c09cf5f14c2045c7c87a-cl" tvg-id="6aa2c09cf5f14c2045c7c87a" tvg-chno="7" tvg-name="Paranormal Chronicles" tvg-logo="https://images.pluto.tv/channels/6aa2c09cf5f14c2045c7c87a/colorLogoPNG_1790356068202.png" group-title="Chile",Paranormal Chronicles
 https://jmp2.uk/plu-6aa2c09cf5f14c2045c7c87a.m3u8
 #EXTINF:-1 channel-id="686cfef52704ca31d85c4bf1-de" tvg-id="686cfef52704ca31d85c4bf1" tvg-chno="52" tvg-name="Pastewka" tvg-logo="https://images.pluto.tv/channels/686cfef52704ca31d85c4bf1/colorLogoPNG_1753793017907.png" group-title="Germany",Pastewka
 https://jmp2.uk/plu-686cfef52704ca31d85c4bf1.m3u8
@@ -5029,7 +5033,7 @@ https://jmp2.uk/plu-62c5d80dc6de440007e033eb.m3u8
 https://jmp2.uk/plu-62c5d80dc6de440007e033eb.m3u8
 #EXTINF:-1 channel-id="6660b636cb3ea10008429c6a-br" tvg-id="6660b636cb3ea10008429c6a" tvg-chno="855" tvg-name="SFT Combat" tvg-logo="https://images.pluto.tv/channels/6660b636cb3ea10008429c6a/colorLogoPNG.png" group-title="Brazil",SFT Combat
 https://jmp2.uk/plu-6660b636cb3ea10008429c6a.m3u8
-#EXTINF:-1 channel-id="6a8d96aa2cfd341eb5809214-cl" tvg-id="6a8d96aa2cfd341eb5809214" tvg-chno="5" tvg-name="SI TV" tvg-logo="https://images.pluto.tv/channels/6a8d96aa2cfd341eb5809214/colorLogoPNG_1790272809808.png" group-title="Chile",SI TV
+#EXTINF:-1 channel-id="6a8d96aa2cfd341eb5809214-cl" tvg-id="6a8d96aa2cfd341eb5809214" tvg-chno="8" tvg-name="SI TV" tvg-logo="https://images.pluto.tv/channels/6a8d96aa2cfd341eb5809214/colorLogoPNG_1790272809808.png" group-title="Chile",SI TV
 https://jmp2.uk/plu-6a8d96aa2cfd341eb5809214.m3u8
 #EXTINF:-1 channel-id="6576c20fb3801200084786c9-de" tvg-id="6576c20fb3801200084786c9" tvg-chno="295" tvg-name="SPIEGEL TV" tvg-logo="https://images.pluto.tv/channels/6576c20fb3801200084786c9/colorLogoPNG_1761807706966.png" group-title="Germany",SPIEGEL TV
 https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8
@@ -5825,7 +5829,7 @@ https://jmp2.uk/plu-5ed6828192e8b3000743ef61.m3u8
 https://jmp2.uk/plu-604f8125c6669b00077f7699.m3u8
 #EXTINF:-1 channel-id="6909e5c3a3a4b49706b8373b-dk" tvg-id="6909e5c3a3a4b49706b8373b" tvg-chno="474" tvg-name="Wipeout" tvg-logo="https://images.pluto.tv/channels/6909e5c3a3a4b49706b8373b/colorLogoPNG_1762279959144.png" group-title="Denmark",Wipeout
 https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8
-#EXTINF:-1 channel-id="6a8d96996d62a56d3bdd959c-cl" tvg-id="6a8d96996d62a56d3bdd959c" tvg-chno="7" tvg-name="Wired2Fish TV" tvg-logo="https://images.pluto.tv/channels/6a8d96996d62a56d3bdd959c/colorLogoPNG_1789399217901.png" group-title="Chile",Wired2Fish TV
+#EXTINF:-1 channel-id="6a8d96996d62a56d3bdd959c-cl" tvg-id="6a8d96996d62a56d3bdd959c" tvg-chno="9" tvg-name="Wired2Fish TV" tvg-logo="https://images.pluto.tv/channels/6a8d96996d62a56d3bdd959c/colorLogoPNG_1789399217901.png" group-title="Chile",Wired2Fish TV
 https://jmp2.uk/plu-6a8d96996d62a56d3bdd959c.m3u8
 #EXTINF:-1 channel-id="6080381ab7c9ea00074ec64c-es" tvg-id="6080381ab7c9ea00074ec64c" tvg-chno="281" tvg-name="World Poker Tour" tvg-logo="https://images.pluto.tv/channels/6080381ab7c9ea00074ec64c/colorLogoPNG.png" group-title="Spain",World Poker Tour
 https://jmp2.uk/plu-6080381ab7c9ea00074ec64c.m3u8
