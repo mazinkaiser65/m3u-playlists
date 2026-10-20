@@ -4403,6 +4403,12 @@ https://jmp2.uk/plu-62f4f4b88157cf00075c22db.m3u8
 https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8
 #EXTINF:-1 channel-id="61c09e3ac210ed0007606620-it" tvg-id="61c09e3ac210ed0007606620" tvg-chno="210" tvg-name="Pluto TV Horror" tvg-logo="https://images.pluto.tv/channels/61c09e3ac210ed0007606620/colorLogoPNG.png" group-title="Italy",Pluto TV Horror
 https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8
+#EXTINF:-1 channel-id="63a19cb7847a090007f230d7-no" tvg-id="63a19cb7847a090007f230d7" tvg-chno="26" tvg-name="Pluto TV Horror" tvg-logo="https://images.pluto.tv/channels/63a19cb7847a090007f230d7/colorLogoPNG.png" group-title="Norway",Pluto TV Horror
+https://jmp2.uk/plu-63a19cb7847a090007f230d7.m3u8
+#EXTINF:-1 channel-id="63a19e1b9ab2df0007bef7a7-se" tvg-id="63a19e1b9ab2df0007bef7a7" tvg-chno="32" tvg-name="Pluto TV Horror" tvg-logo="https://images.pluto.tv/channels/63a19e1b9ab2df0007bef7a7/colorLogoPNG.png" group-title="Sweden",Pluto TV Horror
+https://jmp2.uk/plu-63a19e1b9ab2df0007bef7a7.m3u8
+#EXTINF:-1 channel-id="63a1c9790cc44a0007dc8857-dk" tvg-id="63a1c9790cc44a0007dc8857" tvg-chno="50" tvg-name="Pluto TV Horror" tvg-logo="https://images.pluto.tv/channels/63a1c9790cc44a0007dc8857/colorLogoPNG.png" group-title="Denmark",Pluto TV Horror
+https://jmp2.uk/plu-63a1c9790cc44a0007dc8857.m3u8
 #EXTINF:-1 channel-id="69f84f985304e32444f83ed3-no" tvg-id="69f84f985304e32444f83ed3" tvg-chno="27" tvg-name="Pluto TV Horror Classics" tvg-logo="https://images.pluto.tv/channels/69f84f985304e32444f83ed3/colorLogoPNG_1787552191904.png" group-title="Norway",Pluto TV Horror Classics
 https://jmp2.uk/plu-69f84f985304e32444f83ed3.m3u8
 #EXTINF:-1 channel-id="69f84fca74d248c172bf4887-se" tvg-id="69f84fca74d248c172bf4887" tvg-chno="33" tvg-name="Pluto TV Horror Classics" tvg-logo="https://images.pluto.tv/channels/69f84fca74d248c172bf4887/colorLogoPNG_1787552252173.png" group-title="Sweden",Pluto TV Horror Classics
