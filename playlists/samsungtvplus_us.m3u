@@ -1023,8 +1023,6 @@ https://jmp2.uk/stvp-USBB3500002FL
 https://jmp2.uk/stvp-USBA300019WF
 #EXTINF:-1 channel-id="US46000120T" tvg-id="US46000120T" tvg-chno="1880" tvg-name="TV One Crime & Justice" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US46000120T_20260811T043638SQUARE.png" group-title="Crime",TV One Crime & Justice
 https://jmp2.uk/stvp-US46000120T
-#EXTINF:-1 channel-id="US4600011ZJ" tvg-id="US4600011ZJ" tvg-chno="2906" tvg-name="TV One Stars & Stories" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4600011ZJ_20261026T044632SQUARE.png" group-title="Lifestyle & Pop Culture",TV One Stars & Stories
-https://jmp2.uk/stvp-US4600011ZJ
 #EXTINF:-1 channel-id="USBA30002142" tvg-id="USBA30002142" tvg-chno="1185" tvg-name="TYT Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA30002142_20250325T020252SQUARE.png" group-title="News & Opinion",TYT Network
 https://jmp2.uk/stvp-USBA30002142
 #EXTINF:-1 channel-id="US1000012ML" tvg-id="US1000012ML" tvg-chno="2371" tvg-name="UEFA Champions League" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000012ML_20260528T041831SQUARE.png" group-title="Sports & Outdoors",UEFA Champions League
@@ -1047,6 +1045,8 @@ https://jmp2.uk/stvp-US900001CX
 https://jmp2.uk/stvp-USBB3200018Q6
 #EXTINF:-1 channel-id="US4700030X8" tvg-id="US4700030X8" tvg-chno="1967" tvg-name="Untold Stories of the ER" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4700030X8_20260421T133657SQUARE.png" group-title="Reality TV",Untold Stories of the ER
 https://jmp2.uk/stvp-US4700030X8
+#EXTINF:-1 channel-id="US4600011ZJ" tvg-id="US4600011ZJ" tvg-chno="2906" tvg-name="Urban TV + Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4600011ZJ_20261026T044632SQUARE.png" group-title="Lifestyle & Pop Culture",Urban TV + Movies
+https://jmp2.uk/stvp-US4600011ZJ
 #EXTINF:-1 channel-id="USBB1500001GD" tvg-id="USBB1500001GD" tvg-chno="2922" tvg-name="USA Today" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1500001GD_20250325T020255SQUARE.png" group-title="Lifestyle & Pop Culture",USA Today
 https://jmp2.uk/stvp-USBB1500001GD
 #EXTINF:-1 channel-id="US200111SU" tvg-id="US200111SU" tvg-chno="3013" tvg-name="Van Helsing" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US200111SU_20260421T141942SQUARE.png" group-title="Sci-Fi & Horror",Van Helsing
