@@ -77,6 +77,8 @@ https://jmp2.uk/plu-6a7066a121d112e4a8635f36.m3u8
 https://jmp2.uk/plu-66c6fc06489bab0008b6f9da.m3u8
 #EXTINF:-1 channel-id="677fb078a4af36ad50111032" tvg-id="677fb078a4af36ad50111032" tvg-chno="218" tvg-name="Die Sieben-Millionen-Dollar-Frau" tvg-logo="https://images.pluto.tv/channels/677fb078a4af36ad50111032/colorLogoPNG.png" group-title="Sci-Fi & Fantasy",Die Sieben-Millionen-Dollar-Frau
 https://jmp2.uk/plu-677fb078a4af36ad50111032.m3u8
+#EXTINF:-1 channel-id="6447df8cd3fdde0008f1f627" tvg-id="6447df8cd3fdde0008f1f627" tvg-chno="399" tvg-name="Die Thundermans" tvg-logo="https://images.pluto.tv/channels/6447df8cd3fdde0008f1f627/colorLogoPNG.png" group-title="Kids",Die Thundermans
+https://jmp2.uk/plu-6447df8cd3fdde0008f1f627.m3u8
 #EXTINF:-1 channel-id="688734b9035d6ef9c34aac16" tvg-id="688734b9035d6ef9c34aac16" tvg-chno="192" tvg-name="Die fliegenden Ärzte" tvg-logo="https://images.pluto.tv/channels/688734b9035d6ef9c34aac16/colorLogoPNG_1758284321864.png" group-title="Serien-Marathon",Die fliegenden Ärzte
 https://jmp2.uk/plu-688734b9035d6ef9c34aac16.m3u8
 #EXTINF:-1 channel-id="69c2ac2b14c0213702da7a29" tvg-id="69c2ac2b14c0213702da7a29" tvg-chno="350" tvg-name="Die glorreichen Sieben" tvg-logo="https://images.pluto.tv/channels/69c2ac2b14c0213702da7a29/colorLogoPNG_1777903480144.png" group-title="Western",Die glorreichen Sieben
@@ -391,5 +393,7 @@ https://jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8
 https://jmp2.uk/plu-642d7e029189ce0008958af5.m3u8
 #EXTINF:-1 channel-id="642d4493aa2d690008f0a03f" tvg-id="642d4493aa2d690008f0a03f" tvg-chno="17" tvg-name="Yu-Gi-Oh!" tvg-logo="https://images.pluto.tv/channels/642d4493aa2d690008f0a03f/colorLogoPNG.png" group-title="Serien-Marathon",Yu-Gi-Oh!
 https://jmp2.uk/plu-642d4493aa2d690008f0a03f.m3u8
+#EXTINF:-1 channel-id="63c69e6c4207be0007f73c22" tvg-id="63c69e6c4207be0007f73c22" tvg-chno="398" tvg-name="Zoey 101" tvg-logo="https://images.pluto.tv/channels/63c69e6c4207be0007f73c22/colorLogoPNG.png" group-title="Kids",Zoey 101
+https://jmp2.uk/plu-63c69e6c4207be0007f73c22.m3u8
 #EXTINF:-1 channel-id="5e8b580a233dc90007f0cb9d" tvg-id="5e8b580a233dc90007f0cb9d" tvg-chno="392" tvg-name="iCarly" tvg-logo="https://images.pluto.tv/channels/5e8b580a233dc90007f0cb9d/colorLogoPNG.png" group-title="Kids",iCarly
 https://jmp2.uk/plu-5e8b580a233dc90007f0cb9d.m3u8
