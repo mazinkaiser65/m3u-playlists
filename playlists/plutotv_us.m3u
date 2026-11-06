@@ -69,6 +69,8 @@ https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
 https://jmp2.uk/plu-60f85644a9493e0007a1f035.m3u8
 #EXTINF:-1 channel-id="68c32d88f56983aba40052bd" tvg-id="68c32d88f56983aba40052bd" tvg-chno="105" tvg-name="BET Comedy Movies" tvg-logo="https://images.pluto.tv/channels/68c32d88f56983aba40052bd/colorLogoPNG_1759246622596.png" group-title="Movies",BET Comedy Movies
 https://jmp2.uk/plu-68c32d88f56983aba40052bd.m3u8
+#EXTINF:-1 channel-id="6ad12962e6621e77d3b88502" tvg-id="6ad12962e6621e77d3b88502" tvg-chno="1013" tvg-name="BET Drama Hits" tvg-logo="https://images.pluto.tv/channels/6ad12962e6621e77d3b88502/colorLogoPNG_1793913080406.png" group-title="Drama",BET Drama Hits
+https://jmp2.uk/plu-6ad12962e6621e77d3b88502.m3u8
 #EXTINF:-1 channel-id="68f690e7a25ba0aab32bed92" tvg-id="68f690e7a25ba0aab32bed92" tvg-chno="254" tvg-name="BET Holiday Movies" tvg-logo="https://images.pluto.tv/channels/68f690e7a25ba0aab32bed92/colorLogoPNG_1760989733981.png" group-title="Season's Greetings",BET Holiday Movies
 https://jmp2.uk/plu-68f690e7a25ba0aab32bed92.m3u8
 #EXTINF:-1 channel-id="5ca670f6593a5d78f0e85aed" tvg-id="5ca670f6593a5d78f0e85aed" tvg-chno="2040" tvg-name="BET Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ca670f6593a5d78f0e85aed/colorLogoPNG.png" group-title="Entertainment",BET Pluto TV
@@ -607,7 +609,7 @@ https://jmp2.uk/plu-64b585f84ea480000838e446.m3u8
 https://jmp2.uk/plu-5d8beeb39b5d5d5f8c672530.m3u8
 #EXTINF:-1 channel-id="5bb3fea0f711fd76340eebff" tvg-id="5bb3fea0f711fd76340eebff" tvg-chno="3080" tvg-name="Pluto TV Military" tvg-logo="https://images.pluto.tv/channels/5bb3fea0f711fd76340eebff/colorLogoPNG.png" group-title="History + Science",Pluto TV Military
 https://jmp2.uk/plu-5bb3fea0f711fd76340eebff.m3u8
-#EXTINF:-1 channel-id="5d9ccd538661290009ecbdb7" tvg-id="5d9ccd538661290009ecbdb7" tvg-chno="252" tvg-name="Pluto TV Mistletoe" tvg-logo="https://images.pluto.tv/channels/5d9ccd538661290009ecbdb7/colorLogoPNG_1792768625587.png" group-title="Season's Greetings",Pluto TV Mistletoe
+#EXTINF:-1 channel-id="5d9ccd538661290009ecbdb7" tvg-id="5d9ccd538661290009ecbdb7" tvg-chno="252" tvg-name="Pluto TV Mistletoe" tvg-logo="https://images.pluto.tv/channels/5d9ccd538661290009ecbdb7/colorLogoPNG_1793983999979.png" group-title="Season's Greetings",Pluto TV Mistletoe
 https://jmp2.uk/plu-5d9ccd538661290009ecbdb7.m3u8
 #EXTINF:-1 channel-id="5cf96c0222df39f1a338d163" tvg-id="5cf96c0222df39f1a338d163" tvg-chno="4185" tvg-name="Pluto TV Novelas" tvg-logo="https://images.pluto.tv/channels/5cf96c0222df39f1a338d163/colorLogoPNG.png" group-title="En Español",Pluto TV Novelas
 https://jmp2.uk/plu-5cf96c0222df39f1a338d163.m3u8
@@ -783,7 +785,7 @@ https://jmp2.uk/plu-65a6dafb7bdc8d0008473c85.m3u8
 https://jmp2.uk/plu-5f7794a788d29000079d2f07.m3u8
 #EXTINF:-1 channel-id="67c62ac2095aea2ec805eb34" tvg-id="67c62ac2095aea2ec805eb34" tvg-chno="3300" tvg-name="The Martha Stewart Channel" tvg-logo="https://images.pluto.tv/channels/67c62ac2095aea2ec805eb34/colorLogoPNG.png" group-title="Home + Food",The Martha Stewart Channel
 https://jmp2.uk/plu-67c62ac2095aea2ec805eb34.m3u8
-#EXTINF:-1 channel-id="6792c30abc03978b9b8bb832" tvg-id="6792c30abc03978b9b8bb832" tvg-chno="2805" tvg-name="The NBA Channel" tvg-logo="https://images.pluto.tv/channels/6792c30abc03978b9b8bb832/colorLogoPNG_1747950897785.png" group-title="Sports",The NBA Channel
+#EXTINF:-1 channel-id="6792c30abc03978b9b8bb832" tvg-id="6792c30abc03978b9b8bb832" tvg-chno="2805" tvg-name="The NBA Channel" tvg-logo="https://images.pluto.tv/channels/6792c30abc03978b9b8bb832/colorLogoPNG_1793984084091.png" group-title="Sports",The NBA Channel
 https://jmp2.uk/plu-6792c30abc03978b9b8bb832.m3u8
 #EXTINF:-1 channel-id="5aea40b35126c2157123aa64" tvg-id="5aea40b35126c2157123aa64" tvg-chno="1290" tvg-name="The New Detectives" tvg-logo="https://images.pluto.tv/channels/5aea40b35126c2157123aa64/colorLogoPNG.png" group-title="True Crime",The New Detectives
 https://jmp2.uk/plu-5aea40b35126c2157123aa64.m3u8
