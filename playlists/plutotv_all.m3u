@@ -1653,6 +1653,8 @@ https://jmp2.uk/plu-677d9adfa9a51b0008497fa0.m3u8
 https://jmp2.uk/plu-66ed3e9d5e4a6e0008b346e0.m3u8
 #EXTINF:-1 channel-id="66ed3eb27358ce000830df49-ca" tvg-id="66ed3eb27358ce000830df49" tvg-chno="1303" tvg-name="UFC" tvg-logo="https://images.pluto.tv/channels/66ed3eb27358ce000830df49/colorLogoPNG.png" group-title="Canada",UFC
 https://jmp2.uk/plu-66ed3eb27358ce000830df49.m3u8
+#EXTINF:-1 channel-id="6a8dd1d49547fd4fecc14d86-us" tvg-id="6a8dd1d49547fd4fecc14d86" tvg-chno="293" tvg-name="UPN Sitcoms Pluto TV" tvg-logo="https://images.pluto.tv/channels/6a8dd1d49547fd4fecc14d86/colorLogoPNG_1792077640221.png" group-title="United States",UPN Sitcoms Pluto TV
+https://jmp2.uk/plu-6a8dd1d49547fd4fecc14d86.m3u8
 #EXTINF:-1 channel-id="656542ae4261ca00082154a8-us" tvg-id="656542ae4261ca00082154a8" tvg-chno="3360" tvg-name="Ultimate Builds" tvg-logo="https://images.pluto.tv/channels/656542ae4261ca00082154a8/colorLogoPNG.png" group-title="United States",Ultimate Builds
 https://jmp2.uk/plu-656542ae4261ca00082154a8.m3u8
 #EXTINF:-1 channel-id="656538f8954b020008d389db-us" tvg-id="656538f8954b020008d389db" tvg-chno="1530" tvg-name="UnXplained Zone" tvg-logo="https://images.pluto.tv/channels/656538f8954b020008d389db/colorLogoPNG_1767736227039.png" group-title="United States",UnXplained Zone
