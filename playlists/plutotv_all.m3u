@@ -4383,6 +4383,10 @@ https://jmp2.uk/plu-6806d519fea7414f33f57016.m3u8
 https://jmp2.uk/plu-6806d519fea7414f33f57016.m3u8
 #EXTINF:-1 channel-id="5fa991b1f09e020007e78626-br" tvg-id="5fa991b1f09e020007e78626" tvg-chno="72" tvg-name="Pluto TV Cine Inspiração" tvg-logo="https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG_1748874366972.png" group-title="Brazil",Pluto TV Cine Inspiração
 https://jmp2.uk/plu-5fa991b1f09e020007e78626.m3u8
+#EXTINF:-1 channel-id="5dd6ed41526c77000941411c-mx" tvg-id="5dd6ed41526c77000941411c" tvg-chno="91" tvg-name="Pluto TV Cine Navidad" tvg-logo="https://images.pluto.tv/channels/5dd6ed41526c77000941411c/colorLogoPNG_1794848931881.png" group-title="Mexico",Pluto TV Cine Navidad
+https://jmp2.uk/plu-5dd6ed41526c77000941411c.m3u8
+#EXTINF:-1 channel-id="5dd6ed41526c77000941411c-ar" tvg-id="5dd6ed41526c77000941411c" tvg-chno="91" tvg-name="Pluto TV Cine Navidad" tvg-logo="https://images.pluto.tv/channels/5dd6ed41526c77000941411c/colorLogoPNG_1794848931881.png" group-title="Argentina",Pluto TV Cine Navidad
+https://jmp2.uk/plu-5dd6ed41526c77000941411c.m3u8
 #EXTINF:-1 channel-id="5f171f988ab9780007fa95ea-br" tvg-id="5f171f988ab9780007fa95ea" tvg-chno="47" tvg-name="Pluto TV Cine Romance" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG_1771344977802.png" group-title="Brazil",Pluto TV Cine Romance
 https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8
 #EXTINF:-1 channel-id="5dd7ea2aeab5230009986735-mx" tvg-id="5dd7ea2aeab5230009986735" tvg-chno="39" tvg-name="Pluto TV Cine Romance" tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" group-title="Mexico",Pluto TV Cine Romance
