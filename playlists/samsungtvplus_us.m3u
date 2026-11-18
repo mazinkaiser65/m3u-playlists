@@ -829,6 +829,8 @@ https://jmp2.uk/stvp-US4400006IX
 https://jmp2.uk/stvp-US4300002FK
 #EXTINF:-1 channel-id="US440000708" tvg-id="US440000708" tvg-chno="1607" tvg-name="Series K Legacy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US440000708_20260421T133652SQUARE.png" group-title="Action & Drama",Series K Legacy
 https://jmp2.uk/stvp-US440000708
+#EXTINF:-1 channel-id="US3600009PP" tvg-id="US3600009PP" tvg-chno="3616" tvg-name="Sesame Street" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3600009PP_20261117T052547SQUARE.png" group-title="Kids",Sesame Street
+https://jmp2.uk/stvp-US3600009PP
 #EXTINF:-1 channel-id="USBC1000004G8" tvg-id="USBC1000004G8" tvg-chno="1560" tvg-name="Shades of Black" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000004G8_20250415T010001SQUARE.png" group-title="Action & Drama",Shades of Black
 https://jmp2.uk/stvp-USBC1000004G8
 #EXTINF:-1 channel-id="USBD1200021JM" tvg-id="USBD1200021JM" tvg-chno="1460" tvg-name="Shout! TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200021JM_20250401T004834SQUARE.png" group-title="Western & Classic TV",Shout! TV
@@ -919,6 +921,8 @@ https://jmp2.uk/stvp-US3900014MX
 https://jmp2.uk/stvp-USBD2700013UK
 #EXTINF:-1 channel-id="USBC600001QL" tvg-id="USBC600001QL" tvg-chno="2442" tvg-name="T2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC600001QL_20260707T035924SQUARE.png" group-title="Sports & Outdoors",T2
 https://jmp2.uk/stvp-USBC600001QL
+#EXTINF:-1 channel-id="US39000221B" tvg-id="US39000221B" tvg-chno="3023" tvg-name="Tales from the Crypt" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000221B_20261117T052553SQUARE.png" group-title="Sci-Fi & Horror",Tales from the Crypt
+https://jmp2.uk/stvp-US39000221B
 #EXTINF:-1 channel-id="USBD7000189R" tvg-id="USBD7000189R" tvg-chno="2120" tvg-name="Tastemade" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD7000189R_20260714T040840SQUARE.png" group-title="Home & Food",Tastemade
 https://jmp2.uk/stvp-USBD7000189R
 #EXTINF:-1 channel-id="USBC3200022W6" tvg-id="USBC3200022W6" tvg-chno="2029" tvg-name="Tastemade Home" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200022W6_20240910T003655SQUARE.png" group-title="Home & Food",Tastemade Home
