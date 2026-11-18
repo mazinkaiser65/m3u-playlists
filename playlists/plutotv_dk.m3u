@@ -329,6 +329,8 @@ https://jmp2.uk/plu-629e095e511d4b00070c9f44.m3u8
 https://jmp2.uk/plu-61c19af83fae0a00078c8918.m3u8
 #EXTINF:-1 channel-id="662b71658dd8160008fc3abf" tvg-id="662b71658dd8160008fc3abf" tvg-chno="105" tvg-name="Paradise Hotel: Under lagnerne" tvg-logo="https://images.pluto.tv/channels/662b71658dd8160008fc3abf/colorLogoPNG.png" group-title="Dansk reality & underholdning",Paradise Hotel: Under lagnerne
 https://jmp2.uk/plu-662b71658dd8160008fc3abf.m3u8
+#EXTINF:-1 channel-id="61c0b6cffb9ae40007d099fe" tvg-id="61c0b6cffb9ae40007d099fe" tvg-chno="991" tvg-name="Paw Patrol" tvg-logo="https://images.pluto.tv/channels/61c0b6cffb9ae40007d099fe/colorLogoPNG.png" group-title="For børn",Paw Patrol
+https://jmp2.uk/plu-61c0b6cffb9ae40007d099fe.m3u8
 #EXTINF:-1 channel-id="61c091343bf4940007803e03" tvg-id="61c091343bf4940007803e03" tvg-chno="516" tvg-name="Pimp My Ride" tvg-logo="https://images.pluto.tv/channels/61c091343bf4940007803e03/colorLogoPNG.png" group-title="Det bedste fra MTV",Pimp My Ride
 https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8
 #EXTINF:-1 channel-id="62790dc1c733e8000733ba4d" tvg-id="62790dc1c733e8000733ba4d" tvg-chno="137" tvg-name="Pixel.tv" tvg-logo="https://images.pluto.tv/channels/62790dc1c733e8000733ba4d/colorLogoPNG.png" group-title="Dansk reality & underholdning",Pixel.tv
@@ -361,7 +363,7 @@ https://jmp2.uk/plu-69f84f38b56fa4a9fe661fd4.m3u8
 https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8
 #EXTINF:-1 channel-id="68dfa431cc3c6cd904053100" tvg-id="68dfa431cc3c6cd904053100" tvg-chno="205" tvg-name="Pluto TV Håndbold Highlights" tvg-logo="https://images.pluto.tv/channels/68dfa431cc3c6cd904053100/colorLogoPNG_1761838112979.png" group-title="Sport",Pluto TV Håndbold Highlights
 https://jmp2.uk/plu-68dfa431cc3c6cd904053100.m3u8
-#EXTINF:-1 channel-id="6618f54baec96800081525ec" tvg-id="6618f54baec96800081525ec" tvg-chno="1" tvg-name="Pluto TV Håndbold Live" tvg-logo="https://images.pluto.tv/channels/6618f54baec96800081525ec/colorLogoPNG_1762173655031.png" group-title="Sport",Pluto TV Håndbold Live
+#EXTINF:-1 channel-id="6618f54baec96800081525ec" tvg-id="6618f54baec96800081525ec" tvg-chno="204" tvg-name="Pluto TV Håndbold Live" tvg-logo="https://images.pluto.tv/channels/6618f54baec96800081525ec/colorLogoPNG_1762173655031.png" group-title="Sport",Pluto TV Håndbold Live
 https://jmp2.uk/plu-6618f54baec96800081525ec.m3u8
 #EXTINF:-1 channel-id="655ca7aa635c3c000855d655" tvg-id="655ca7aa635c3c000855d655" tvg-chno="403" tvg-name="Pluto TV John Wayne" tvg-logo="https://images.pluto.tv/channels/655ca7aa635c3c000855d655/colorLogoPNG.png" group-title="Film",Pluto TV John Wayne
 https://jmp2.uk/plu-655ca7aa635c3c000855d655.m3u8
@@ -525,7 +527,7 @@ https://jmp2.uk/plu-6512ec9f3a0d700008db4f0c.m3u8
 https://jmp2.uk/plu-6964bc3806d76f50db3e315e.m3u8
 #EXTINF:-1 channel-id="61c1a05ef30f5d0007e562f3" tvg-id="61c1a05ef30f5d0007e562f3" tvg-chno="559" tvg-name="Til Middag Hos" tvg-logo="https://images.pluto.tv/channels/61c1a05ef30f5d0007e562f3/colorLogoPNG.png" group-title="Mad & livsstil",Til Middag Hos
 https://jmp2.uk/plu-61c1a05ef30f5d0007e562f3.m3u8
-#EXTINF:-1 channel-id="69256bd7db5cc2f81d8a1a08" tvg-id="69256bd7db5cc2f81d8a1a08" tvg-chno="127" tvg-name="Til julefrokost hos r8Dio" tvg-logo="https://images.pluto.tv/channels/69256bd7db5cc2f81d8a1a08/colorLogoPNG_1764256965972.png" group-title="Dansk reality & underholdning",Til julefrokost hos r8Dio
+#EXTINF:-1 channel-id="69256bd7db5cc2f81d8a1a08" tvg-id="69256bd7db5cc2f81d8a1a08" tvg-chno="51" tvg-name="Til julefrokost hos r8Dio" tvg-logo="https://images.pluto.tv/channels/69256bd7db5cc2f81d8a1a08/colorLogoPNG_1764256965972.png" group-title="Jul på Pluto TV",Til julefrokost hos r8Dio
 https://jmp2.uk/plu-69256bd7db5cc2f81d8a1a08.m3u8
 #EXTINF:-1 channel-id="660d6414635c750008289036" tvg-id="660d6414635c750008289036" tvg-chno="212" tvg-name="Top Gear Challenge" tvg-logo="https://images.pluto.tv/channels/660d6414635c750008289036/colorLogoPNG.png" group-title="Sport",Top Gear Challenge
 https://jmp2.uk/plu-660d6414635c750008289036.m3u8
