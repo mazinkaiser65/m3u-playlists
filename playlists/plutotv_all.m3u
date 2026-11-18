@@ -431,7 +431,7 @@ https://jmp2.uk/plu-5bf48085851dd5632e2f7b4d.m3u8
 https://jmp2.uk/plu-63565d76232dd10007bba40c.m3u8
 #EXTINF:-1 channel-id="6601948129adfd0008a1c0ba-ca" tvg-id="6601948129adfd0008a1c0ba" tvg-chno="510" tvg-name="Crime & Justice" tvg-logo="https://images.pluto.tv/channels/6601948129adfd0008a1c0ba/colorLogoPNG.png" group-title="Canada",Crime & Justice
 https://jmp2.uk/plu-6601948129adfd0008a1c0ba.m3u8
-#EXTINF:-1 channel-id="6ad9015156079f3c4aa1df01-ca" tvg-id="6ad9015156079f3c4aa1df01" tvg-chno="5" tvg-name="Crime 360" tvg-logo="https://images.pluto.tv/channels/6ad9015156079f3c4aa1df01/colorLogoPNG_1793039754317.png" group-title="Canada",Crime 360
+#EXTINF:-1 channel-id="6ad9015156079f3c4aa1df01-ca" tvg-id="6ad9015156079f3c4aa1df01" tvg-chno="6" tvg-name="Crime 360" tvg-logo="https://images.pluto.tv/channels/6ad9015156079f3c4aa1df01/colorLogoPNG_1793039754317.png" group-title="Canada",Crime 360
 https://jmp2.uk/plu-6ad9015156079f3c4aa1df01.m3u8
 #EXTINF:-1 channel-id="6ad79f775db95e3dac2ae44c-us" tvg-id="6ad79f775db95e3dac2ae44c" tvg-chno="1270" tvg-name="Crime Scenes" tvg-logo="https://images.pluto.tv/channels/6ad79f775db95e3dac2ae44c/colorLogoPNG_1793381685424.png" group-title="United States",Crime Scenes
 https://jmp2.uk/plu-6ad79f775db95e3dac2ae44c.m3u8
@@ -979,8 +979,12 @@ https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
 #EXTINF:-1 channel-id="6ad7a4b9e341f17f18906572-us" tvg-id="6ad7a4b9e341f17f18906572" tvg-chno="1007" tvg-name="Nikita" tvg-logo="https://images.pluto.tv/channels/6ad7a4b9e341f17f18906572/colorLogoPNG_1793382979548.png" group-title="United States",Nikita
 https://jmp2.uk/plu-6ad7a4b9e341f17f18906572.m3u8
+#EXTINF:-1 channel-id="6ae9d1faa0c7adad77acf7e4-ca" tvg-id="6ae9d1faa0c7adad77acf7e4" tvg-chno="3" tvg-name="Nikita" tvg-logo="https://images.pluto.tv/channels/6ae9d1faa0c7adad77acf7e4/colorLogoPNG_1793728726459.png" group-title="Canada",Nikita
+https://jmp2.uk/plu-6ae9d1faa0c7adad77acf7e4.m3u8
 #EXTINF:-1 channel-id="6ad7a57b1190f084ae117fe7-us" tvg-id="6ad7a57b1190f084ae117fe7" tvg-chno="1076" tvg-name="Nip/Tuck" tvg-logo="https://images.pluto.tv/channels/6ad7a57b1190f084ae117fe7/colorLogoPNG_1793384293783.png" group-title="United States",Nip/Tuck
 https://jmp2.uk/plu-6ad7a57b1190f084ae117fe7.m3u8
+#EXTINF:-1 channel-id="6ae9d256d2ae5a36b3d3103d-ca" tvg-id="6ae9d256d2ae5a36b3d3103d" tvg-chno="2" tvg-name="Nip/Tuck" tvg-logo="https://images.pluto.tv/channels/6ae9d256d2ae5a36b3d3103d/colorLogoPNG_1793728817640.png" group-title="Canada",Nip/Tuck
+https://jmp2.uk/plu-6ae9d256d2ae5a36b3d3103d.m3u8
 #EXTINF:-1 channel-id="66ff0cf663292d0008320cf8-us" tvg-id="66ff0cf663292d0008320cf8" tvg-chno="3510" tvg-name="No Reservations" tvg-logo="https://images.pluto.tv/channels/66ff0cf663292d0008320cf8/colorLogoPNG.png" group-title="United States",No Reservations
 https://jmp2.uk/plu-66ff0cf663292d0008320cf8.m3u8
 #EXTINF:-1 channel-id="62fb9ade112ca70007d8441d-ca" tvg-id="62fb9ade112ca70007d8441d" tvg-chno="645" tvg-name="Nonstop Drama" tvg-logo="https://images.pluto.tv/channels/62fb9ade112ca70007d8441d/colorLogoPNG.png" group-title="Canada",Nonstop Drama
@@ -1343,7 +1347,7 @@ https://jmp2.uk/plu-5fb584b7613a31000789de5a.m3u8
 https://jmp2.uk/plu-6a8d96aa2cfd341eb5809214.m3u8
 #EXTINF:-1 channel-id="66276091cee0d900085fe053-gb" tvg-id="66276091cee0d900085fe053" tvg-chno="302" tvg-name="Sabrina The Teenage Witch" tvg-logo="https://images.pluto.tv/channels/66276091cee0d900085fe053/colorLogoPNG.png" group-title="United Kingdom",Sabrina The Teenage Witch
 https://jmp2.uk/plu-66276091cee0d900085fe053.m3u8
-#EXTINF:-1 channel-id="6ad7c302365deb3f0242d25b-ca" tvg-id="6ad7c302365deb3f0242d25b" tvg-chno="1" tvg-name="Sabrina the Teenage Witch" tvg-logo="https://images.pluto.tv/channels/6ad7c302365deb3f0242d25b/colorLogoPNG_1792525168637.png" group-title="Canada",Sabrina the Teenage Witch
+#EXTINF:-1 channel-id="6ad7c302365deb3f0242d25b-ca" tvg-id="6ad7c302365deb3f0242d25b" tvg-chno="103" tvg-name="Sabrina the Teenage Witch" tvg-logo="https://images.pluto.tv/channels/6ad7c302365deb3f0242d25b/colorLogoPNG_1792525168637.png" group-title="Canada",Sabrina the Teenage Witch
 https://jmp2.uk/plu-6ad7c302365deb3f0242d25b.m3u8
 #EXTINF:-1 channel-id="637e55347427a40007fac703-us" tvg-id="637e55347427a40007fac703" tvg-chno="4000" tvg-name="Sailor Moon" tvg-logo="https://images.pluto.tv/channels/637e55347427a40007fac703/colorLogoPNG.png" group-title="United States",Sailor Moon
 https://jmp2.uk/plu-637e55347427a40007fac703.m3u8
@@ -1515,9 +1519,11 @@ https://jmp2.uk/plu-62e91384210bec0007ba714c.m3u8
 https://jmp2.uk/plu-66289716039f940008cf20a2.m3u8
 #EXTINF:-1 channel-id="6ad7a739256eee83f133749e-us" tvg-id="6ad7a739256eee83f133749e" tvg-chno="665" tvg-name="The FBI" tvg-logo="https://images.pluto.tv/channels/6ad7a739256eee83f133749e/colorLogoPNG_1793382331182.png" group-title="United States",The FBI
 https://jmp2.uk/plu-6ad7a739256eee83f133749e.m3u8
+#EXTINF:-1 channel-id="6ae9d26e426c6f08411649d3-ca" tvg-id="6ae9d26e426c6f08411649d3" tvg-chno="4" tvg-name="The FBI" tvg-logo="https://images.pluto.tv/channels/6ae9d26e426c6f08411649d3/colorLogoPNG_1793728905372.png" group-title="Canada",The FBI
+https://jmp2.uk/plu-6ae9d26e426c6f08411649d3.m3u8
 #EXTINF:-1 channel-id="5d486acc34ceb37d3c458a64-us" tvg-id="5d486acc34ceb37d3c458a64" tvg-chno="2705" tvg-name="The First" tvg-logo="https://images.pluto.tv/channels/5d486acc34ceb37d3c458a64/colorLogoPNG.png" group-title="United States",The First
 https://jmp2.uk/plu-5d486acc34ceb37d3c458a64.m3u8
-#EXTINF:-1 channel-id="6ad9003ec7dcaeb9825ded70-ca" tvg-id="6ad9003ec7dcaeb9825ded70" tvg-chno="3" tvg-name="The First 48" tvg-logo="https://images.pluto.tv/channels/6ad9003ec7dcaeb9825ded70/colorLogoPNG_1793196362033.png" group-title="Canada",The First 48
+#EXTINF:-1 channel-id="6ad9003ec7dcaeb9825ded70-ca" tvg-id="6ad9003ec7dcaeb9825ded70" tvg-chno="5" tvg-name="The First 48" tvg-logo="https://images.pluto.tv/channels/6ad9003ec7dcaeb9825ded70/colorLogoPNG_1793196362033.png" group-title="Canada",The First 48
 https://jmp2.uk/plu-6ad9003ec7dcaeb9825ded70.m3u8
 #EXTINF:-1 channel-id="6a5e2f0b7ac97ec200c8ab02-gb" tvg-id="6a5e2f0b7ac97ec200c8ab02" tvg-chno="25" tvg-name="The First 48 & Beyond" tvg-logo="https://images.pluto.tv/channels/6a5e2f0b7ac97ec200c8ab02/colorLogoPNG_1785738435655.png" group-title="United Kingdom",The First 48 & Beyond
 https://jmp2.uk/plu-6a5e2f0b7ac97ec200c8ab02.m3u8
@@ -1599,6 +1605,8 @@ https://jmp2.uk/plu-6913e381b6bf26bb6e798c13.m3u8
 https://jmp2.uk/plu-691b023a7613e09a8b209539.m3u8
 #EXTINF:-1 channel-id="6ad7a8411beb399aadd298d3-us" tvg-id="6ad7a8411beb399aadd298d3" tvg-chno="1002" tvg-name="Third Watch" tvg-logo="https://images.pluto.tv/channels/6ad7a8411beb399aadd298d3/colorLogoPNG_1793382689276.png" group-title="United States",Third Watch
 https://jmp2.uk/plu-6ad7a8411beb399aadd298d3.m3u8
+#EXTINF:-1 channel-id="6ae9d288aae217e85689f5e1-ca" tvg-id="6ae9d288aae217e85689f5e1" tvg-chno="1" tvg-name="Third Watch" tvg-logo="https://images.pluto.tv/channels/6ae9d288aae217e85689f5e1/colorLogoPNG_1793728985512.png" group-title="Canada",Third Watch
+https://jmp2.uk/plu-6ae9d288aae217e85689f5e1.m3u8
 #EXTINF:-1 channel-id="5d51e791b7dba3b2ae990ab2-us" tvg-id="5d51e791b7dba3b2ae990ab2" tvg-chno="3320" tvg-name="This Old House" tvg-logo="https://images.pluto.tv/channels/5d51e791b7dba3b2ae990ab2/colorLogoPNG.png" group-title="United States",This Old House
 https://jmp2.uk/plu-5d51e791b7dba3b2ae990ab2.m3u8
 #EXTINF:-1 channel-id="5ef3977e5d773400077de284-us" tvg-id="5ef3977e5d773400077de284" tvg-chno="590" tvg-name="Three's Company" tvg-logo="https://images.pluto.tv/channels/5ef3977e5d773400077de284/colorLogoPNG_1731835807101.png" group-title="United States",Three's Company
@@ -2511,7 +2519,7 @@ https://jmp2.uk/plu-693ae5b792fad2e93412a2c7.m3u8
 https://jmp2.uk/plu-693ae5660eedebc8d5db6579.m3u8
 #EXTINF:-1 channel-id="6601948129adfd0008a1c0ba-cl" tvg-id="6601948129adfd0008a1c0ba" tvg-chno="510" tvg-name="Crime & Justice" tvg-logo="https://images.pluto.tv/channels/6601948129adfd0008a1c0ba/colorLogoPNG.png" group-title="Chile",Crime & Justice
 https://jmp2.uk/plu-6601948129adfd0008a1c0ba.m3u8
-#EXTINF:-1 channel-id="6ad9015156079f3c4aa1df01-cl" tvg-id="6ad9015156079f3c4aa1df01" tvg-chno="5" tvg-name="Crime 360" tvg-logo="https://images.pluto.tv/channels/6ad9015156079f3c4aa1df01/colorLogoPNG_1793039754317.png" group-title="Chile",Crime 360
+#EXTINF:-1 channel-id="6ad9015156079f3c4aa1df01-cl" tvg-id="6ad9015156079f3c4aa1df01" tvg-chno="6" tvg-name="Crime 360" tvg-logo="https://images.pluto.tv/channels/6ad9015156079f3c4aa1df01/colorLogoPNG_1793039754317.png" group-title="Chile",Crime 360
 https://jmp2.uk/plu-6ad9015156079f3c4aa1df01.m3u8
 #EXTINF:-1 channel-id="6578848a6e4f6a0008741910-no" tvg-id="6578848a6e4f6a0008741910" tvg-chno="744" tvg-name="Crime 360" tvg-logo="https://images.pluto.tv/channels/6578848a6e4f6a0008741910/colorLogoPNG.png" group-title="Norway",Crime 360
 https://jmp2.uk/plu-6578848a6e4f6a0008741910.m3u8
@@ -4053,10 +4061,14 @@ https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
 https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
 #EXTINF:-1 channel-id="620ff0a01f9e8700076c6f9d-ar" tvg-id="620ff0a01f9e8700076c6f9d" tvg-chno="1360" tvg-name="Nickelodeon iCarly" tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png" group-title="Argentina",Nickelodeon iCarly
 https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
+#EXTINF:-1 channel-id="6ae9d1faa0c7adad77acf7e4-cl" tvg-id="6ae9d1faa0c7adad77acf7e4" tvg-chno="3" tvg-name="Nikita" tvg-logo="https://images.pluto.tv/channels/6ae9d1faa0c7adad77acf7e4/colorLogoPNG_1793728726459.png" group-title="Chile",Nikita
+https://jmp2.uk/plu-6ae9d1faa0c7adad77acf7e4.m3u8
 #EXTINF:-1 channel-id="692ec6d82329c10c5166f436-fr" tvg-id="692ec6d82329c10c5166f436" tvg-chno="160" tvg-name="Nina" tvg-logo="https://images.pluto.tv/channels/692ec6d82329c10c5166f436/colorLogoPNG_1771598181775.png" group-title="France",Nina
 https://jmp2.uk/plu-692ec6d82329c10c5166f436.m3u8
 #EXTINF:-1 channel-id="691c5b2e74baa89ef7230baf-it" tvg-id="691c5b2e74baa89ef7230baf" tvg-chno="125" tvg-name="Nina" tvg-logo="https://images.pluto.tv/channels/691c5b2e74baa89ef7230baf/colorLogoPNG_1771598155961.png" group-title="Italy",Nina
 https://jmp2.uk/plu-691c5b2e74baa89ef7230baf.m3u8
+#EXTINF:-1 channel-id="6ae9d256d2ae5a36b3d3103d-cl" tvg-id="6ae9d256d2ae5a36b3d3103d" tvg-chno="2" tvg-name="Nip/Tuck" tvg-logo="https://images.pluto.tv/channels/6ae9d256d2ae5a36b3d3103d/colorLogoPNG_1793728817640.png" group-title="Chile",Nip/Tuck
+https://jmp2.uk/plu-6ae9d256d2ae5a36b3d3103d.m3u8
 #EXTINF:-1 channel-id="6a43d3bae0c1a33841302952-es" tvg-id="6a43d3bae0c1a33841302952" tvg-chno="119" tvg-name="Noche y día" tvg-logo="https://images.pluto.tv/channels/6a43d3bae0c1a33841302952/colorLogoPNG_1786017565906.png" group-title="Spain",Noche y día
 https://jmp2.uk/plu-6a43d3bae0c1a33841302952.m3u8
 #EXTINF:-1 channel-id="6728d30cdaad7f000881d979-no" tvg-id="6728d30cdaad7f000881d979" tvg-chno="354" tvg-name="NonStop Kung Fu" tvg-logo="https://images.pluto.tv/channels/6728d30cdaad7f000881d979/colorLogoPNG_1732097480344.png" group-title="Norway",NonStop Kung Fu
@@ -4141,6 +4153,12 @@ https://jmp2.uk/plu-620d12a82e8ac50007c269c3.m3u8
 https://jmp2.uk/plu-63221e41af69b500076f84e7.m3u8
 #EXTINF:-1 channel-id="68b88ae1943f6fb1fb2ad749-br" tvg-id="68b88ae1943f6fb1fb2ad749" tvg-chno="266" tvg-name="Os Smurfs" tvg-logo="https://images.pluto.tv/channels/68b88ae1943f6fb1fb2ad749/colorLogoPNG_1762273919644.png" group-title="Brazil",Os Smurfs
 https://jmp2.uk/plu-68b88ae1943f6fb1fb2ad749.m3u8
+#EXTINF:-1 channel-id="6495c7ad115d060008bf6df0-br" tvg-id="6495c7ad115d060008bf6df0" tvg-chno="1531" tvg-name="PAW Patrol Patrulha Canina" tvg-logo="https://images.pluto.tv/channels/6495c7ad115d060008bf6df0/colorLogoPNG.png" group-title="Brazil",PAW Patrol Patrulha Canina
+https://jmp2.uk/plu-6495c7ad115d060008bf6df0.m3u8
+#EXTINF:-1 channel-id="6495c6ad115d060008bf6b52-mx" tvg-id="6495c6ad115d060008bf6b52" tvg-chno="1400" tvg-name="PAW Patrol Patrulla de Cachorros" tvg-logo="https://images.pluto.tv/channels/6495c6ad115d060008bf6b52/colorLogoPNG_1790867210933.png" group-title="Mexico",PAW Patrol Patrulla de Cachorros
+https://jmp2.uk/plu-6495c6ad115d060008bf6b52.m3u8
+#EXTINF:-1 channel-id="6495c6ad115d060008bf6b52-ar" tvg-id="6495c6ad115d060008bf6b52" tvg-chno="1400" tvg-name="PAW Patrol Patrulla de Cachorros" tvg-logo="https://images.pluto.tv/channels/6495c6ad115d060008bf6b52/colorLogoPNG_1790867210933.png" group-title="Argentina",PAW Patrol Patrulla de Cachorros
+https://jmp2.uk/plu-6495c6ad115d060008bf6b52.m3u8
 #EXTINF:-1 channel-id="64f6180130ab3300083d896b-br" tvg-id="64f6180130ab3300083d896b" tvg-chno="862" tvg-name="PFL MMA" tvg-logo="https://images.pluto.tv/channels/64f6180130ab3300083d896b/colorLogoPNG.png" group-title="Brazil",PFL MMA
 https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
 #EXTINF:-1 channel-id="64f6163a30ab3300083d870e-mx" tvg-id="64f6163a30ab3300083d870e" tvg-chno="862" tvg-name="PFL MMA" tvg-logo="https://images.pluto.tv/channels/64f6163a30ab3300083d870e/colorLogoPNG.png" group-title="Mexico",PFL MMA
@@ -5273,7 +5291,7 @@ https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8
 https://jmp2.uk/plu-65b9268fc798e800085add89.m3u8
 #EXTINF:-1 channel-id="622f40c901d4b70007ad7609-de" tvg-id="622f40c901d4b70007ad7609" tvg-chno="12" tvg-name="Sabrina - Total verhext!" tvg-logo="https://images.pluto.tv/channels/622f40c901d4b70007ad7609/colorLogoPNG.png" group-title="Germany",Sabrina - Total verhext!
 https://jmp2.uk/plu-622f40c901d4b70007ad7609.m3u8
-#EXTINF:-1 channel-id="6ad7c302365deb3f0242d25b-cl" tvg-id="6ad7c302365deb3f0242d25b" tvg-chno="1" tvg-name="Sabrina the Teenage Witch" tvg-logo="https://images.pluto.tv/channels/6ad7c302365deb3f0242d25b/colorLogoPNG_1792525168637.png" group-title="Chile",Sabrina the Teenage Witch
+#EXTINF:-1 channel-id="6ad7c302365deb3f0242d25b-cl" tvg-id="6ad7c302365deb3f0242d25b" tvg-chno="103" tvg-name="Sabrina the Teenage Witch" tvg-logo="https://images.pluto.tv/channels/6ad7c302365deb3f0242d25b/colorLogoPNG_1792525168637.png" group-title="Chile",Sabrina the Teenage Witch
 https://jmp2.uk/plu-6ad7c302365deb3f0242d25b.m3u8
 #EXTINF:-1 channel-id="6512d3c96a84140008513ff5-no" tvg-id="6512d3c96a84140008513ff5" tvg-chno="956" tvg-name="Sabrina the Teenage Witch" tvg-logo="https://images.pluto.tv/channels/6512d3c96a84140008513ff5/colorLogoPNG.png" group-title="Norway",Sabrina the Teenage Witch
 https://jmp2.uk/plu-6512d3c96a84140008513ff5.m3u8
@@ -5771,7 +5789,9 @@ https://jmp2.uk/plu-65c096d23ba51e0008305a75.m3u8
 https://jmp2.uk/plu-62e91384210bec0007ba714c.m3u8
 #EXTINF:-1 channel-id="66289716039f940008cf20a2-cl" tvg-id="66289716039f940008cf20a2" tvg-chno="765" tvg-name="The Dog Whisperer with Caesar Millan" tvg-logo="https://images.pluto.tv/channels/66289716039f940008cf20a2/colorLogoPNG.png" group-title="Chile",The Dog Whisperer with Caesar Millan
 https://jmp2.uk/plu-66289716039f940008cf20a2.m3u8
-#EXTINF:-1 channel-id="6ad9003ec7dcaeb9825ded70-cl" tvg-id="6ad9003ec7dcaeb9825ded70" tvg-chno="3" tvg-name="The First 48" tvg-logo="https://images.pluto.tv/channels/6ad9003ec7dcaeb9825ded70/colorLogoPNG_1793196362033.png" group-title="Chile",The First 48
+#EXTINF:-1 channel-id="6ae9d26e426c6f08411649d3-cl" tvg-id="6ae9d26e426c6f08411649d3" tvg-chno="4" tvg-name="The FBI" tvg-logo="https://images.pluto.tv/channels/6ae9d26e426c6f08411649d3/colorLogoPNG_1793728905372.png" group-title="Chile",The FBI
+https://jmp2.uk/plu-6ae9d26e426c6f08411649d3.m3u8
+#EXTINF:-1 channel-id="6ad9003ec7dcaeb9825ded70-cl" tvg-id="6ad9003ec7dcaeb9825ded70" tvg-chno="5" tvg-name="The First 48" tvg-logo="https://images.pluto.tv/channels/6ad9003ec7dcaeb9825ded70/colorLogoPNG_1793196362033.png" group-title="Chile",The First 48
 https://jmp2.uk/plu-6ad9003ec7dcaeb9825ded70.m3u8
 #EXTINF:-1 channel-id="66166ce7aec96800080f6bd3-cl" tvg-id="66166ce7aec96800080f6bd3" tvg-chno="945" tvg-name="The Graham Norton Show" tvg-logo="https://images.pluto.tv/channels/66166ce7aec96800080f6bd3/colorLogoPNG.png" group-title="Chile",The Graham Norton Show
 https://jmp2.uk/plu-66166ce7aec96800080f6bd3.m3u8
@@ -5879,6 +5899,8 @@ https://jmp2.uk/plu-6964bcf9ae33e24d911d7e1c.m3u8
 https://jmp2.uk/plu-6964bc3806d76f50db3e315e.m3u8
 #EXTINF:-1 channel-id="691b023a7613e09a8b209539-cl" tvg-id="691b023a7613e09a8b209539" tvg-chno="550" tvg-name="The X-Files" tvg-logo="https://images.pluto.tv/channels/691b023a7613e09a8b209539/colorLogoPNG_1767288050074.png" group-title="Chile",The X-Files
 https://jmp2.uk/plu-691b023a7613e09a8b209539.m3u8
+#EXTINF:-1 channel-id="6ae9d288aae217e85689f5e1-cl" tvg-id="6ae9d288aae217e85689f5e1" tvg-chno="1" tvg-name="Third Watch" tvg-logo="https://images.pluto.tv/channels/6ae9d288aae217e85689f5e1/colorLogoPNG_1793728985512.png" group-title="Chile",Third Watch
+https://jmp2.uk/plu-6ae9d288aae217e85689f5e1.m3u8
 #EXTINF:-1 channel-id="64ca723a2bc49300081a8966-cl" tvg-id="64ca723a2bc49300081a8966" tvg-chno="230" tvg-name="Three's Company" tvg-logo="https://images.pluto.tv/channels/64ca723a2bc49300081a8966/colorLogoPNG.png" group-title="Chile",Three's Company
 https://jmp2.uk/plu-64ca723a2bc49300081a8966.m3u8
 #EXTINF:-1 channel-id="62fb6da41afad500077e9178-cl" tvg-id="62fb6da41afad500077e9178" tvg-chno="85" tvg-name="Thrillers 365" tvg-logo="https://images.pluto.tv/channels/62fb6da41afad500077e9178/colorLogoPNG.png" group-title="Chile",Thrillers 365
