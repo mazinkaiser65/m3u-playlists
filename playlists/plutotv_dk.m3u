@@ -97,8 +97,6 @@ https://jmp2.uk/plu-65d7239066eec8000881e293.m3u8
 https://jmp2.uk/plu-61c0989431084d0007eab12d.m3u8
 #EXTINF:-1 channel-id="6641fd41b18d700008e7e2b8" tvg-id="6641fd41b18d700008e7e2b8" tvg-chno="1048" tvg-name="Comedy Central Roast" tvg-logo="https://images.pluto.tv/channels/6641fd41b18d700008e7e2b8/colorLogoPNG.png" group-title="Humor",Comedy Central Roast
 https://jmp2.uk/plu-6641fd41b18d700008e7e2b8.m3u8
-#EXTINF:-1 channel-id="693ae5660eedebc8d5db6579" tvg-id="693ae5660eedebc8d5db6579" tvg-chno="1052" tvg-name="Crazy Ex-Girlfriend" tvg-logo="https://images.pluto.tv/channels/693ae5660eedebc8d5db6579/colorLogoPNG_1770039249880.png" group-title="Humor",Crazy Ex-Girlfriend
-https://jmp2.uk/plu-693ae5660eedebc8d5db6579.m3u8
 #EXTINF:-1 channel-id="657880c46e4f6a00087404d0" tvg-id="657880c46e4f6a00087404d0" tvg-chno="871" tvg-name="Crime 360" tvg-logo="https://images.pluto.tv/channels/657880c46e4f6a00087404d0/colorLogoPNG.png" group-title="True Crime",Crime 360
 https://jmp2.uk/plu-657880c46e4f6a00087404d0.m3u8
 #EXTINF:-1 channel-id="6426a821a3ade7000800031c" tvg-id="6426a821a3ade7000800031c" tvg-chno="859" tvg-name="Crime Scene Solvers" tvg-logo="https://images.pluto.tv/channels/6426a821a3ade7000800031c/colorLogoPNG.png" group-title="True Crime",Crime Scene Solvers
@@ -363,7 +361,7 @@ https://jmp2.uk/plu-69f84f38b56fa4a9fe661fd4.m3u8
 https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8
 #EXTINF:-1 channel-id="68dfa431cc3c6cd904053100" tvg-id="68dfa431cc3c6cd904053100" tvg-chno="205" tvg-name="Pluto TV Håndbold Highlights" tvg-logo="https://images.pluto.tv/channels/68dfa431cc3c6cd904053100/colorLogoPNG_1761838112979.png" group-title="Sport",Pluto TV Håndbold Highlights
 https://jmp2.uk/plu-68dfa431cc3c6cd904053100.m3u8
-#EXTINF:-1 channel-id="6618f54baec96800081525ec" tvg-id="6618f54baec96800081525ec" tvg-chno="204" tvg-name="Pluto TV Håndbold Live" tvg-logo="https://images.pluto.tv/channels/6618f54baec96800081525ec/colorLogoPNG_1762173655031.png" group-title="Sport",Pluto TV Håndbold Live
+#EXTINF:-1 channel-id="6618f54baec96800081525ec" tvg-id="6618f54baec96800081525ec" tvg-chno="1" tvg-name="Pluto TV Håndbold Live" tvg-logo="https://images.pluto.tv/channels/6618f54baec96800081525ec/colorLogoPNG_1762173655031.png" group-title="Sport",Pluto TV Håndbold Live
 https://jmp2.uk/plu-6618f54baec96800081525ec.m3u8
 #EXTINF:-1 channel-id="655ca7aa635c3c000855d655" tvg-id="655ca7aa635c3c000855d655" tvg-chno="403" tvg-name="Pluto TV John Wayne" tvg-logo="https://images.pluto.tv/channels/655ca7aa635c3c000855d655/colorLogoPNG.png" group-title="Film",Pluto TV John Wayne
 https://jmp2.uk/plu-655ca7aa635c3c000855d655.m3u8
